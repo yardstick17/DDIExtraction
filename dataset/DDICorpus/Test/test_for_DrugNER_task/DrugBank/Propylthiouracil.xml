@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d664">
+    <sentence id="DDI-DrugBank.d664.s0" text="May increase the effect of oral blood thinners, for example warfarin (Coumadin). ">
+        <entity id="DDI-DrugBank.d664.s0.e0" charOffset="32-45"
+            type="group" text="blood thinners"/>
+        <entity id="DDI-DrugBank.d664.s0.e1" charOffset="60-67"
+            type="drug" text="warfarin"/>
+        <entity id="DDI-DrugBank.d664.s0.e2" charOffset="70-77"
+            type="brand" text="Coumadin"/>
+        <pair id="DDI-DrugBank.d664.s0.p0" e1="DDI-DrugBank.d664.s0.e0"
+            e2="DDI-DrugBank.d664.s0.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d664.s0.p1" e1="DDI-DrugBank.d664.s0.e0"
+            e2="DDI-DrugBank.d664.s0.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d664.s0.p2" e1="DDI-DrugBank.d664.s0.e1"
+            e2="DDI-DrugBank.d664.s0.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d664.s1" text="Therefore, warfarin dose changes and monitoring for the effects of warfarin on blood clotting are necessary.">
+        <entity id="DDI-DrugBank.d664.s1.e0" charOffset="11-18"
+            type="drug" text="warfarin"/>
+        <entity id="DDI-DrugBank.d664.s1.e1" charOffset="67-74"
+            type="drug" text="warfarin"/>
+        <pair id="DDI-DrugBank.d664.s1.p0" e1="DDI-DrugBank.d664.s1.e0"
+            e2="DDI-DrugBank.d664.s1.e1" ddi="false"/>
+    </sentence>
+</document>

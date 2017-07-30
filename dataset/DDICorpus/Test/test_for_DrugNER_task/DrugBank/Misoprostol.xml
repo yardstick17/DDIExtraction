@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d733">
+    <sentence id="DDI-DrugBank.d733.s0" text="Misoprostol has not been shown to interfere with the beneficial effects of aspirin on signs and symptoms of rheumatoid arthritis. ">
+        <entity id="DDI-DrugBank.d733.s0.e0" charOffset="0-10"
+            type="drug" text="Misoprostol"/>
+        <entity id="DDI-DrugBank.d733.s0.e1" charOffset="75-81"
+            type="brand" text="aspirin"/>
+        <pair id="DDI-DrugBank.d733.s0.p0" e1="DDI-DrugBank.d733.s0.e0"
+            e2="DDI-DrugBank.d733.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d733.s1" text="Misoprostol does not exert clinically significant effects on the absorption, blood levels, and anti-platelet effects of therapeutic doses of aspirin. ">
+        <entity id="DDI-DrugBank.d733.s1.e0" charOffset="0-10"
+            type="drug" text="Misoprostol"/>
+        <entity id="DDI-DrugBank.d733.s1.e1" charOffset="141-147"
+            type="brand" text="aspirin"/>
+        <pair id="DDI-DrugBank.d733.s1.p0" e1="DDI-DrugBank.d733.s1.e0"
+            e2="DDI-DrugBank.d733.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d733.s2" text="Misoprostol has no clinically significant effect on the kinetics of diclofenac or ibuprofen.">
+        <entity id="DDI-DrugBank.d733.s2.e0" charOffset="0-10"
+            type="drug" text="Misoprostol"/>
+        <entity id="DDI-DrugBank.d733.s2.e1" charOffset="68-77"
+            type="drug" text="diclofenac"/>
+        <entity id="DDI-DrugBank.d733.s2.e2" charOffset="82-90"
+            type="drug" text="ibuprofen"/>
+        <pair id="DDI-DrugBank.d733.s2.p0" e1="DDI-DrugBank.d733.s2.e0"
+            e2="DDI-DrugBank.d733.s2.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d733.s2.p1" e1="DDI-DrugBank.d733.s2.e0"
+            e2="DDI-DrugBank.d733.s2.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d733.s2.p2" e1="DDI-DrugBank.d733.s2.e1"
+            e2="DDI-DrugBank.d733.s2.e2" ddi="false"/>
+    </sentence>
+</document>

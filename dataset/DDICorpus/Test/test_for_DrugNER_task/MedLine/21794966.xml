@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d207">
+    <sentence id="DDI-MedLine.d207.s0" text="Approach to the evaluation of a patient with an increased serum osmolal gap and high-anion-gap metabolic acidosis.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d207.s1" text="An increase in serum osmolality and serum osmolal gap with or without high-anion-gap metabolic acidosis is an important clue to exposure to one of the toxic alcohols, which include methanol, ethylene glycol, diethylene glycol, propylene glycol, or isopropanol. ">
+        <entity id="DDI-MedLine.d207.s1.e0" charOffset="181-188"
+            type="drug_n" text="methanol"/>
+        <entity id="DDI-MedLine.d207.s1.e1" charOffset="191-205"
+            type="drug_n" text="ethylene glycol"/>
+        <entity id="DDI-MedLine.d207.s1.e2" charOffset="208-224"
+            type="drug_n" text="diethylene glycol"/>
+        <entity id="DDI-MedLine.d207.s1.e3" charOffset="227-242"
+            type="drug_n" text="propylene glycol"/>
+        <entity id="DDI-MedLine.d207.s1.e4" charOffset="248-258"
+            type="drug" text="isopropanol"/>
+        <pair id="DDI-MedLine.d207.s1.p0" e1="DDI-MedLine.d207.s1.e0"
+            e2="DDI-MedLine.d207.s1.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p1" e1="DDI-MedLine.d207.s1.e0"
+            e2="DDI-MedLine.d207.s1.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p2" e1="DDI-MedLine.d207.s1.e0"
+            e2="DDI-MedLine.d207.s1.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p3" e1="DDI-MedLine.d207.s1.e0"
+            e2="DDI-MedLine.d207.s1.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p4" e1="DDI-MedLine.d207.s1.e1"
+            e2="DDI-MedLine.d207.s1.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p5" e1="DDI-MedLine.d207.s1.e1"
+            e2="DDI-MedLine.d207.s1.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p6" e1="DDI-MedLine.d207.s1.e1"
+            e2="DDI-MedLine.d207.s1.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p7" e1="DDI-MedLine.d207.s1.e2"
+            e2="DDI-MedLine.d207.s1.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p8" e1="DDI-MedLine.d207.s1.e2"
+            e2="DDI-MedLine.d207.s1.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d207.s1.p9" e1="DDI-MedLine.d207.s1.e3"
+            e2="DDI-MedLine.d207.s1.e4" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d207.s2" text="However, the increase in serum osmolal gap and metabolic acidosis can occur either together or alone depending on several factors, including baseline serum osmolal gap, molecular weight of the alcohol, and stage of metabolism of the alcohol. "/>
+    <sentence id="DDI-MedLine.d207.s3" text="In addition, other disorders, including diabetic or alcoholic ketoacidosis, acute kidney injury, chronic kidney disease, and lactic acidosis, can cause high-anion-gap metabolic acidosis associated with an increased serum osmolal gap and therefore should be explored in the differential diagnosis. "/>
+    <sentence id="DDI-MedLine.d207.s4" text="It is essential for clinicians to understand the value and limitations of osmolal gap to assist in reaching the correct diagnosis and initiating appropriate treatment. "/>
+    <sentence id="DDI-MedLine.d207.s5" text="In this teaching case, we present a systematic approach to diagnosing high serum osmolality and increased serum osmolal gap with or without high-anion-gap metabolic acidosis."/>
+</document>

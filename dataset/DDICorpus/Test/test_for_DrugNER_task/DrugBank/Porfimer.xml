@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d614">
+    <sentence id="DDI-DrugBank.d614.s0" text="There have been no formal interaction studies of PHOTOFRIN    and any other drugs. ">
+        <entity id="DDI-DrugBank.d614.s0.e0" charOffset="49-57"
+            type="brand" text="PHOTOFRIN"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d614.s1" text="However, it is possible that concomitant use of other photosensitizing agents (e.g., tetracyclines, sulfonamides, phenothiazines, sulfonylurea hypoglycemia agents, thiazide diuretics, and griseofulvin) could increase the photosensitivity reaction. ">
+        <entity id="DDI-DrugBank.d614.s1.e0" charOffset="54-76"
+            type="group" text="photosensitizing agents"/>
+        <entity id="DDI-DrugBank.d614.s1.e1" charOffset="85-97"
+            type="group" text="tetracyclines"/>
+        <entity id="DDI-DrugBank.d614.s1.e2" charOffset="100-111"
+            type="group" text="sulfonamides"/>
+        <entity id="DDI-DrugBank.d614.s1.e3" charOffset="114-127"
+            type="group" text="phenothiazines"/>
+        <entity id="DDI-DrugBank.d614.s1.e4" charOffset="130-141"
+            type="group" text="sulfonylurea"/>
+        <entity id="DDI-DrugBank.d614.s1.e5" charOffset="164-181"
+            type="group" text="thiazide diuretics"/>
+        <entity id="DDI-DrugBank.d614.s1.e6" charOffset="188-199"
+            type="drug" text="griseofulvin"/>
+        <pair id="DDI-DrugBank.d614.s1.p0" e1="DDI-DrugBank.d614.s1.e0"
+            e2="DDI-DrugBank.d614.s1.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p1" e1="DDI-DrugBank.d614.s1.e0"
+            e2="DDI-DrugBank.d614.s1.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p2" e1="DDI-DrugBank.d614.s1.e0"
+            e2="DDI-DrugBank.d614.s1.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p3" e1="DDI-DrugBank.d614.s1.e0"
+            e2="DDI-DrugBank.d614.s1.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p4" e1="DDI-DrugBank.d614.s1.e0"
+            e2="DDI-DrugBank.d614.s1.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p5" e1="DDI-DrugBank.d614.s1.e0"
+            e2="DDI-DrugBank.d614.s1.e6" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p6" e1="DDI-DrugBank.d614.s1.e1"
+            e2="DDI-DrugBank.d614.s1.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p7" e1="DDI-DrugBank.d614.s1.e1"
+            e2="DDI-DrugBank.d614.s1.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p8" e1="DDI-DrugBank.d614.s1.e1"
+            e2="DDI-DrugBank.d614.s1.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p9" e1="DDI-DrugBank.d614.s1.e1"
+            e2="DDI-DrugBank.d614.s1.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p10" e1="DDI-DrugBank.d614.s1.e1"
+            e2="DDI-DrugBank.d614.s1.e6" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p11" e1="DDI-DrugBank.d614.s1.e2"
+            e2="DDI-DrugBank.d614.s1.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p12" e1="DDI-DrugBank.d614.s1.e2"
+            e2="DDI-DrugBank.d614.s1.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p13" e1="DDI-DrugBank.d614.s1.e2"
+            e2="DDI-DrugBank.d614.s1.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p14" e1="DDI-DrugBank.d614.s1.e2"
+            e2="DDI-DrugBank.d614.s1.e6" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p15" e1="DDI-DrugBank.d614.s1.e3"
+            e2="DDI-DrugBank.d614.s1.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p16" e1="DDI-DrugBank.d614.s1.e3"
+            e2="DDI-DrugBank.d614.s1.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p17" e1="DDI-DrugBank.d614.s1.e3"
+            e2="DDI-DrugBank.d614.s1.e6" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p18" e1="DDI-DrugBank.d614.s1.e4"
+            e2="DDI-DrugBank.d614.s1.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p19" e1="DDI-DrugBank.d614.s1.e4"
+            e2="DDI-DrugBank.d614.s1.e6" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s1.p20" e1="DDI-DrugBank.d614.s1.e5"
+            e2="DDI-DrugBank.d614.s1.e6" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d614.s2" text="PHOTOFRIN    PDT causes direct intracellular damage by initiating radical chain reactions that damage intracellular membranes and mitochondria. ">
+        <entity id="DDI-DrugBank.d614.s2.e0" charOffset="0-8"
+            type="brand" text="PHOTOFRIN"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d614.s3" text="Tissue damage also results from ischemia secondary to vasoconstriction, platelet activation and aggregation and clotting. "/>
+    <sentence id="DDI-DrugBank.d614.s4" text="Research in animals and in cell culture has suggested that many drugs could influence the effects of PDT, possible examples of which are described below. "/>
+    <sentence id="DDI-DrugBank.d614.s5" text="There are no human data that support or rebut these possibilities. "/>
+    <sentence id="DDI-DrugBank.d614.s6" text="Compounds that quench active oxygen species or scavenge radicals, such as dimethyl sufloxide, b-carotene, ethanol, formate and mannitol would be expected to decrease PDT activity. ">
+        <entity id="DDI-DrugBank.d614.s6.e0" charOffset="74-91"
+            type="drug_n" text="dimethyl sufloxide"/>
+        <entity id="DDI-DrugBank.d614.s6.e1" charOffset="94-103"
+            type="drug" text="b-carotene"/>
+        <entity id="DDI-DrugBank.d614.s6.e2" charOffset="106-112"
+            type="drug" text="ethanol"/>
+        <entity id="DDI-DrugBank.d614.s6.e3" charOffset="115-121"
+            type="drug_n" text="formate"/>
+        <entity id="DDI-DrugBank.d614.s6.e4" charOffset="127-134"
+            type="drug" text="mannitol"/>
+        <pair id="DDI-DrugBank.d614.s6.p0" e1="DDI-DrugBank.d614.s6.e0"
+            e2="DDI-DrugBank.d614.s6.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s6.p1" e1="DDI-DrugBank.d614.s6.e0"
+            e2="DDI-DrugBank.d614.s6.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s6.p2" e1="DDI-DrugBank.d614.s6.e0"
+            e2="DDI-DrugBank.d614.s6.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s6.p3" e1="DDI-DrugBank.d614.s6.e0"
+            e2="DDI-DrugBank.d614.s6.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s6.p4" e1="DDI-DrugBank.d614.s6.e1"
+            e2="DDI-DrugBank.d614.s6.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s6.p5" e1="DDI-DrugBank.d614.s6.e1"
+            e2="DDI-DrugBank.d614.s6.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s6.p6" e1="DDI-DrugBank.d614.s6.e1"
+            e2="DDI-DrugBank.d614.s6.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s6.p7" e1="DDI-DrugBank.d614.s6.e2"
+            e2="DDI-DrugBank.d614.s6.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s6.p8" e1="DDI-DrugBank.d614.s6.e2"
+            e2="DDI-DrugBank.d614.s6.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d614.s6.p9" e1="DDI-DrugBank.d614.s6.e3"
+            e2="DDI-DrugBank.d614.s6.e4" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d614.s7" text="Preclinical data also suggest that tissue ischemia, allopurinol, calcium channel blockers and some prostaglandin synthesis inhibitors could interfere with PHOTOFRIN    PDT. ">
+        <entity id="DDI-DrugBank.d614.s7.e0" charOffset="52-62"
+            type="drug" text="allopurinol"/>
+        <entity id="DDI-DrugBank.d614.s7.e1" charOffset="65-88"
+            type="group" text="calcium channel blockers"/>
+        <pair id="DDI-DrugBank.d614.s7.p0" e1="DDI-DrugBank.d614.s7.e0"
+            e2="DDI-DrugBank.d614.s7.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d614.s8" text="Drugs that decrease clotting, vasoconstriction or platelet aggregation, e.g., thromboxane A2 inhibitors, could decrease the efficacy of PDT. "/>
+    <sentence id="DDI-DrugBank.d614.s9" text="Glucocorticoid hormones given before or concomitant with PDT may decrease the efficacy of the treatment.">
+        <entity id="DDI-DrugBank.d614.s9.e0" charOffset="0-13"
+            type="group" text="Glucocorticoid"/>
+    </sentence>
+</document>

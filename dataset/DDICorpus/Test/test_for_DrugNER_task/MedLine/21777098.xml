@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d224">
+    <sentence id="DDI-MedLine.d224.s0" text="The influence of chemical activation on tooth bleaching using 10% carbamide peroxide.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d224.s0.e0" charOffset="66-83"
+            type="drug_n" text="carbamide peroxide"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d224.s1" text="The aim of this study was to assess the influence of manganese gluconate, a chemical activator of bleaching agents, at a concentration of 0.01% on the efficiency of a 10% carbamide peroxide-based bleaching agent. ">
+        <entity id="DDI-MedLine.d224.s1.e0" charOffset="53-71"
+            type="drug_n" text="manganese gluconate"/>
+        <entity id="DDI-MedLine.d224.s1.e1" charOffset="171-188"
+            type="drug_n" text="carbamide peroxide"/>
+        <pair id="DDI-MedLine.d224.s1.p0" e1="DDI-MedLine.d224.s1.e0"
+            e2="DDI-MedLine.d224.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d224.s2" text="Forty bovine incisors were immersed in a 25% instant coffee solution for seven days and randomly divided into two groups. "/>
+    <sentence id="DDI-MedLine.d224.s3" text="Group 1 was the control group and consisted of 10% carbamide peroxide-based bleaching gel only. ">
+        <entity id="DDI-MedLine.d224.s3.e0" charOffset="51-68"
+            type="drug_n" text="carbamide peroxide"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d224.s4" text="Group 2 consisted of 10% carbamide peroxide-based bleaching gel and 0.01% manganese gluconate. ">
+        <entity id="DDI-MedLine.d224.s4.e0" charOffset="25-42"
+            type="drug_n" text="carbamide peroxide"/>
+        <entity id="DDI-MedLine.d224.s4.e1" charOffset="74-92"
+            type="drug_n" text="manganese gluconate"/>
+        <pair id="DDI-MedLine.d224.s4.p0" e1="DDI-MedLine.d224.s4.e0"
+            e2="DDI-MedLine.d224.s4.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d224.s5" text="Three readings of color were taken using the Vita Easyshade spectrophotometer: the initial reading, a reading at seven days, and a reading at 14 days. "/>
+    <sentence id="DDI-MedLine.d224.s6" text="Total color variation was calculated by   E*Lab. "/>
+    <sentence id="DDI-MedLine.d224.s7" text="Data were submitted to the statistical t-test (5%), which showed that after seven days group 2 had a significant increase in the degree of tooth bleaching compared with group 1. "/>
+    <sentence id="DDI-MedLine.d224.s8" text="The mean values (  SD) were 16.33 (  3.95) for group 1 and 19.29 (  4.97) for group 2. "/>
+    <sentence id="DDI-MedLine.d224.s9" text="However, the results for group 1 and group 2 were similar after 14 days. "/>
+    <sentence id="DDI-MedLine.d224.s10" text="Adding 0.01% manganese gluconate to 10% carbamide peroxide bleaching gel increased the degree of tooth bleaching after a seven-day treatment and did not influence the resulting shade after 14 days.">
+        <entity id="DDI-MedLine.d224.s10.e0" charOffset="13-31"
+            type="drug_n" text="manganese gluconate"/>
+        <entity id="DDI-MedLine.d224.s10.e1" charOffset="40-57"
+            type="drug_n" text="carbamide peroxide"/>
+        <pair id="DDI-MedLine.d224.s10.p0" e1="DDI-MedLine.d224.s10.e0"
+            e2="DDI-MedLine.d224.s10.e1" ddi="false"/>
+    </sentence>
+</document>

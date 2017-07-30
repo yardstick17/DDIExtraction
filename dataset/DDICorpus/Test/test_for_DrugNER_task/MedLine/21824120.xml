@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d203">
+    <sentence id="DDI-MedLine.d203.s0" text="Potential underuse, overuse, and inappropriate use of antidepressants in older veteran nursing home residents.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d203.s0.e0" charOffset="54-68"
+            type="group" text="antidepressants"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s1" text="To examine prevalence and resident- and site-level factors associated with potential underuse, overuse, and inappropriate use of antidepressants in older Veterans Affairs (VA) Community Living Center (CLC) residents.">
+        <entity id="DDI-MedLine.d203.s1.e0" charOffset="129-143"
+            type="group" text="antidepressants"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s2" text="Longitudinal study. "/>
+    <sentence id="DDI-MedLine.d203.s3" text="One hundred thirty-three VA CLCs. "/>
+    <sentence id="DDI-MedLine.d203.s4" text="Three thousand six hundred ninety-two veterans aged 65 and older admitted between January 1, 2004, and June 3, 2005, with long stays (    90 days). "/>
+    <sentence id="DDI-MedLine.d203.s5" text="Prevalence of potential underuse, inappropriate use, and overuse of antidepressants in residents with and without depression (as documented according to International Classification of Diseases, Ninth Revision, Clinical Modification, codes or Depression Rating Scale). ">
+        <entity id="DDI-MedLine.d203.s5.e0" charOffset="68-82"
+            type="group" text="antidepressants"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s6" text="Selective serotonin reuptake inhibitors were the most commonly prescribed antidepressant. ">
+        <entity id="DDI-MedLine.d203.s6.e0" charOffset="0-38"
+            type="group" text="Selective serotonin reuptake inhibitors"/>
+        <entity id="DDI-MedLine.d203.s6.e1" charOffset="74-87"
+            type="group" text="antidepressant"/>
+        <pair id="DDI-MedLine.d203.s6.p0" e1="DDI-MedLine.d203.s6.e0"
+            e2="DDI-MedLine.d203.s6.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s7" text="Of the 877 residents with depression, 25.4% did not receive an antidepressant, suggesting potential underuse. ">
+        <entity id="DDI-MedLine.d203.s7.e0" charOffset="63-76"
+            type="group" text="antidepressant"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s8" text="Of residents with depression who received antidepressants, 57.5% had potential inappropriate use due primarily to problems seen with drug-drug and drug-disease interactions. ">
+        <entity id="DDI-MedLine.d203.s8.e0" charOffset="42-56"
+            type="group" text="antidepressants"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s9" text="Of the 2,815 residents who did not have depression, 1,190 (42.3%) were prescribed one or more antidepressants; ">
+        <entity id="DDI-MedLine.d203.s9.e0" charOffset="94-108"
+            type="group" text="antidepressants"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s10" text="only 48 (4.0%) of these had a Food and Drug Administration-approved labeled indication, suggesting potential overuse. "/>
+    <sentence id="DDI-MedLine.d203.s11" text="Overall, only 17.6% of antidepressant use was appropriate (324/1,844). ">
+        <entity id="DDI-MedLine.d203.s11.e0" charOffset="23-36"
+            type="group" text="antidepressant"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s12" text="The only consistent resident factor associated with potential underuse and overuse use was taking an antipsychotic without evidence of schizophrenia (underuse: adjusted relative risk ratio (ARRR)=0.56, 95% confidence interval (CI)=0.33-0.94; overuse: adjusted odds ratio=1.52, 95% CI=1.21-1.91). ">
+        <entity id="DDI-MedLine.d203.s12.e0" charOffset="101-113"
+            type="group" text="antipsychotic"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s13" text="Having moderate to severe pain (ARRR=1.54, 95% CI=1.08-2.20) and the prescribing of an anxiolytic or hypnotic (ARRR=1.33, 95% CI=1.02-1.74) increased the risk of potential inappropriate antidepressant use. ">
+        <entity id="DDI-MedLine.d203.s13.e0" charOffset="87-96"
+            type="group" text="anxiolytic"/>
+        <entity id="DDI-MedLine.d203.s13.e1" charOffset="101-108"
+            type="group" text="hypnotic"/>
+        <entity id="DDI-MedLine.d203.s13.e2" charOffset="186-199"
+            type="group" text="antidepressant"/>
+        <pair id="DDI-MedLine.d203.s13.p0" e1="DDI-MedLine.d203.s13.e0"
+            e2="DDI-MedLine.d203.s13.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d203.s13.p1" e1="DDI-MedLine.d203.s13.e0"
+            e2="DDI-MedLine.d203.s13.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d203.s13.p2" e1="DDI-MedLine.d203.s13.e1"
+            e2="DDI-MedLine.d203.s13.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s14" text="Potential problems with the use of antidepressants were frequently observed in older U.S. ">
+        <entity id="DDI-MedLine.d203.s14.e0" charOffset="35-49"
+            type="group" text="antidepressants"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d203.s15" text="veteran CLC residents. "/>
+    <sentence id="DDI-MedLine.d203.s16" text="Future studies are needed to examine the true risks and benefits of antidepressant use in CLC and non-VA nursing homes.">
+        <entity id="DDI-MedLine.d203.s16.e0" charOffset="68-81"
+            type="group" text="antidepressant"/>
+    </sentence>
+</document>

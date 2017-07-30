@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d230">
+    <sentence id="DDI-MedLine.d230.s0" text="Effects of neferine on the pharmacokinetics of amiodarone in rats.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d230.s0.e0" charOffset="11-18"
+            type="drug_n" text="neferine"/>
+        <entity id="DDI-MedLine.d230.s0.e1" charOffset="47-56"
+            type="drug" text="amiodarone"/>
+        <pair id="DDI-MedLine.d230.s0.p0" e1="DDI-MedLine.d230.s0.e0"
+            e2="DDI-MedLine.d230.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d230.s1" text="Amiodarone, an iodinated benzofuran derivative with predominantly class III anti-arrhythmic effects, is used to treat supraventricular and ventricular arrhythmias. ">
+        <entity id="DDI-MedLine.d230.s1.e0" charOffset="0-9" type="drug" text="Amiodarone"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d230.s2" text="The purpose of this study was to assess the potential of neferine, an effective anti-pulmonary fibrosis drug isolated from the embryo of Nelumbo nucifera Gaertner's seeds, to alter the pharmacokinetic profile of amiodarone. ">
+        <entity id="DDI-MedLine.d230.s2.e0" charOffset="57-64"
+            type="drug_n" text="neferine"/>
+        <entity id="DDI-MedLine.d230.s2.e1" charOffset="212-221"
+            type="drug" text="amiodarone"/>
+        <pair id="DDI-MedLine.d230.s2.p0" e1="DDI-MedLine.d230.s2.e0"
+            e2="DDI-MedLine.d230.s2.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d230.s3" text="Experimental Sprague-Dawley rats were randomly divided into two groups. "/>
+    <sentence id="DDI-MedLine.d230.s4" text="In groups 1 and 2, amiodarone was given to rats by intragastric and intravenous administration, respectively, while neferine was co-administratered by intragastric administration. ">
+        <entity id="DDI-MedLine.d230.s4.e0" charOffset="19-28"
+            type="drug" text="amiodarone"/>
+        <entity id="DDI-MedLine.d230.s4.e1" charOffset="116-123"
+            type="drug_n" text="neferine"/>
+        <pair id="DDI-MedLine.d230.s4.p0" e1="DDI-MedLine.d230.s4.e0"
+            e2="DDI-MedLine.d230.s4.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d230.s5" text="Blood samples were collected from the orbital venous plexus at indicated time points and were analyzed for amiodarone concentration using RP-HPLC. ">
+        <entity id="DDI-MedLine.d230.s5.e0" charOffset="107-116"
+            type="drug" text="amiodarone"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d230.s6" text="The geometric mean ratio for C(max) and AUC(0-96) was calculated. "/>
+    <sentence id="DDI-MedLine.d230.s7" text="There were no significant differences between the pharmacokinetics parameters of amiodarone administered intravenously or intragastrically and the control (without neferine) group (with ratios of 0.7-1.4 in all experimental groups), suggesting that neferine had no effect on amiodarone plasma pharmacokinetics. ">
+        <entity id="DDI-MedLine.d230.s7.e0" charOffset="81-90"
+            type="drug" text="amiodarone"/>
+        <entity id="DDI-MedLine.d230.s7.e1" charOffset="164-171"
+            type="drug_n" text="neferine"/>
+        <entity id="DDI-MedLine.d230.s7.e2" charOffset="249-256"
+            type="drug_n" text="neferine"/>
+        <entity id="DDI-MedLine.d230.s7.e3" charOffset="275-284"
+            type="drug" text="amiodarone"/>
+        <pair id="DDI-MedLine.d230.s7.p0" e1="DDI-MedLine.d230.s7.e0"
+            e2="DDI-MedLine.d230.s7.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d230.s7.p1" e1="DDI-MedLine.d230.s7.e0"
+            e2="DDI-MedLine.d230.s7.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d230.s7.p2" e1="DDI-MedLine.d230.s7.e0"
+            e2="DDI-MedLine.d230.s7.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d230.s7.p3" e1="DDI-MedLine.d230.s7.e1"
+            e2="DDI-MedLine.d230.s7.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d230.s7.p4" e1="DDI-MedLine.d230.s7.e1"
+            e2="DDI-MedLine.d230.s7.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d230.s7.p5" e1="DDI-MedLine.d230.s7.e2"
+            e2="DDI-MedLine.d230.s7.e3" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d230.s8" text="The dosage regimen of amiodarone does not need to be taken into consideration when combined with neferine.">
+        <entity id="DDI-MedLine.d230.s8.e0" charOffset="22-31"
+            type="drug" text="amiodarone"/>
+        <entity id="DDI-MedLine.d230.s8.e1" charOffset="97-104"
+            type="drug_n" text="neferine"/>
+        <pair id="DDI-MedLine.d230.s8.p0" e1="DDI-MedLine.d230.s8.e0"
+            e2="DDI-MedLine.d230.s8.e1" ddi="false"/>
+    </sentence>
+</document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d705">
+    <sentence id="DDI-DrugBank.d705.s0" text="Telbivudine is excreted mainly by passive diffusion so the potential for interactions between telbivudine and other drugs eliminated by renal excretion is low. ">
+        <entity id="DDI-DrugBank.d705.s0.e0" charOffset="0-10"
+            type="drug" text="Telbivudine"/>
+        <entity id="DDI-DrugBank.d705.s0.e1" charOffset="94-104"
+            type="drug" text="telbivudine"/>
+        <pair id="DDI-DrugBank.d705.s0.p0" e1="DDI-DrugBank.d705.s0.e0"
+            e2="DDI-DrugBank.d705.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d705.s1" text="However, because telbivudine is eliminated primarily by renal excretion, co   administration of telbivudine with drugs that alter renal function may alter plasma concentrations of telbivudine.">
+        <entity id="DDI-DrugBank.d705.s1.e0" charOffset="17-27"
+            type="drug" text="telbivudine"/>
+        <entity id="DDI-DrugBank.d705.s1.e1" charOffset="96-106"
+            type="drug" text="telbivudine"/>
+        <entity id="DDI-DrugBank.d705.s1.e2" charOffset="180-190"
+            type="drug" text="telbivudine"/>
+        <pair id="DDI-DrugBank.d705.s1.p0" e1="DDI-DrugBank.d705.s1.e0"
+            e2="DDI-DrugBank.d705.s1.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d705.s1.p1" e1="DDI-DrugBank.d705.s1.e0"
+            e2="DDI-DrugBank.d705.s1.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d705.s1.p2" e1="DDI-DrugBank.d705.s1.e1"
+            e2="DDI-DrugBank.d705.s1.e2" ddi="false"/>
+    </sentence>
+</document>

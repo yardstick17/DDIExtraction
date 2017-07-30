@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d183">
+    <sentence id="DDI-MedLine.d183.s0" text="Neuropharmacological approach against MPTP (1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine)-induced mouse model of Parkinson's disease.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d183.s0.e0" charOffset="38-41"
+            type="drug_n" text="MPTP"/>
+        <entity id="DDI-MedLine.d183.s0.e1" charOffset="44-88"
+            type="drug_n" text="1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine"/>
+        <pair id="DDI-MedLine.d183.s0.p0" e1="DDI-MedLine.d183.s0.e0"
+            e2="DDI-MedLine.d183.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d183.s1" text="Parkinson's disease (PD) is a common neurodegenerative disease that appears essentially as a sporadic condition. "/>
+    <sentence id="DDI-MedLine.d183.s2" text="PD is well known to be a chronic and progressive neurodegenerative disease produced by a selective degeneration of dopaminergic neurons in the substantia nigra pars compacta. "/>
+    <sentence id="DDI-MedLine.d183.s3" text="The main clinical features of PD include tremor, bradykinesia, rigidity and postural instability. "/>
+    <sentence id="DDI-MedLine.d183.s4" text="Most insights into pathogenesis of PD come from investigations performed in experimental models of PD, especially those produced by neurotoxins. "/>
+    <sentence id="DDI-MedLine.d183.s5" text="The biochemical and cellular alterations that occur after 1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP) treatment are remarkably similar to that observed in idiopathic PD. ">
+        <entity id="DDI-MedLine.d183.s5.e0" charOffset="58-102"
+            type="drug_n" text="1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine"/>
+        <entity id="DDI-MedLine.d183.s5.e1" charOffset="105-108"
+            type="drug_n" text="MPTP"/>
+        <pair id="DDI-MedLine.d183.s5.p0" e1="DDI-MedLine.d183.s5.e0"
+            e2="DDI-MedLine.d183.s5.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d183.s6" text="Furthermore, it is well known that acute treatment with MPTP can cause a severe loss of tyrosine hydroxylase and dopamine transporter protein levels and dopamine contents in the striatum of mice, as compared to continuous MPTP treatment. ">
+        <entity id="DDI-MedLine.d183.s6.e0" charOffset="56-59"
+            type="drug_n" text="MPTP"/>
+        <entity id="DDI-MedLine.d183.s6.e1" charOffset="222-225"
+            type="drug_n" text="MPTP"/>
+        <pair id="DDI-MedLine.d183.s6.p0" e1="DDI-MedLine.d183.s6.e0"
+            e2="DDI-MedLine.d183.s6.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d183.s7" text="Thus these findings may support the validity of acute MPTP treatment model for unraveling in the neurodegenerative processes in PD. ">
+        <entity id="DDI-MedLine.d183.s7.e0" charOffset="54-57"
+            type="drug_n" text="MPTP"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d183.s8" text="In this review, we discuss the neuroprotective effects of various compounds against neuronal cell loss in an MPTP model of PD. ">
+        <entity id="DDI-MedLine.d183.s8.e0" charOffset="109-112"
+            type="drug_n" text="MPTP"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d183.s9" text="This review may lead to a much better understanding of PD as well as provide novel clues to new targets for therapeutic interventions in PD patients."/>
+</document>

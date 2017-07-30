@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d646">
+    <sentence id="DDI-DrugBank.d646.s0" text="Drug-Drug Interactions Although in vitro studies demonstrated the potential of rifaximin to interact with cytochrome P450 3A4 (CYP3A4), a clinical drug-drug interaction study demonstrated that rifaximin did not significantly affect the pharmacokinetics of midazolam either presystemically or systemically. ">
+        <entity id="DDI-DrugBank.d646.s0.e0" charOffset="79-87"
+            type="drug" text="rifaximin"/>
+        <entity id="DDI-DrugBank.d646.s0.e1" charOffset="193-201"
+            type="drug" text="rifaximin"/>
+        <entity id="DDI-DrugBank.d646.s0.e2" charOffset="256-264"
+            type="drug" text="midazolam"/>
+        <pair id="DDI-DrugBank.d646.s0.p0" e1="DDI-DrugBank.d646.s0.e0"
+            e2="DDI-DrugBank.d646.s0.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d646.s0.p1" e1="DDI-DrugBank.d646.s0.e0"
+            e2="DDI-DrugBank.d646.s0.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d646.s0.p2" e1="DDI-DrugBank.d646.s0.e1"
+            e2="DDI-DrugBank.d646.s0.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d646.s1" text="An additional clinical drug-drug interaction study showed no effect of rifaximin on the presystemic metabolism of an oral contraceptive containing ethinyl estradiol and norgestimate. ">
+        <entity id="DDI-DrugBank.d646.s1.e0" charOffset="71-79"
+            type="drug" text="rifaximin"/>
+        <entity id="DDI-DrugBank.d646.s1.e1" charOffset="122-134"
+            type="group" text="contraceptive"/>
+        <entity id="DDI-DrugBank.d646.s1.e2" charOffset="147-163"
+            type="drug" text="ethinyl estradiol"/>
+        <entity id="DDI-DrugBank.d646.s1.e3" charOffset="169-180"
+            type="drug" text="norgestimate"/>
+        <pair id="DDI-DrugBank.d646.s1.p0" e1="DDI-DrugBank.d646.s1.e0"
+            e2="DDI-DrugBank.d646.s1.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d646.s1.p1" e1="DDI-DrugBank.d646.s1.e0"
+            e2="DDI-DrugBank.d646.s1.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d646.s1.p2" e1="DDI-DrugBank.d646.s1.e0"
+            e2="DDI-DrugBank.d646.s1.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d646.s1.p3" e1="DDI-DrugBank.d646.s1.e1"
+            e2="DDI-DrugBank.d646.s1.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d646.s1.p4" e1="DDI-DrugBank.d646.s1.e1"
+            e2="DDI-DrugBank.d646.s1.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d646.s1.p5" e1="DDI-DrugBank.d646.s1.e2"
+            e2="DDI-DrugBank.d646.s1.e3" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d646.s2" text="Therefore, clinical interactions with drugs metabolized by human cytochrome P450 isoenzymes are not expected.    "/>
+</document>

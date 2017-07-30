@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d724">
+    <sentence id="DDI-DrugBank.d724.s0" text="No formal drug interaction studies have been conducted with Infergen. ">
+        <entity id="DDI-DrugBank.d724.s0.e0" charOffset="60-67"
+            type="brand" text="Infergen"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d724.s1" text="Infergen should be used cautiously in patients who are receiving agents that are known to cause myelosuppression or with agents known to be metabolized via the cytochrome P-450 pathway.9 Patients taking drugs that are metabolized by this pathway should be monitored closely for changes in the therapeutic and/or toxic levels of concomitant drugs.">
+        <entity id="DDI-DrugBank.d724.s1.e0" charOffset="0-7"
+            type="brand" text="Infergen"/>
+    </sentence>
+</document>

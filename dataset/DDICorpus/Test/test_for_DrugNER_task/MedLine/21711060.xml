@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d205">
+    <sentence id="DDI-MedLine.d205.s0" text="Tuberculosis and HIV co-infection: screening and treatment strategies.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d205.s1" text="Globally, tuberculosis (TB) and HIV interact in deadly synergy. "/>
+    <sentence id="DDI-MedLine.d205.s2" text="The high burden of TB among HIV-infected individuals underlies the importance of TB diagnosis, treatment and prevention for clinicians involved in HIV care. "/>
+    <sentence id="DDI-MedLine.d205.s3" text="Despite expanding access to antiretroviral therapy (ART) to treat HIV infection in resource-limited settings, many individuals in need of therapy initiate ART too late and have already developed clinically significant TB by the time they present for care. ">
+        <entity id="DDI-MedLine.d205.s3.e0" charOffset="28-41"
+            type="group" text="antiretroviral"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d205.s4" text="Many co-infected individuals are in need of concurrent ART and anti-TB therapy, which dramatically improves survival, but also raises several management challenges, including drug interactions, shared drug toxicities and TB immune reconstitution inflammatory syndrome (IRIS). "/>
+    <sentence id="DDI-MedLine.d205.s5" text="Due to the survival benefits of promptly initiating ART among all HIV-infected individuals, including those with TB, it is recommended that co-infected individuals receive treatment for both diseases, regardless of CD4+ cell count. "/>
+    <sentence id="DDI-MedLine.d205.s6" text="We review current screening and treatment strategies for TB and HIV co-infection. "/>
+    <sentence id="DDI-MedLine.d205.s7" text="Recent findings and ongoing studies will assist clinicians in managing the prevention and treatment of TB and HIV co-infection, which remains a major global health challenge."/>
+</document>

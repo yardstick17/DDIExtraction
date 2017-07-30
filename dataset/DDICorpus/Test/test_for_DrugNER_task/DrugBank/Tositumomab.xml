@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d685">
+    <sentence id="DDI-DrugBank.d685.s0" text="No formal drug interaction studies have been performed. "/>
+    <sentence id="DDI-DrugBank.d685.s1" text="Due to the frequent occurrence of severe and prolonged thrombocytopenia, the potential benefits of medications that interfere with platelet function and/or anticoagulation should be weighed against the potential increased risk of bleeding and hemorrhage. "/>
+    <sentence id="DDI-DrugBank.d685.s2" text="Drug/Laboratory Test Interactions Administration of the BEXXAR therapeutic regimen may result in the development of human anti-murine antibodies (HAMA). ">
+        <entity id="DDI-DrugBank.d685.s2.e0" charOffset="56-61"
+            type="brand" text="BEXXAR"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d685.s3" text="The presence of HAMA may affect the accuracy of the results of in vitro and in vivo diagnostic tests and may affect the toxicity profile and efficacy of therapeutic agents that rely on murine antibody technology. "/>
+    <sentence id="DDI-DrugBank.d685.s4" text="Patients who are HAMA positive may be at increased risk for serious allergic reactions and other side effects if they undergo in vivo diagnostic testing or treatment with murine monoclonal antibodies.">
+        <entity id="DDI-DrugBank.d685.s4.e0" charOffset="171-198"
+            type="group" text="murine monoclonal antibodies"/>
+    </sentence>
+</document>

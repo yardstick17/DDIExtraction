@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d175">
+    <sentence id="DDI-MedLine.d175.s0" text="Unrecognized fatalities related to colchicine in hospitalized patients.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d175.s0.e0" charOffset="35-44"
+            type="drug" text="colchicine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s1" text="Colchicine is commonly used for the treatment of gout and occasionally for other inflammatory diseases. ">
+        <entity id="DDI-MedLine.d175.s1.e0" charOffset="0-9" type="drug" text="Colchicine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s2" text="It has a narrow therapeutic index and the potential for severe or fatal toxicity."/>
+    <sentence id="DDI-MedLine.d175.s3" text="We sought to determine (1) the frequency of colchicine toxicity among hospitalized patients taking colchicine who died during an admission, (2) the likelihood that colchicine contributed to death, (3) whether patients were taking interacting medications that could have contributed to toxicity, and (4) whether colchicine dosing among these patients adhered to established guidelines. ">
+        <entity id="DDI-MedLine.d175.s3.e0" charOffset="44-53"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d175.s3.e1" charOffset="99-108"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d175.s3.e2" charOffset="164-173"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d175.s3.e3" charOffset="311-320"
+            type="drug" text="colchicine"/>
+        <pair id="DDI-MedLine.d175.s3.p0" e1="DDI-MedLine.d175.s3.e0"
+            e2="DDI-MedLine.d175.s3.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d175.s3.p1" e1="DDI-MedLine.d175.s3.e0"
+            e2="DDI-MedLine.d175.s3.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d175.s3.p2" e1="DDI-MedLine.d175.s3.e0"
+            e2="DDI-MedLine.d175.s3.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d175.s3.p3" e1="DDI-MedLine.d175.s3.e1"
+            e2="DDI-MedLine.d175.s3.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d175.s3.p4" e1="DDI-MedLine.d175.s3.e1"
+            e2="DDI-MedLine.d175.s3.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d175.s3.p5" e1="DDI-MedLine.d175.s3.e2"
+            e2="DDI-MedLine.d175.s3.e3" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s4" text="We conducted an IRB-approved, retrospective chart review at an urban, tertiary care, 1228-bed, university hospital. "/>
+    <sentence id="DDI-MedLine.d175.s5" text="Subjects included hospitalized patients who received colchicine and died in hospital between 1 January 2000 and 28 February 2007. ">
+        <entity id="DDI-MedLine.d175.s5.e0" charOffset="53-62"
+            type="drug" text="colchicine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s6" text="We reviewed charts for signs and symptoms of colchicine toxicity. ">
+        <entity id="DDI-MedLine.d175.s6.e0" charOffset="45-54"
+            type="drug" text="colchicine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s7" text="An expert panel reviewed each case and classified the likelihood of colchicine toxicity, the likelihood of a causal role of colchicine in the death using the WHO classification system, and the appropriateness of colchicine dosing. ">
+        <entity id="DDI-MedLine.d175.s7.e0" charOffset="68-77"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d175.s7.e1" charOffset="124-133"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d175.s7.e2" charOffset="212-221"
+            type="drug" text="colchicine"/>
+        <pair id="DDI-MedLine.d175.s7.p0" e1="DDI-MedLine.d175.s7.e0"
+            e2="DDI-MedLine.d175.s7.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d175.s7.p1" e1="DDI-MedLine.d175.s7.e0"
+            e2="DDI-MedLine.d175.s7.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d175.s7.p2" e1="DDI-MedLine.d175.s7.e1"
+            e2="DDI-MedLine.d175.s7.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s8" text="Thirty-seven hospitalized patients who died during the 86-month study period received colchicine. ">
+        <entity id="DDI-MedLine.d175.s8.e0" charOffset="86-95"
+            type="drug" text="colchicine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s9" text="Toxicity was unlikely in 20/37, possible in 8/37, likely in 5/37, and certain in 4/37. "/>
+    <sentence id="DDI-MedLine.d175.s10" text="A contributing role for colchicine in causing death was unlikely in 24/37, possible in 7/37, likely in 3/37, and certain in 3/37. ">
+        <entity id="DDI-MedLine.d175.s10.e0" charOffset="24-33"
+            type="drug" text="colchicine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s11" text="Colchicine doses (based on creatinine clearance) exceeded the accepted range for 12 patients, including 10 of 17 cases of toxicity and 8 of 13 cases of death classified as possible or higher. ">
+        <entity id="DDI-MedLine.d175.s11.e0" charOffset="0-9"
+            type="drug" text="Colchicine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s12" text="Seventeen patients received interacting medications, including 8 of 17 cases of toxicity and 8 of 13 cases of death classified as possible or higher. "/>
+    <sentence id="DDI-MedLine.d175.s13" text="Colchicine toxicity was frequent in this cohort and may have contributed to about one-third of the deaths. ">
+        <entity id="DDI-MedLine.d175.s13.e0" charOffset="0-9"
+            type="drug" text="Colchicine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d175.s14" text="Inappropriate dosing of colchicine occurred frequently and was related to toxicity and death.">
+        <entity id="DDI-MedLine.d175.s14.e0" charOffset="24-33"
+            type="drug" text="colchicine"/>
+    </sentence>
+</document>

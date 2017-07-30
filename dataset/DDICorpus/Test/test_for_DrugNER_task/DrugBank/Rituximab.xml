@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d731">
+    <sentence id="DDI-DrugBank.d731.s0" text="Drug/Laboratory Interactions: There have been no formal drug interaction studies performed with RITUXAN. ">
+        <entity id="DDI-DrugBank.d731.s0.e0" charOffset="96-102"
+            type="brand" text="RITUXAN"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d731.s1" text="However, renal toxicity was seen with this drug in combination with cisplatin in clinical trials.">
+        <entity id="DDI-DrugBank.d731.s1.e0" charOffset="68-76"
+            type="drug" text="cisplatin"/>
+    </sentence>
+</document>

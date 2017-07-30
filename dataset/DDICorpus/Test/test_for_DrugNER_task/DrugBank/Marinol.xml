@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d657">
+    <sentence id="DDI-DrugBank.d657.s0" text="Interactions for Dronabinol:  In studies involving patients with AIDS and/or cancer, MARINOL (Dronabinol) Capsules has been co-administered with a variety of medications (e.g., cytotoxic agents, anti-infective agents, sedatives, or opioid analgesics) without resulting in any clinically significant drug/drug interactions. ">
+        <entity id="DDI-DrugBank.d657.s0.e0" charOffset="17-26"
+            type="drug" text="Dronabinol"/>
+        <entity id="DDI-DrugBank.d657.s0.e1" charOffset="85-91"
+            type="brand" text="MARINOL"/>
+        <entity id="DDI-DrugBank.d657.s0.e2" charOffset="94-103"
+            type="drug" text="Dronabinol"/>
+        <entity id="DDI-DrugBank.d657.s0.e3" charOffset="195-208"
+            type="drug" text="anti-infective"/>
+        <entity id="DDI-DrugBank.d657.s0.e4" charOffset="218-226"
+            type="group" text="sedatives"/>
+        <entity id="DDI-DrugBank.d657.s0.e5" charOffset="232-248"
+            type="group" text="opioid analgesics"/>
+        <pair id="DDI-DrugBank.d657.s0.p0" e1="DDI-DrugBank.d657.s0.e0"
+            e2="DDI-DrugBank.d657.s0.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d657.s0.p1" e1="DDI-DrugBank.d657.s0.e0"
+            e2="DDI-DrugBank.d657.s0.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d657.s0.p2" e1="DDI-DrugBank.d657.s0.e0"
+            e2="DDI-DrugBank.d657.s0.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d657.s0.p3" e1="DDI-DrugBank.d657.s0.e0"
+            e2="DDI-DrugBank.d657.s0.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d657.s0.p4" e1="DDI-DrugBank.d657.s0.e0"
+            e2="DDI-DrugBank.d657.s0.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d657.s0.p5" e1="DDI-DrugBank.d657.s0.e1"
+            e2="DDI-DrugBank.d657.s0.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d657.s0.p6" e1="DDI-DrugBank.d657.s0.e1"
+            e2="DDI-DrugBank.d657.s0.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d657.s0.p7" e1="DDI-DrugBank.d657.s0.e1"
+            e2="DDI-DrugBank.d657.s0.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d657.s0.p8" e1="DDI-DrugBank.d657.s0.e1"
+            e2="DDI-DrugBank.d657.s0.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d657.s0.p9" e1="DDI-DrugBank.d657.s0.e2"
+            e2="DDI-DrugBank.d657.s0.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d657.s0.p10" e1="DDI-DrugBank.d657.s0.e2"
+            e2="DDI-DrugBank.d657.s0.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d657.s0.p11" e1="DDI-DrugBank.d657.s0.e2"
+            e2="DDI-DrugBank.d657.s0.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d657.s0.p12" e1="DDI-DrugBank.d657.s0.e3"
+            e2="DDI-DrugBank.d657.s0.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d657.s0.p13" e1="DDI-DrugBank.d657.s0.e3"
+            e2="DDI-DrugBank.d657.s0.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d657.s0.p14" e1="DDI-DrugBank.d657.s0.e4"
+            e2="DDI-DrugBank.d657.s0.e5" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d657.s1" text="Although no drug/drug interactions were discovered during the clinical trials of MARINOL Capsules, cannabinoids may interact with other medications through both metabolic and pharmacodynamic mechanisms. ">
+        <entity id="DDI-DrugBank.d657.s1.e0" charOffset="81-87"
+            type="brand" text="MARINOL"/>
+        <entity id="DDI-DrugBank.d657.s1.e1" charOffset="99-110"
+            type="group" text="cannabinoids"/>
+        <pair id="DDI-DrugBank.d657.s1.p0" e1="DDI-DrugBank.d657.s1.e0"
+            e2="DDI-DrugBank.d657.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d657.s2" text="Dronabinol is highly protein bound to plasma proteins, and therefore, might displace other protein-bound drugs. ">
+        <entity id="DDI-DrugBank.d657.s2.e0" charOffset="0-9"
+            type="drug" text="Dronabinol"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d657.s3" text="Although this displacement has not been confirmed in vivo, practitioners should monitor patients for a change in dosage requirements when administering dronabinol to patients receiving other highly protein-bound drugs.">
+        <entity id="DDI-DrugBank.d657.s3.e0" charOffset="152-161"
+            type="drug" text="dronabinol"/>
+    </sentence>
+</document>

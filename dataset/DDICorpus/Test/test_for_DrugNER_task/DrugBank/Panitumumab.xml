@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d708">
+    <sentence id="DDI-DrugBank.d708.s0" text="No formal drug-drug interaction studies have been conducted with Vectibix.">
+        <entity id="DDI-DrugBank.d708.s0.e0" charOffset="65-72"
+            type="brand" text="Vectibix"/>
+    </sentence>
+</document>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d772">
+    <sentence id="DDI-DrugBank.d772.s0" text="TERAZOL 7 Vaginal Cream 0.4% and TERAZOL 3 Vaginal Suppositories 80 mg The therapeutic effect of these products is not affected by oral contraceptive usage. ">
+        <entity id="DDI-DrugBank.d772.s0.e0" charOffset="0-6"
+            type="brand" text="TERAZOL"/>
+        <entity id="DDI-DrugBank.d772.s0.e1" charOffset="33-39"
+            type="brand" text="TERAZOL"/>
+        <entity id="DDI-DrugBank.d772.s0.e2" charOffset="136-148"
+            type="group" text="contraceptive"/>
+        <pair id="DDI-DrugBank.d772.s0.p0" e1="DDI-DrugBank.d772.s0.e0"
+            e2="DDI-DrugBank.d772.s0.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d772.s0.p1" e1="DDI-DrugBank.d772.s0.e0"
+            e2="DDI-DrugBank.d772.s0.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d772.s0.p2" e1="DDI-DrugBank.d772.s0.e1"
+            e2="DDI-DrugBank.d772.s0.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d772.s1" text="TERAZOL 3 Vaginal Cream 0.8% The levels of estradiol (E2) and progesterone did not differ significantly when 0.8% terconazole vaginal cream was administered to healthy female volunteers established on a low dose oral contraceptive.    ">
+        <entity id="DDI-DrugBank.d772.s1.e0" charOffset="0-6"
+            type="brand" text="TERAZOL"/>
+        <entity id="DDI-DrugBank.d772.s1.e1" charOffset="43-51"
+            type="drug" text="estradiol"/>
+        <entity id="DDI-DrugBank.d772.s1.e2" charOffset="62-73"
+            type="drug" text="progesterone"/>
+        <entity id="DDI-DrugBank.d772.s1.e3" charOffset="114-124"
+            type="drug" text="terconazole"/>
+        <entity id="DDI-DrugBank.d772.s1.e4" charOffset="217-229"
+            type="group" text="contraceptive"/>
+        <pair id="DDI-DrugBank.d772.s1.p0" e1="DDI-DrugBank.d772.s1.e0"
+            e2="DDI-DrugBank.d772.s1.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d772.s1.p1" e1="DDI-DrugBank.d772.s1.e0"
+            e2="DDI-DrugBank.d772.s1.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d772.s1.p2" e1="DDI-DrugBank.d772.s1.e0"
+            e2="DDI-DrugBank.d772.s1.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d772.s1.p3" e1="DDI-DrugBank.d772.s1.e0"
+            e2="DDI-DrugBank.d772.s1.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d772.s1.p4" e1="DDI-DrugBank.d772.s1.e1"
+            e2="DDI-DrugBank.d772.s1.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d772.s1.p5" e1="DDI-DrugBank.d772.s1.e1"
+            e2="DDI-DrugBank.d772.s1.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d772.s1.p6" e1="DDI-DrugBank.d772.s1.e1"
+            e2="DDI-DrugBank.d772.s1.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d772.s1.p7" e1="DDI-DrugBank.d772.s1.e2"
+            e2="DDI-DrugBank.d772.s1.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d772.s1.p8" e1="DDI-DrugBank.d772.s1.e2"
+            e2="DDI-DrugBank.d772.s1.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d772.s1.p9" e1="DDI-DrugBank.d772.s1.e3"
+            e2="DDI-DrugBank.d772.s1.e4" ddi="false"/>
+    </sentence>
+</document>

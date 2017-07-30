@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d145">
+    <sentence id="DDI-MedLine.d145.s0" text="IGF1R-targeted therapy and its enhancement of doxorubicin chemosensitivity in human osteosarcoma cell lines.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d145.s0.e0" charOffset="46-56"
+            type="drug" text="doxorubicin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d145.s1" text="Type-I insulin-like growth factor receptor (IGF1R) and its signaling play an important role in osteosarcomagenesis, tumor progression, and chemoresistance. "/>
+    <sentence id="DDI-MedLine.d145.s2" text="The purpose of this study was to investigate both the effect and mechanisms of IGF1R inhibition by tyrphostin AG1024 in the presence or absence of doxorubicin in a panel of six osteosarcoma cell lines and a self-established doxorubicin-resistant cell line. ">
+        <entity id="DDI-MedLine.d145.s2.e0" charOffset="99-115"
+            type="drug_n" text="tyrphostin AG1024"/>
+        <entity id="DDI-MedLine.d145.s2.e1" charOffset="147-157"
+            type="drug" text="doxorubicin"/>
+        <entity id="DDI-MedLine.d145.s2.e2" charOffset="224-234"
+            type="drug" text="doxorubicin"/>
+        <pair id="DDI-MedLine.d145.s2.p0" e1="DDI-MedLine.d145.s2.e0"
+            e2="DDI-MedLine.d145.s2.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d145.s2.p1" e1="DDI-MedLine.d145.s2.e0"
+            e2="DDI-MedLine.d145.s2.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d145.s2.p2" e1="DDI-MedLine.d145.s2.e1"
+            e2="DDI-MedLine.d145.s2.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d145.s3" text="We are the first to indicate that targeting IGF1R together with doxorubicin achieved additive anti-osteosarcoma growth effect, accompanied with increased apoptosis, cytotoxicity, and dual cell cycle arrests. ">
+        <entity id="DDI-MedLine.d145.s3.e0" charOffset="64-74"
+            type="drug" text="doxorubicin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d145.s4" text="In conclusion, IGF1R inhibition can enhance doxorubicin chemotherapy in some osteosarcoma cell lines.">
+        <entity id="DDI-MedLine.d145.s4.e0" charOffset="44-54"
+            type="drug" text="doxorubicin"/>
+    </sentence>
+</document>

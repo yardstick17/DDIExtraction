@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d707">
+    <sentence id="DDI-DrugBank.d707.s0" text="Concomitant administration of a loop diuretic had no effect on the calcium-lowering action of Aredia. ">
+        <entity id="DDI-DrugBank.d707.s0.e0" charOffset="32-44"
+            type="group" text="loop diuretic"/>
+        <entity id="DDI-DrugBank.d707.s0.e1" charOffset="94-99"
+            type="brand" text="Aredia"/>
+        <pair id="DDI-DrugBank.d707.s0.p0" e1="DDI-DrugBank.d707.s0.e0"
+            e2="DDI-DrugBank.d707.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d707.s1" text="Caution is indicated when Aredia is used with other potentially nephrotoxic drugs. ">
+        <entity id="DDI-DrugBank.d707.s1.e0" charOffset="26-31"
+            type="brand" text="Aredia"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d707.s2" text="Also see CLINICAL PHARMACOLOGY"/>
+</document>

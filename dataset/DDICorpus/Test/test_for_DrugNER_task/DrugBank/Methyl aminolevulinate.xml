@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d764">
+    <sentence id="DDI-DrugBank.d764.s0" text="There have been no studies of the interaction of methyl aminolevulinate cream with any other drugs, including local anesthetics. ">
+        <entity id="DDI-DrugBank.d764.s0.e0" charOffset="49-70"
+            type="drug" text="methyl aminolevulinate"/>
+        <entity id="DDI-DrugBank.d764.s0.e1" charOffset="116-126"
+            type="group" text="anesthetics"/>
+        <pair id="DDI-DrugBank.d764.s0.p0" e1="DDI-DrugBank.d764.s0.e0"
+            e2="DDI-DrugBank.d764.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d764.s1" text="It is possible that concomitant use of other known photosensitizing agents might increase the photosensitivity reaction of actinic keratoses treated with methyl aminolevulinate cream.">
+        <entity id="DDI-DrugBank.d764.s1.e0" charOffset="154-175"
+            type="drug" text="methyl aminolevulinate"/>
+    </sentence>
+</document>

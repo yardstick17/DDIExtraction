@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d206">
+    <sentence id="DDI-MedLine.d206.s0" text="Evaluation of antidepressant like activity of curcumin and its combination with fluoxetine and imipramine: an acute and chronic study.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d206.s0.e0" charOffset="46-53"
+            type="drug_n" text="curcumin"/>
+        <entity id="DDI-MedLine.d206.s0.e1" charOffset="80-89"
+            type="drug" text="fluoxetine"/>
+        <entity id="DDI-MedLine.d206.s0.e2" charOffset="95-104"
+            type="drug" text="imipramine"/>
+        <pair id="DDI-MedLine.d206.s0.p0" e1="DDI-MedLine.d206.s0.e0"
+            e2="DDI-MedLine.d206.s0.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s0.p1" e1="DDI-MedLine.d206.s0.e0"
+            e2="DDI-MedLine.d206.s0.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s0.p2" e1="DDI-MedLine.d206.s0.e1"
+            e2="DDI-MedLine.d206.s0.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d206.s1" text="Curcumin is the active ingredient of commonly used spice Curuma longa Linn. ">
+        <entity id="DDI-MedLine.d206.s1.e0" charOffset="0-7"
+            type="drug_n" text="Curcumin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d206.s2" text="In the present study, the antidepressant like activity of curcumin and its combination with fluoxetine and imipramine was studied in acute model (three doses 24, 5 and 1 h before test) of forced swimming test (FST) in glass jar and tail suspension test (TST) in mice and in chronic model (14 day study) of FST with water wheel in rats. ">
+        <entity id="DDI-MedLine.d206.s2.e0" charOffset="58-65"
+            type="drug_n" text="curcumin"/>
+        <entity id="DDI-MedLine.d206.s2.e1" charOffset="92-101"
+            type="drug" text="fluoxetine"/>
+        <entity id="DDI-MedLine.d206.s2.e2" charOffset="107-116"
+            type="drug" text="imipramine"/>
+        <pair id="DDI-MedLine.d206.s2.p0" e1="DDI-MedLine.d206.s2.e0"
+            e2="DDI-MedLine.d206.s2.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s2.p1" e1="DDI-MedLine.d206.s2.e0"
+            e2="DDI-MedLine.d206.s2.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s2.p2" e1="DDI-MedLine.d206.s2.e1"
+            e2="DDI-MedLine.d206.s2.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d206.s3" text="All the tests were carried out in the following seven groups (n = 6 in each group), drugs being given orally (doses for mice): Group 1 (vehicle), group 2 (curcumin 50 mg/kg), group 3 (curcumin 100 mg/kg), group 4 (fluoxetine 20 mg/kg), group 5 (imipramine 15 mg/kg), group 6 (curcumin 100 mg/kg plus fluoxetine 20 mg/kg) and group 7 (curcumin 100 mg/kg plus imipramine 15 mg/kg). ">
+        <entity id="DDI-MedLine.d206.s3.e0" charOffset="155-162"
+            type="drug_n" text="curcumin"/>
+        <entity id="DDI-MedLine.d206.s3.e1" charOffset="184-191"
+            type="drug_n" text="curcumin"/>
+        <entity id="DDI-MedLine.d206.s3.e2" charOffset="214-223"
+            type="drug" text="fluoxetine"/>
+        <entity id="DDI-MedLine.d206.s3.e3" charOffset="245-254"
+            type="drug" text="imipramine"/>
+        <entity id="DDI-MedLine.d206.s3.e4" charOffset="276-283"
+            type="drug_n" text="curcumin"/>
+        <entity id="DDI-MedLine.d206.s3.e5" charOffset="300-309"
+            type="drug" text="fluoxetine"/>
+        <entity id="DDI-MedLine.d206.s3.e6" charOffset="334-341"
+            type="drug_n" text="curcumin"/>
+        <entity id="DDI-MedLine.d206.s3.e7" charOffset="358-367"
+            type="drug" text="imipramine"/>
+        <pair id="DDI-MedLine.d206.s3.p0" e1="DDI-MedLine.d206.s3.e0"
+            e2="DDI-MedLine.d206.s3.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p1" e1="DDI-MedLine.d206.s3.e0"
+            e2="DDI-MedLine.d206.s3.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p2" e1="DDI-MedLine.d206.s3.e0"
+            e2="DDI-MedLine.d206.s3.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p3" e1="DDI-MedLine.d206.s3.e0"
+            e2="DDI-MedLine.d206.s3.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p4" e1="DDI-MedLine.d206.s3.e0"
+            e2="DDI-MedLine.d206.s3.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p5" e1="DDI-MedLine.d206.s3.e0"
+            e2="DDI-MedLine.d206.s3.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p6" e1="DDI-MedLine.d206.s3.e0"
+            e2="DDI-MedLine.d206.s3.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p7" e1="DDI-MedLine.d206.s3.e1"
+            e2="DDI-MedLine.d206.s3.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p8" e1="DDI-MedLine.d206.s3.e1"
+            e2="DDI-MedLine.d206.s3.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p9" e1="DDI-MedLine.d206.s3.e1"
+            e2="DDI-MedLine.d206.s3.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p10" e1="DDI-MedLine.d206.s3.e1"
+            e2="DDI-MedLine.d206.s3.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p11" e1="DDI-MedLine.d206.s3.e1"
+            e2="DDI-MedLine.d206.s3.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p12" e1="DDI-MedLine.d206.s3.e1"
+            e2="DDI-MedLine.d206.s3.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p13" e1="DDI-MedLine.d206.s3.e2"
+            e2="DDI-MedLine.d206.s3.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p14" e1="DDI-MedLine.d206.s3.e2"
+            e2="DDI-MedLine.d206.s3.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p15" e1="DDI-MedLine.d206.s3.e2"
+            e2="DDI-MedLine.d206.s3.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p16" e1="DDI-MedLine.d206.s3.e2"
+            e2="DDI-MedLine.d206.s3.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p17" e1="DDI-MedLine.d206.s3.e2"
+            e2="DDI-MedLine.d206.s3.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p18" e1="DDI-MedLine.d206.s3.e3"
+            e2="DDI-MedLine.d206.s3.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p19" e1="DDI-MedLine.d206.s3.e3"
+            e2="DDI-MedLine.d206.s3.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p20" e1="DDI-MedLine.d206.s3.e3"
+            e2="DDI-MedLine.d206.s3.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p21" e1="DDI-MedLine.d206.s3.e3"
+            e2="DDI-MedLine.d206.s3.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p22" e1="DDI-MedLine.d206.s3.e4"
+            e2="DDI-MedLine.d206.s3.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p23" e1="DDI-MedLine.d206.s3.e4"
+            e2="DDI-MedLine.d206.s3.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p24" e1="DDI-MedLine.d206.s3.e4"
+            e2="DDI-MedLine.d206.s3.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p25" e1="DDI-MedLine.d206.s3.e5"
+            e2="DDI-MedLine.d206.s3.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p26" e1="DDI-MedLine.d206.s3.e5"
+            e2="DDI-MedLine.d206.s3.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s3.p27" e1="DDI-MedLine.d206.s3.e6"
+            e2="DDI-MedLine.d206.s3.e7" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d206.s4" text="Equivalent doses for rats were used. "/>
+    <sentence id="DDI-MedLine.d206.s5" text="Both the acute model of FST and TST, and the chronic model of FST with water wheel showed significant antidepressant like activity of curcumin in 100 mg/kg dose as compared to vehicle control (p &lt; 0.05). ">
+        <entity id="DDI-MedLine.d206.s5.e0" charOffset="134-141"
+            type="drug_n" text="curcumin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d206.s6" text="The effect of curcumin (100 mg/kg) was similar to that of fluoxetine and imipramine (p > 0.05) but its addition to fluoxetine and imipramine did not improve their antidepressant activity (p > 0.05). ">
+        <entity id="DDI-MedLine.d206.s6.e0" charOffset="14-21"
+            type="drug_n" text="curcumin"/>
+        <entity id="DDI-MedLine.d206.s6.e1" charOffset="58-67"
+            type="drug" text="fluoxetine"/>
+        <entity id="DDI-MedLine.d206.s6.e2" charOffset="73-82"
+            type="drug" text="imipramine"/>
+        <entity id="DDI-MedLine.d206.s6.e3" charOffset="115-124"
+            type="drug" text="fluoxetine"/>
+        <entity id="DDI-MedLine.d206.s6.e4" charOffset="130-139"
+            type="drug" text="imipramine"/>
+        <pair id="DDI-MedLine.d206.s6.p0" e1="DDI-MedLine.d206.s6.e0"
+            e2="DDI-MedLine.d206.s6.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p1" e1="DDI-MedLine.d206.s6.e0"
+            e2="DDI-MedLine.d206.s6.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p2" e1="DDI-MedLine.d206.s6.e0"
+            e2="DDI-MedLine.d206.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p3" e1="DDI-MedLine.d206.s6.e0"
+            e2="DDI-MedLine.d206.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p4" e1="DDI-MedLine.d206.s6.e1"
+            e2="DDI-MedLine.d206.s6.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p5" e1="DDI-MedLine.d206.s6.e1"
+            e2="DDI-MedLine.d206.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p6" e1="DDI-MedLine.d206.s6.e1"
+            e2="DDI-MedLine.d206.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p7" e1="DDI-MedLine.d206.s6.e2"
+            e2="DDI-MedLine.d206.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p8" e1="DDI-MedLine.d206.s6.e2"
+            e2="DDI-MedLine.d206.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d206.s6.p9" e1="DDI-MedLine.d206.s6.e3"
+            e2="DDI-MedLine.d206.s6.e4" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d206.s7" text="Curcumin increased both the swimming and climbing behavior in FST, thus its antidepressant like activity could be due to an increase in serotonin, norepinephrine and dopamine levels in the brain. ">
+        <entity id="DDI-MedLine.d206.s7.e0" charOffset="0-7"
+            type="drug_n" text="Curcumin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d206.s8" text="Curcumin can be a useful antidepressant especially in cases which respond to drugs having mixed effects on serotonin and catecholamines levels in the brain.">
+        <entity id="DDI-MedLine.d206.s8.e0" charOffset="0-7"
+            type="drug_n" text="Curcumin"/>
+        <entity id="DDI-MedLine.d206.s8.e1" charOffset="25-38"
+            type="group" text="antidepressant"/>
+        <pair id="DDI-MedLine.d206.s8.p0" e1="DDI-MedLine.d206.s8.e0"
+            e2="DDI-MedLine.d206.s8.e1" ddi="false"/>
+    </sentence>
+</document>

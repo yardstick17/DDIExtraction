@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d749">
+    <sentence id="DDI-DrugBank.d749.s0" text="Drug interaction studies have not been conducted with Macugen. ">
+        <entity id="DDI-DrugBank.d749.s0.e0" charOffset="54-60"
+            type="brand" text="Macugen"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d749.s1" text="Pegaptanib is metabolized by nucleases and is generally not affected by the cytochrome P450 system. ">
+        <entity id="DDI-DrugBank.d749.s1.e0" charOffset="0-9"
+            type="drug" text="Pegaptanib"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d749.s2" text="Two early clinical studies conducted in patients who received Macugen alone and in combination with PDT revealed no apparent difference in the plasma pharmacokinetics of pegaptanib.">
+        <entity id="DDI-DrugBank.d749.s2.e0" charOffset="62-68"
+            type="brand" text="Macugen"/>
+        <entity id="DDI-DrugBank.d749.s2.e1" charOffset="170-179"
+            type="drug" text="pegaptanib"/>
+        <pair id="DDI-DrugBank.d749.s2.p0" e1="DDI-DrugBank.d749.s2.e0"
+            e2="DDI-DrugBank.d749.s2.e1" ddi="false"/>
+    </sentence>
+</document>

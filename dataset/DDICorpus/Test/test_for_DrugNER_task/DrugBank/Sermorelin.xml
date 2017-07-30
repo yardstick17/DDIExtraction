@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d589">
+    <sentence id="DDI-DrugBank.d589.s0" text="Concomitant glucocorticoid therapy may inhibit the response to Geref   . There was no evidence in the controlled studies of Geref   's interaction with drugs commonly used in the treatment of routine pediatric problems/illnesses. ">
+        <entity id="DDI-DrugBank.d589.s0.e0" charOffset="63-67"
+            type="brand" text="Geref"/>
+        <entity id="DDI-DrugBank.d589.s0.e1" charOffset="124-128"
+            type="brand" text="Geref"/>
+        <pair id="DDI-DrugBank.d589.s0.p0" e1="DDI-DrugBank.d589.s0.e0"
+            e2="DDI-DrugBank.d589.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d589.s1" text="However, formal drug interactions studies have not been conducted."/>
+</document>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d672">
+    <sentence id="DDI-DrugBank.d672.s0" text="Digoxin: Sparfloxacin has no effect on the pharmacokinetics of digoxin. ">
+        <entity id="DDI-DrugBank.d672.s0.e0" charOffset="0-6"
+            type="drug" text="Digoxin"/>
+        <entity id="DDI-DrugBank.d672.s0.e1" charOffset="9-20"
+            type="drug" text="Sparfloxacin"/>
+        <entity id="DDI-DrugBank.d672.s0.e2" charOffset="63-69"
+            type="drug" text="digoxin"/>
+        <pair id="DDI-DrugBank.d672.s0.p0" e1="DDI-DrugBank.d672.s0.e0"
+            e2="DDI-DrugBank.d672.s0.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d672.s0.p1" e1="DDI-DrugBank.d672.s0.e0"
+            e2="DDI-DrugBank.d672.s0.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d672.s0.p2" e1="DDI-DrugBank.d672.s0.e1"
+            e2="DDI-DrugBank.d672.s0.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d672.s1" text="Methylxanthines: Sparfloxacin does not increase plasma theophylline concentrations. ">
+        <entity id="DDI-DrugBank.d672.s1.e0" charOffset="0-14"
+            type="group" text="Methylxanthines"/>
+        <entity id="DDI-DrugBank.d672.s1.e1" charOffset="17-28"
+            type="drug" text="Sparfloxacin"/>
+        <entity id="DDI-DrugBank.d672.s1.e2" charOffset="55-66"
+            type="drug" text="theophylline"/>
+        <pair id="DDI-DrugBank.d672.s1.p0" e1="DDI-DrugBank.d672.s1.e0"
+            e2="DDI-DrugBank.d672.s1.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d672.s1.p1" e1="DDI-DrugBank.d672.s1.e0"
+            e2="DDI-DrugBank.d672.s1.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d672.s1.p2" e1="DDI-DrugBank.d672.s1.e1"
+            e2="DDI-DrugBank.d672.s1.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d672.s2" text="Since there is no interaction with theophylline, interaction with other methylxanthines such as caffeine is unlikely. ">
+        <entity id="DDI-DrugBank.d672.s2.e0" charOffset="35-46"
+            type="drug" text="theophylline"/>
+        <entity id="DDI-DrugBank.d672.s2.e1" charOffset="72-86"
+            type="group" text="methylxanthines"/>
+        <entity id="DDI-DrugBank.d672.s2.e2" charOffset="96-103"
+            type="drug" text="caffeine"/>
+        <pair id="DDI-DrugBank.d672.s2.p0" e1="DDI-DrugBank.d672.s2.e0"
+            e2="DDI-DrugBank.d672.s2.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d672.s2.p1" e1="DDI-DrugBank.d672.s2.e0"
+            e2="DDI-DrugBank.d672.s2.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d672.s2.p2" e1="DDI-DrugBank.d672.s2.e1"
+            e2="DDI-DrugBank.d672.s2.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d672.s3" text="Warfarin: Sparfloxacin does not increase the anti-coagulant effect of warfarin. ">
+        <entity id="DDI-DrugBank.d672.s3.e0" charOffset="0-7"
+            type="drug" text="Warfarin"/>
+        <entity id="DDI-DrugBank.d672.s3.e1" charOffset="10-21"
+            type="drug" text="Sparfloxacin"/>
+        <entity id="DDI-DrugBank.d672.s3.e2" charOffset="70-77"
+            type="drug" text="warfarin"/>
+        <pair id="DDI-DrugBank.d672.s3.p0" e1="DDI-DrugBank.d672.s3.e0"
+            e2="DDI-DrugBank.d672.s3.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d672.s3.p1" e1="DDI-DrugBank.d672.s3.e0"
+            e2="DDI-DrugBank.d672.s3.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d672.s3.p2" e1="DDI-DrugBank.d672.s3.e1"
+            e2="DDI-DrugBank.d672.s3.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d672.s4" text="Cimetidine: Cimetidine does not affect the pharmacokinetics of sparfloxacin. ">
+        <entity id="DDI-DrugBank.d672.s4.e0" charOffset="0-9"
+            type="drug" text="Cimetidine"/>
+        <entity id="DDI-DrugBank.d672.s4.e1" charOffset="12-21"
+            type="drug" text="Cimetidine"/>
+        <entity id="DDI-DrugBank.d672.s4.e2" charOffset="63-74"
+            type="drug" text="sparfloxacin"/>
+        <pair id="DDI-DrugBank.d672.s4.p0" e1="DDI-DrugBank.d672.s4.e0"
+            e2="DDI-DrugBank.d672.s4.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d672.s4.p1" e1="DDI-DrugBank.d672.s4.e0"
+            e2="DDI-DrugBank.d672.s4.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d672.s4.p2" e1="DDI-DrugBank.d672.s4.e1"
+            e2="DDI-DrugBank.d672.s4.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d672.s5" text="The oral bioavailability of sparfloxacin is not reduced when the aluminum-magnesium suspension is administered 4 hours following sparfloxacin administration. ">
+        <entity id="DDI-DrugBank.d672.s5.e0" charOffset="28-39"
+            type="drug" text="sparfloxacin"/>
+        <entity id="DDI-DrugBank.d672.s5.e1" charOffset="65-72"
+            type="drug" text="aluminum"/>
+        <entity id="DDI-DrugBank.d672.s5.e2" charOffset="74-82"
+            type="drug" text="magnesium"/>
+        <pair id="DDI-DrugBank.d672.s5.p0" e1="DDI-DrugBank.d672.s5.e0"
+            e2="DDI-DrugBank.d672.s5.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d672.s5.p1" e1="DDI-DrugBank.d672.s5.e0"
+            e2="DDI-DrugBank.d672.s5.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d672.s5.p2" e1="DDI-DrugBank.d672.s5.e1"
+            e2="DDI-DrugBank.d672.s5.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d672.s6" text="Zinc/iron salts: Absorption of quinolones is reduced significantly by these preparations. ">
+        <entity id="DDI-DrugBank.d672.s6.e0" charOffset="0-3"
+            type="drug" text="Zinc"/>
+        <entity id="DDI-DrugBank.d672.s6.e1" charOffset="5-8"
+            type="drug" text="iron"/>
+        <entity id="DDI-DrugBank.d672.s6.e2" charOffset="31-40"
+            type="group" text="quinolones"/>
+        <pair id="DDI-DrugBank.d672.s6.p0" e1="DDI-DrugBank.d672.s6.e0"
+            e2="DDI-DrugBank.d672.s6.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d672.s6.p1" e1="DDI-DrugBank.d672.s6.e0"
+            e2="DDI-DrugBank.d672.s6.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d672.s6.p2" e1="DDI-DrugBank.d672.s6.e1"
+            e2="DDI-DrugBank.d672.s6.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d672.s7" text="These products may be taken 4 hours after sparfloxacin administration. ">
+        <entity id="DDI-DrugBank.d672.s7.e0" charOffset="42-53"
+            type="drug" text="sparfloxacin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d672.s8" text="Probenecid: Probenecid does not alter the pharmacokinetics of sparfloxacin.">
+        <entity id="DDI-DrugBank.d672.s8.e0" charOffset="0-9"
+            type="drug" text="Probenecid"/>
+        <entity id="DDI-DrugBank.d672.s8.e1" charOffset="12-21"
+            type="drug" text="Probenecid"/>
+        <entity id="DDI-DrugBank.d672.s8.e2" charOffset="62-73"
+            type="drug" text="sparfloxacin"/>
+        <pair id="DDI-DrugBank.d672.s8.p0" e1="DDI-DrugBank.d672.s8.e0"
+            e2="DDI-DrugBank.d672.s8.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d672.s8.p1" e1="DDI-DrugBank.d672.s8.e0"
+            e2="DDI-DrugBank.d672.s8.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d672.s8.p2" e1="DDI-DrugBank.d672.s8.e1"
+            e2="DDI-DrugBank.d672.s8.e2" ddi="false"/>
+    </sentence>
+</document>

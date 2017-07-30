@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d626">
+    <sentence id="DDI-DrugBank.d626.s0" text="Alcohol (this combination may make you very sick) and primaquine">
+        <entity id="DDI-DrugBank.d626.s0.e0" charOffset="0-6"
+            type="drug" text="Alcohol"/>
+        <entity id="DDI-DrugBank.d626.s0.e1" charOffset="54-63"
+            type="drug" text="primaquine"/>
+        <pair id="DDI-DrugBank.d626.s0.p0" e1="DDI-DrugBank.d626.s0.e0"
+            e2="DDI-DrugBank.d626.s0.e1" ddi="false"/>
+    </sentence>
+</document>

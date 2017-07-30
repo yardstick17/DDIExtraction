@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d221">
+    <sentence id="DDI-MedLine.d221.s0" text="An autopsy case of multiple psychotropic drug poisoning.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d221.s0.e0" charOffset="28-44"
+            type="group" text="psychotropic drug"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d221.s1" text="A fatal poisoning case involving etizolam, phenobarbital, promethazine and chlorpromazine is presented. ">
+        <entity id="DDI-MedLine.d221.s1.e0" charOffset="33-40"
+            type="drug" text="etizolam"/>
+        <entity id="DDI-MedLine.d221.s1.e1" charOffset="43-55"
+            type="drug" text="phenobarbital"/>
+        <entity id="DDI-MedLine.d221.s1.e2" charOffset="58-69"
+            type="drug" text="promethazine"/>
+        <entity id="DDI-MedLine.d221.s1.e3" charOffset="75-88"
+            type="drug" text="chlorpromazine"/>
+        <pair id="DDI-MedLine.d221.s1.p0" e1="DDI-MedLine.d221.s1.e0"
+            e2="DDI-MedLine.d221.s1.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s1.p1" e1="DDI-MedLine.d221.s1.e0"
+            e2="DDI-MedLine.d221.s1.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s1.p2" e1="DDI-MedLine.d221.s1.e0"
+            e2="DDI-MedLine.d221.s1.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s1.p3" e1="DDI-MedLine.d221.s1.e1"
+            e2="DDI-MedLine.d221.s1.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s1.p4" e1="DDI-MedLine.d221.s1.e1"
+            e2="DDI-MedLine.d221.s1.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s1.p5" e1="DDI-MedLine.d221.s1.e2"
+            e2="DDI-MedLine.d221.s1.e3" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d221.s2" text="Quantitative toxicological analysis showed that the concentrations of etizolam, phenobarbital, promethazine and chlorpromazine in the femoral blood were 86 ng/ml, 5082 microg/ml, 0.107 microg/ml and 0.144 microg/ml, respectively, and large amounts of drugs were also detected in the stomach contents. ">
+        <entity id="DDI-MedLine.d221.s2.e0" charOffset="70-77"
+            type="drug" text="etizolam"/>
+        <entity id="DDI-MedLine.d221.s2.e1" charOffset="80-92"
+            type="drug" text="phenobarbital"/>
+        <entity id="DDI-MedLine.d221.s2.e2" charOffset="95-106"
+            type="drug" text="promethazine"/>
+        <entity id="DDI-MedLine.d221.s2.e3" charOffset="112-125"
+            type="drug" text="chlorpromazine"/>
+        <pair id="DDI-MedLine.d221.s2.p0" e1="DDI-MedLine.d221.s2.e0"
+            e2="DDI-MedLine.d221.s2.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s2.p1" e1="DDI-MedLine.d221.s2.e0"
+            e2="DDI-MedLine.d221.s2.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s2.p2" e1="DDI-MedLine.d221.s2.e0"
+            e2="DDI-MedLine.d221.s2.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s2.p3" e1="DDI-MedLine.d221.s2.e1"
+            e2="DDI-MedLine.d221.s2.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s2.p4" e1="DDI-MedLine.d221.s2.e1"
+            e2="DDI-MedLine.d221.s2.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d221.s2.p5" e1="DDI-MedLine.d221.s2.e2"
+            e2="DDI-MedLine.d221.s2.e3" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d221.s3" text="We conclude that the cause of death was due to the interaction of multiple psychotropic drugs.">
+        <entity id="DDI-MedLine.d221.s3.e0" charOffset="75-92"
+            type="group" text="psychotropic drugs"/>
+    </sentence>
+</document>

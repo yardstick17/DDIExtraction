@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d149">
+    <sentence id="DDI-MedLine.d149.s0" text="[Protective effects of ginseng-ginko extracts combination on rat primary cultured neurons induced by Abeta(1-40)].&#xd;&#xa;">
+        <entity id="DDI-MedLine.d149.s0.e0" charOffset="23-29"
+            type="drug" text="ginseng"/>
+        <entity id="DDI-MedLine.d149.s0.e1" charOffset="31-35"
+            type="drug" text="ginko"/>
+        <entity id="DDI-MedLine.d149.s0.e2" charOffset="101-111"
+            type="drug_n" text="Abeta(1-40)"/>
+        <pair id="DDI-MedLine.d149.s0.p0" e1="DDI-MedLine.d149.s0.e0"
+            e2="DDI-MedLine.d149.s0.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d149.s0.p1" e1="DDI-MedLine.d149.s0.e0"
+            e2="DDI-MedLine.d149.s0.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d149.s0.p2" e1="DDI-MedLine.d149.s0.e1"
+            e2="DDI-MedLine.d149.s0.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d149.s1" text="To observe the injury in rat primary cultured neurons induced by Abeta(1-40) and the protective effects of combination of ginseng and ginko extracts.">
+        <entity id="DDI-MedLine.d149.s1.e0" charOffset="65-75"
+            type="drug_n" text="Abeta(1-40)"/>
+        <entity id="DDI-MedLine.d149.s1.e1" charOffset="122-128"
+            type="drug" text="ginseng"/>
+        <entity id="DDI-MedLine.d149.s1.e2" charOffset="134-138"
+            type="drug" text="ginko"/>
+        <pair id="DDI-MedLine.d149.s1.p0" e1="DDI-MedLine.d149.s1.e0"
+            e2="DDI-MedLine.d149.s1.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d149.s1.p1" e1="DDI-MedLine.d149.s1.e0"
+            e2="DDI-MedLine.d149.s1.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d149.s1.p2" e1="DDI-MedLine.d149.s1.e1"
+            e2="DDI-MedLine.d149.s1.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d149.s2" text="Primary neurons were induced by Abeta(1-40) to establish the cell model of toxic injury. ">
+        <entity id="DDI-MedLine.d149.s2.e0" charOffset="32-42"
+            type="drug_n" text="Abeta(1-40)"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d149.s3" text="Using flow cytometry with Annexin V-FITC/PI double staining, MTP assay, transmission electron microscopy and Western blot, the appropriate concentration and duration of AP for cell model establishment were determined. "/>
+    <sentence id="DDI-MedLine.d149.s4" text="The effects of extracts of ginseng and ginko (EGGB) on cellular proliferative activity, apoptotic rate, ultrastructure and caspase-3 expression were detected. ">
+        <entity id="DDI-MedLine.d149.s4.e0" charOffset="27-33"
+            type="drug" text="ginseng"/>
+        <entity id="DDI-MedLine.d149.s4.e1" charOffset="39-43"
+            type="drug" text="ginko"/>
+        <entity id="DDI-MedLine.d149.s4.e2" charOffset="46-49"
+            type="drug" text="EGGB"/>
+        <pair id="DDI-MedLine.d149.s4.p0" e1="DDI-MedLine.d149.s4.e0"
+            e2="DDI-MedLine.d149.s4.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d149.s4.p1" e1="DDI-MedLine.d149.s4.e0"
+            e2="DDI-MedLine.d149.s4.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d149.s4.p2" e1="DDI-MedLine.d149.s4.e1"
+            e2="DDI-MedLine.d149.s4.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d149.s5" text="The apoptotic rate was increased significantly after neurons were induced by 1 micromol x L(-1) Abeta(-40) for 24 h (P &lt; 0.01). ">
+        <entity id="DDI-MedLine.d149.s5.e0" charOffset="96-105"
+            type="drug_n" text="Abeta(-40)"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d149.s6" text="EGGB (5, 50 mg L(-1)) significantly enhanced the proliferative activity (P &lt; 0.05). ">
+        <entity id="DDI-MedLine.d149.s6.e0" charOffset="0-3" type="drug" text="EGGB"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d149.s7" text="Meanwhile, EGGB (50 mg L(-1)) inhibited neuronal apoptosis and caspase-3 overexpression and improved cellular ultrastructure remarkably (P &lt; 0.05, P &lt; 0.01). ">
+        <entity id="DDI-MedLine.d149.s7.e0" charOffset="11-14"
+            type="drug" text="EGGB"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d149.s8" text="Abeta(1-40) could significantly induce primary cultured neurons to apoptosis in vitro. ">
+        <entity id="DDI-MedLine.d149.s8.e0" charOffset="0-10"
+            type="drug" text="Abeta(1-40)"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d149.s9" text="EGGB showed beneficial neuroprotective effects against neuronal apoptosis, which might be due to improving the structures of neuron and its subcellular organelles, enhancing cellular proliferative activity and inhibiting caspase-3 overexpression in neurons.">
+        <entity id="DDI-MedLine.d149.s9.e0" charOffset="0-3" type="drug" text="EGGB"/>
+    </sentence>
+</document>

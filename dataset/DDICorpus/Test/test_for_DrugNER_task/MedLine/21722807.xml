@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d202">
+    <sentence id="DDI-MedLine.d202.s0" text="Flow cytometry-based pharmacodynamic monitoring after organ transplantation."/>
+    <sentence id="DDI-MedLine.d202.s1" text="Conventional therapeutic drug monitoring based on measuring immunosupressive drug concentrations in blood is important in the clinical management of immunosuppressive therapy in transplantation medicine. ">
+        <entity id="DDI-MedLine.d202.s1.e0" charOffset="60-80"
+            type="group" text="immunosupressive drug"/>
+        <entity id="DDI-MedLine.d202.s1.e1" charOffset="149-165"
+            type="group" text="immunosuppressive"/>
+        <pair id="DDI-MedLine.d202.s1.p0" e1="DDI-MedLine.d202.s1.e0"
+            e2="DDI-MedLine.d202.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d202.s2" text="Since rejection or infection occurs at irregular drug concentrations immunosuppressive drug therapy is often empiric and prophylactic in nature. ">
+        <entity id="DDI-MedLine.d202.s2.e0" charOffset="69-90"
+            type="group" text="immunosuppressive drug"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d202.s3" text="In addition, blood immunosuppressant levels are only indirect predictors of the pharmacologic effects on immune cells, because the genetic heterogeneity the immune systems of transplant recipients are not equally sensitive to drug effects. ">
+        <entity id="DDI-MedLine.d202.s3.e0" charOffset="19-35"
+            type="group" text="immunosuppressant"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d202.s4" text="Therefore, therapeutic drug monitoring requires the application of reliable and effective methods to study the pharmacodynamic variability by direct measurements of drug effects on immune cell functions. "/>
+    <sentence id="DDI-MedLine.d202.s5" text="Flow cytometry offers a multiplicity of quantitative analysis possibilities, from detection of phosphorylated molecules up to complex multicolor analysis of whole blood samples. "/>
+    <sentence id="DDI-MedLine.d202.s6" text="A large spectrum of flow cytometry-based applications for pharmacodynamic monitoring is available and allows detection and analysis of diverse function of T cells and dendritic cell subsets. "/>
+    <sentence id="DDI-MedLine.d202.s7" text="By combining several assays, it is possible to generate a broad picture of the immune status of every single transplanted recipient. "/>
+    <sentence id="DDI-MedLine.d202.s8" text="Furthermore, it is even possible to differentiate between synergistic and antagonistic pharmacodynamic effects of immunosuppressive drug combination therapy in vitro and to predict the pharmacodynamic drug effects in transplanted recipients. ">
+        <entity id="DDI-MedLine.d202.s8.e0" charOffset="114-135"
+            type="group" text="immunosuppressive drug"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d202.s9" text="Such a pharmacodynamic drug monitoring may offer the opportunity to complete conventional therapeutic drug monitoring and, therefore, to tailor immunosuppressive therapy more individually.">
+        <entity id="DDI-MedLine.d202.s9.e0" charOffset="144-160"
+            type="group" text="immunosuppressive"/>
+    </sentence>
+</document>

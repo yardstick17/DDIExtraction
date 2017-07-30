@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d220">
+    <sentence id="DDI-MedLine.d220.s0" text="Evaluation of hepatic clearance and drug-drug interactions of luteolin and apigenin by using primary cultured rat hepatocytes.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d220.s0.e0" charOffset="62-69"
+            type="drug_n" text="luteolin"/>
+        <entity id="DDI-MedLine.d220.s0.e1" charOffset="75-82"
+            type="drug_n" text="apigenin"/>
+        <pair id="DDI-MedLine.d220.s0.p0" e1="DDI-MedLine.d220.s0.e0"
+            e2="DDI-MedLine.d220.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d220.s1" text="The hepatic clearance and drug-drug interactions of luteolin and apigenin were studied by using primary cultured rat hepatocytes. ">
+        <entity id="DDI-MedLine.d220.s1.e0" charOffset="52-59"
+            type="drug_n" text="luteolin"/>
+        <entity id="DDI-MedLine.d220.s1.e1" charOffset="65-72"
+            type="drug_n" text="apigenin"/>
+        <pair id="DDI-MedLine.d220.s1.p0" e1="DDI-MedLine.d220.s1.e0"
+            e2="DDI-MedLine.d220.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d220.s2" text="Luteolin and apigenin experienced extensive first-pass metabolism. ">
+        <entity id="DDI-MedLine.d220.s2.e0" charOffset="0-7"
+            type="drug_n" text="Luteolin"/>
+        <entity id="DDI-MedLine.d220.s2.e1" charOffset="13-20"
+            type="drug_n" text="apigenin"/>
+        <pair id="DDI-MedLine.d220.s2.p0" e1="DDI-MedLine.d220.s2.e0"
+            e2="DDI-MedLine.d220.s2.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d220.s3" text="The elimination percent of luteolin and apigenin was found to be 91.9% and 86.7% after 120 min of incubation. ">
+        <entity id="DDI-MedLine.d220.s3.e0" charOffset="27-34"
+            type="drug_n" text="luteolin"/>
+        <entity id="DDI-MedLine.d220.s3.e1" charOffset="40-47"
+            type="drug_n" text="apigenin"/>
+        <pair id="DDI-MedLine.d220.s3.p0" e1="DDI-MedLine.d220.s3.e0"
+            e2="DDI-MedLine.d220.s3.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d220.s4" text="The predicted % liver blood flow was 82.3% and 85.4% for luteolin and apigenin, respectively. ">
+        <entity id="DDI-MedLine.d220.s4.e0" charOffset="57-64"
+            type="drug_n" text="luteolin"/>
+        <entity id="DDI-MedLine.d220.s4.e1" charOffset="70-77"
+            type="drug_n" text="apigenin"/>
+        <pair id="DDI-MedLine.d220.s4.p0" e1="DDI-MedLine.d220.s4.e0"
+            e2="DDI-MedLine.d220.s4.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d220.s5" text="Total glucuronidated/sulfated conjugates of luteolin/apigenin were determined by an enzyme hydrolysis method. "/>
+    <sentence id="DDI-MedLine.d220.s6" text="Compared with the elimination of pure luteolin and apigenin, the elimination of luteolin and apigenin was much lower in hydrolyzed Flos Chrysanthemi extract (FCE) containing comparable amounts of luteolin and apigenin. ">
+        <entity id="DDI-MedLine.d220.s6.e0" charOffset="38-45"
+            type="drug_n" text="luteolin"/>
+        <entity id="DDI-MedLine.d220.s6.e1" charOffset="51-58"
+            type="drug_n" text="apigenin"/>
+        <entity id="DDI-MedLine.d220.s6.e2" charOffset="80-87"
+            type="drug_n" text="luteolin"/>
+        <entity id="DDI-MedLine.d220.s6.e3" charOffset="93-100"
+            type="drug_n" text="apigenin"/>
+        <entity id="DDI-MedLine.d220.s6.e4" charOffset="196-203"
+            type="drug_n" text="luteolin"/>
+        <entity id="DDI-MedLine.d220.s6.e5" charOffset="209-216"
+            type="drug_n" text="apigenin"/>
+        <pair id="DDI-MedLine.d220.s6.p0" e1="DDI-MedLine.d220.s6.e0"
+            e2="DDI-MedLine.d220.s6.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p1" e1="DDI-MedLine.d220.s6.e0"
+            e2="DDI-MedLine.d220.s6.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p2" e1="DDI-MedLine.d220.s6.e0"
+            e2="DDI-MedLine.d220.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p3" e1="DDI-MedLine.d220.s6.e0"
+            e2="DDI-MedLine.d220.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p4" e1="DDI-MedLine.d220.s6.e0"
+            e2="DDI-MedLine.d220.s6.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p5" e1="DDI-MedLine.d220.s6.e1"
+            e2="DDI-MedLine.d220.s6.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p6" e1="DDI-MedLine.d220.s6.e1"
+            e2="DDI-MedLine.d220.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p7" e1="DDI-MedLine.d220.s6.e1"
+            e2="DDI-MedLine.d220.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p8" e1="DDI-MedLine.d220.s6.e1"
+            e2="DDI-MedLine.d220.s6.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p9" e1="DDI-MedLine.d220.s6.e2"
+            e2="DDI-MedLine.d220.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p10" e1="DDI-MedLine.d220.s6.e2"
+            e2="DDI-MedLine.d220.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p11" e1="DDI-MedLine.d220.s6.e2"
+            e2="DDI-MedLine.d220.s6.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p12" e1="DDI-MedLine.d220.s6.e3"
+            e2="DDI-MedLine.d220.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p13" e1="DDI-MedLine.d220.s6.e3"
+            e2="DDI-MedLine.d220.s6.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s6.p14" e1="DDI-MedLine.d220.s6.e4"
+            e2="DDI-MedLine.d220.s6.e5" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d220.s7" text="The effect of a series of flavonoids, including flavonols, flavones, isoflavone, flavanone, flavanonols and catechins, on the elimination of luteolin and apigenin was studied. ">
+        <entity id="DDI-MedLine.d220.s7.e0" charOffset="26-35"
+            type="drug_n" text="flavonoids"/>
+        <entity id="DDI-MedLine.d220.s7.e1" charOffset="48-56"
+            type="drug_n" text="flavonols"/>
+        <entity id="DDI-MedLine.d220.s7.e2" charOffset="59-66"
+            type="drug_n" text="flavones"/>
+        <entity id="DDI-MedLine.d220.s7.e3" charOffset="69-78"
+            type="drug_n" text="isoflavone"/>
+        <entity id="DDI-MedLine.d220.s7.e4" charOffset="81-89"
+            type="drug_n" text="flavanone"/>
+        <entity id="DDI-MedLine.d220.s7.e5" charOffset="92-102"
+            type="drug_n" text="flavanonols"/>
+        <entity id="DDI-MedLine.d220.s7.e6" charOffset="108-116"
+            type="drug_n" text="catechins"/>
+        <entity id="DDI-MedLine.d220.s7.e7" charOffset="141-148"
+            type="drug_n" text="luteolin"/>
+        <entity id="DDI-MedLine.d220.s7.e8" charOffset="154-161"
+            type="drug_n" text="apigenin"/>
+        <pair id="DDI-MedLine.d220.s7.p0" e1="DDI-MedLine.d220.s7.e0"
+            e2="DDI-MedLine.d220.s7.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p1" e1="DDI-MedLine.d220.s7.e0"
+            e2="DDI-MedLine.d220.s7.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p2" e1="DDI-MedLine.d220.s7.e0"
+            e2="DDI-MedLine.d220.s7.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p3" e1="DDI-MedLine.d220.s7.e0"
+            e2="DDI-MedLine.d220.s7.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p4" e1="DDI-MedLine.d220.s7.e0"
+            e2="DDI-MedLine.d220.s7.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p5" e1="DDI-MedLine.d220.s7.e0"
+            e2="DDI-MedLine.d220.s7.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p6" e1="DDI-MedLine.d220.s7.e0"
+            e2="DDI-MedLine.d220.s7.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p7" e1="DDI-MedLine.d220.s7.e0"
+            e2="DDI-MedLine.d220.s7.e8" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p8" e1="DDI-MedLine.d220.s7.e1"
+            e2="DDI-MedLine.d220.s7.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p9" e1="DDI-MedLine.d220.s7.e1"
+            e2="DDI-MedLine.d220.s7.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p10" e1="DDI-MedLine.d220.s7.e1"
+            e2="DDI-MedLine.d220.s7.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p11" e1="DDI-MedLine.d220.s7.e1"
+            e2="DDI-MedLine.d220.s7.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p12" e1="DDI-MedLine.d220.s7.e1"
+            e2="DDI-MedLine.d220.s7.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p13" e1="DDI-MedLine.d220.s7.e1"
+            e2="DDI-MedLine.d220.s7.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p14" e1="DDI-MedLine.d220.s7.e1"
+            e2="DDI-MedLine.d220.s7.e8" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p15" e1="DDI-MedLine.d220.s7.e2"
+            e2="DDI-MedLine.d220.s7.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p16" e1="DDI-MedLine.d220.s7.e2"
+            e2="DDI-MedLine.d220.s7.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p17" e1="DDI-MedLine.d220.s7.e2"
+            e2="DDI-MedLine.d220.s7.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p18" e1="DDI-MedLine.d220.s7.e2"
+            e2="DDI-MedLine.d220.s7.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p19" e1="DDI-MedLine.d220.s7.e2"
+            e2="DDI-MedLine.d220.s7.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p20" e1="DDI-MedLine.d220.s7.e2"
+            e2="DDI-MedLine.d220.s7.e8" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p21" e1="DDI-MedLine.d220.s7.e3"
+            e2="DDI-MedLine.d220.s7.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p22" e1="DDI-MedLine.d220.s7.e3"
+            e2="DDI-MedLine.d220.s7.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p23" e1="DDI-MedLine.d220.s7.e3"
+            e2="DDI-MedLine.d220.s7.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p24" e1="DDI-MedLine.d220.s7.e3"
+            e2="DDI-MedLine.d220.s7.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p25" e1="DDI-MedLine.d220.s7.e3"
+            e2="DDI-MedLine.d220.s7.e8" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p26" e1="DDI-MedLine.d220.s7.e4"
+            e2="DDI-MedLine.d220.s7.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p27" e1="DDI-MedLine.d220.s7.e4"
+            e2="DDI-MedLine.d220.s7.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p28" e1="DDI-MedLine.d220.s7.e4"
+            e2="DDI-MedLine.d220.s7.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p29" e1="DDI-MedLine.d220.s7.e4"
+            e2="DDI-MedLine.d220.s7.e8" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p30" e1="DDI-MedLine.d220.s7.e5"
+            e2="DDI-MedLine.d220.s7.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p31" e1="DDI-MedLine.d220.s7.e5"
+            e2="DDI-MedLine.d220.s7.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p32" e1="DDI-MedLine.d220.s7.e5"
+            e2="DDI-MedLine.d220.s7.e8" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p33" e1="DDI-MedLine.d220.s7.e6"
+            e2="DDI-MedLine.d220.s7.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p34" e1="DDI-MedLine.d220.s7.e6"
+            e2="DDI-MedLine.d220.s7.e8" ddi="false"/>
+        <pair id="DDI-MedLine.d220.s7.p35" e1="DDI-MedLine.d220.s7.e7"
+            e2="DDI-MedLine.d220.s7.e8" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d220.s8" text="At least four key determinants in the chemical structures of flavonoids are necessary for exerting the inhibitory effects on the conjugation: 1) catechol structure (3',4'-dihydroxylation) in the B-ring; ">
+        <entity id="DDI-MedLine.d220.s8.e0" charOffset="61-70"
+            type="drug_n" text="flavonoids"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d220.s9" text="2) B-ring is attached to the C-2 position on the C-ring; "/>
+    <sentence id="DDI-MedLine.d220.s10" text="3) the C2-3 double bond in conjunction with the C4 carbonyl group on the C-ring; "/>
+    <sentence id="DDI-MedLine.d220.s11" text="4) no glycoside present. "/>
+    <sentence id="DDI-MedLine.d220.s12" text="Investigation of clearance and interaction among flavonoids could help us better understand their bioavailability and offer insight into the approaches to be taken to minimize competitive effects, and to design appropriate bioavailability studies in humans.">
+        <entity id="DDI-MedLine.d220.s12.e0" charOffset="49-58"
+            type="drug_n" text="flavonoids"/>
+    </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d612">
+    <sentence id="DDI-DrugBank.d612.s0" text="In vivo drug-drug interaction studies have suggested that pioglitazone may be a weak inducer of CYP 450 isoform 3A4 substrate.">
+        <entity id="DDI-DrugBank.d612.s0.e0" charOffset="58-69"
+            type="drug" text="pioglitazone"/>
+    </sentence>
+</document>

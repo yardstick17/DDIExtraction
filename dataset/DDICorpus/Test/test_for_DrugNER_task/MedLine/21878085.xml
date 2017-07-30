@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d174">
+    <sentence id="DDI-MedLine.d174.s0" text="[Cyclooxygenase inhibitors and antiplatelet effect of acetylsalicylic acid. selective approach to nonsteroidal anti-inflammatory drugs in cardiological practice].&#xd;&#xa;">
+        <entity id="DDI-MedLine.d174.s0.e0" charOffset="1-25"
+            type="group" text="Cyclooxygenase inhibitors"/>
+        <entity id="DDI-MedLine.d174.s0.e1" charOffset="54-73"
+            type="drug" text="acetylsalicylic acid"/>
+        <entity id="DDI-MedLine.d174.s0.e2" charOffset="98-133"
+            type="group" text="nonsteroidal anti-inflammatory drugs"/>
+        <pair id="DDI-MedLine.d174.s0.p0" e1="DDI-MedLine.d174.s0.e0"
+            e2="DDI-MedLine.d174.s0.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d174.s0.p1" e1="DDI-MedLine.d174.s0.e0"
+            e2="DDI-MedLine.d174.s0.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d174.s0.p2" e1="DDI-MedLine.d174.s0.e1"
+            e2="DDI-MedLine.d174.s0.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d174.s1" text="Nonsteroidal anti-inflammatory drugs (NSAIDs) represent class of medicines which is wide concerning chemical structure and mechanism of action. ">
+        <entity id="DDI-MedLine.d174.s1.e0" charOffset="0-35"
+            type="group" text="Nonsteroidal anti-inflammatory drugs"/>
+        <entity id="DDI-MedLine.d174.s1.e1" charOffset="38-43"
+            type="group" text="NSAIDs"/>
+        <pair id="DDI-MedLine.d174.s1.p0" e1="DDI-MedLine.d174.s1.e0"
+            e2="DDI-MedLine.d174.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d174.s2" text="In the light of contradictory data on efficacy and safety of NSAID in cardiovascular patients selection of most appropriate NSAID (basing on profile of efficacy and safety) in patients receiving continuous therapy with low dose aspirin appears to be a problem. ">
+        <entity id="DDI-MedLine.d174.s2.e0" charOffset="61-65"
+            type="group" text="NSAID"/>
+        <entity id="DDI-MedLine.d174.s2.e1" charOffset="124-128"
+            type="group" text="NSAID"/>
+        <entity id="DDI-MedLine.d174.s2.e2" charOffset="228-234"
+            type="brand" text="aspirin"/>
+        <pair id="DDI-MedLine.d174.s2.p0" e1="DDI-MedLine.d174.s2.e0"
+            e2="DDI-MedLine.d174.s2.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d174.s2.p1" e1="DDI-MedLine.d174.s2.e0"
+            e2="DDI-MedLine.d174.s2.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d174.s2.p2" e1="DDI-MedLine.d174.s2.e1"
+            e2="DDI-MedLine.d174.s2.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d174.s3" text="In this paper we discuss peculiarities of drug interaction between cyclooxygenase inhibitors and acetylsalicylic acid, and principles of selection of adequate NSAI.">
+        <entity id="DDI-MedLine.d174.s3.e0" charOffset="67-91"
+            type="group" text="cyclooxygenase inhibitors"/>
+        <entity id="DDI-MedLine.d174.s3.e1" charOffset="97-116"
+            type="drug" text="acetylsalicylic acid"/>
+        <entity id="DDI-MedLine.d174.s3.e2" charOffset="159-162"
+            type="group" text="NSAI"/>
+        <pair id="DDI-MedLine.d174.s3.p0" e1="DDI-MedLine.d174.s3.e0"
+            e2="DDI-MedLine.d174.s3.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d174.s3.p1" e1="DDI-MedLine.d174.s3.e0"
+            e2="DDI-MedLine.d174.s3.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d174.s3.p2" e1="DDI-MedLine.d174.s3.e1"
+            e2="DDI-MedLine.d174.s3.e2" ddi="false"/>
+    </sentence>
+</document>

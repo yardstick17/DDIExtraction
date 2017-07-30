@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d153">
+    <sentence id="DDI-MedLine.d153.s0" text="Determination of propiverine hydrochloride in human plasma by high performance liquid chromatography-tandem mass spectrometry: application to the pharmacokinetic study of a sustained release formulation.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d153.s0.e0" charOffset="17-41"
+            type="drug" text="propiverine hydrochloride"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d153.s1" text="A rapid, sensitive and reliable high performance liquid chromatography-tandem mass spectrometry (HPLC-MS/MS) method was developed and validated for the determination of propiverine hydrochloride (CAS 54556-98-8) in human plasma using cetirizine di-hydrochloride as internal standard (IS, CAS 8388-51-0). ">
+        <entity id="DDI-MedLine.d153.s1.e0" charOffset="169-193"
+            type="drug" text="propiverine hydrochloride"/>
+        <entity id="DDI-MedLine.d153.s1.e1" charOffset="234-260"
+            type="drug" text="cetirizine di-hydrochloride"/>
+        <pair id="DDI-MedLine.d153.s1.p0" e1="DDI-MedLine.d153.s1.e0"
+            e2="DDI-MedLine.d153.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d153.s2" text="Following liquid-liquid extraction with ethyl acetate, the separation was performed on a reverse phase C18 column with a mobile phase consisted of methanol-ammonium acetate (pH 4.0; 10 mM) (70:30, v/v). ">
+        <entity id="DDI-MedLine.d153.s2.e0" charOffset="40-52"
+            type="drug_n" text="ethyl acetate"/>
+        <entity id="DDI-MedLine.d153.s2.e1" charOffset="147-171"
+            type="drug_n" text="methanol-ammonium acetate"/>
+        <pair id="DDI-MedLine.d153.s2.p0" e1="DDI-MedLine.d153.s2.e0"
+            e2="DDI-MedLine.d153.s2.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d153.s3" text="The detection was performed by a triple-quadrupole mass spectrometer in the positive ion and multiple reaction monitoring (MRM) mode, m/z 368.3 --> "/>
+    <sentence id="DDI-MedLine.d153.s4" text="116.1 for propiverine and m/z 389.2 --> ">
+        <entity id="DDI-MedLine.d153.s4.e0" charOffset="10-20"
+            type="drug" text="propiverine"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d153.s5" text="201.0 for the IS. "/>
+    <sentence id="DDI-MedLine.d153.s6" text="The calibration curve fitted well over the concentration range of 0.2-200 ng/mL (all the concentration data in this study are related to salt (propiverine hydrochloride)). ">
+        <entity id="DDI-MedLine.d153.s6.e0" charOffset="143-167"
+            type="drug" text="propiverine hydrochloride"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d153.s7" text="The limit of detection (LOD) and lower limit of quantification (LLOQ) in human plasma were 0.05 and 0.2 ng/mL, respectively. "/>
+    <sentence id="DDI-MedLine.d153.s8" text="The method was proved to be rapid, sensitive, specific, accurate and reproducible and has been successfully applied to a pharmacokinetic study of propiverine hydrochloride sustained release capsules (the 30 mg dose in this">
+        <entity id="DDI-MedLine.d153.s8.e0" charOffset="146-170"
+            type="drug" text="propiverine hydrochloride"/>
+    </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d754">
+    <sentence id="DDI-DrugBank.d754.s0" text="Drug/Laboratory Test Interactions: Potential interactions between ERTACZOTM Cream, 2%, and other drugs or laboratory tests have not been systematically evaluated.">
+        <entity id="DDI-DrugBank.d754.s0.e0" charOffset="66-74"
+            type="brand" text="ERTACZOTM"/>
+    </sentence>
+</document>

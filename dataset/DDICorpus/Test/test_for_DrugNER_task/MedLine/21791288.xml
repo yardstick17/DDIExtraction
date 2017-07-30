@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d176">
+    <sentence id="DDI-MedLine.d176.s0" text="Nitric oxide is an activity-dependent regulator of target neuron intrinsic excitability.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d176.s0.e0" charOffset="0-11"
+            type="drug" text="Nitric oxide"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d176.s1" text="Activity-dependent changes in synaptic strength are well established as mediating long-term plasticity underlying learning and memory, but modulation of  target neuron excitability could complement changes in synaptic strength and regulate network activity. "/>
+    <sentence id="DDI-MedLine.d176.s2" text="It is thought that homeostatic mechanisms match intrinsic excitability to the incoming synaptic drive, but evidence for involvement of voltage-gated conductances is sparse. "/>
+    <sentence id="DDI-MedLine.d176.s3" text="Here, we show that glutamatergic synaptic activity modulates target neuron excitability and switches the basis of action potential repolarization from Kv3 to Kv2 potassium channel dominance, thereby adjusting neuronal signaling between low and high activity states, respectively. "/>
+    <sentence id="DDI-MedLine.d176.s4" text="This nitric oxide-mediated signaling dramatically increases Kv2 currents in both the auditory brain stem and hippocampus (&amp;gt;3-fold) transforming synaptic integration and information transmission but with only modest changes in action potential waveform. "/>
+    <sentence id="DDI-MedLine.d176.s5" text="We conclude that nitric oxide is a homeostatic regulator, tuning neuronal excitability to the recent history of excitatory synaptic inputs over intervals of minutes to hours."/>
+</document>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d222">
+    <sentence id="DDI-MedLine.d222.s0" text="Treatment of nicotine dependence with Chantix (varenicline).&#xd;&#xa;">
+        <entity id="DDI-MedLine.d222.s0.e0" charOffset="13-20"
+            type="drug" text="nicotine"/>
+        <entity id="DDI-MedLine.d222.s0.e1" charOffset="38-44"
+            type="brand" text="Chantix"/>
+        <entity id="DDI-MedLine.d222.s0.e2" charOffset="47-57"
+            type="drug" text="varenicline"/>
+        <pair id="DDI-MedLine.d222.s0.p0" e1="DDI-MedLine.d222.s0.e0"
+            e2="DDI-MedLine.d222.s0.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d222.s0.p1" e1="DDI-MedLine.d222.s0.e0"
+            e2="DDI-MedLine.d222.s0.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d222.s0.p2" e1="DDI-MedLine.d222.s0.e1"
+            e2="DDI-MedLine.d222.s0.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d222.s1" text="Varenicline is the generic name for Chantix, the newest drug available for the treatment of tobacco dependence. ">
+        <entity id="DDI-MedLine.d222.s1.e0" charOffset="0-10"
+            type="drug" text="Varenicline"/>
+        <entity id="DDI-MedLine.d222.s1.e1" charOffset="36-42"
+            type="brand" text="Chantix"/>
+        <pair id="DDI-MedLine.d222.s1.p0" e1="DDI-MedLine.d222.s1.e0"
+            e2="DDI-MedLine.d222.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d222.s2" text="In a randomized controlled clinical trial, the abstinence rate at 1 year for patients using varencline was superior to that of patients in the group using bupropion SR (Zyban) and in the placebo group (11). ">
+        <entity id="DDI-MedLine.d222.s2.e0" charOffset="92-101"
+            type="drug" text="varencline"/>
+        <entity id="DDI-MedLine.d222.s2.e1" charOffset="155-166"
+            type="drug" text="bupropion SR"/>
+        <entity id="DDI-MedLine.d222.s2.e2" charOffset="169-173"
+            type="brand" text="Zyban"/>
+        <pair id="DDI-MedLine.d222.s2.p0" e1="DDI-MedLine.d222.s2.e0"
+            e2="DDI-MedLine.d222.s2.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d222.s2.p1" e1="DDI-MedLine.d222.s2.e0"
+            e2="DDI-MedLine.d222.s2.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d222.s2.p2" e1="DDI-MedLine.d222.s2.e1"
+            e2="DDI-MedLine.d222.s2.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d222.s3" text="Varenicline reduces nicotine withdrawal symptoms, cigarette craving and nicotine satisfaction. ">
+        <entity id="DDI-MedLine.d222.s3.e0" charOffset="0-10"
+            type="drug" text="Varenicline"/>
+        <entity id="DDI-MedLine.d222.s3.e1" charOffset="20-27"
+            type="drug" text="nicotine"/>
+        <entity id="DDI-MedLine.d222.s3.e2" charOffset="72-79"
+            type="drug" text="nicotine"/>
+        <pair id="DDI-MedLine.d222.s3.p0" e1="DDI-MedLine.d222.s3.e0"
+            e2="DDI-MedLine.d222.s3.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d222.s3.p1" e1="DDI-MedLine.d222.s3.e0"
+            e2="DDI-MedLine.d222.s3.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d222.s3.p2" e1="DDI-MedLine.d222.s3.e1"
+            e2="DDI-MedLine.d222.s3.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d222.s4" text="Post-market reports prompted a warning of serious adverse neuropsychiatric events in patients taking varenicline. ">
+        <entity id="DDI-MedLine.d222.s4.e0" charOffset="101-111"
+            type="drug" text="varenicline"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d222.s5" text="As is the case with any surgical procedure and/or prescription medication, full disclosure of the risks and benefits should be discussed with the patient. "/>
+    <sentence id="DDI-MedLine.d222.s6" text="The significant health benefits of quitting smoking should be weighed against the individual's risk of adverse events associated with the use of varenicline for smoking cessation.">
+        <entity id="DDI-MedLine.d222.s6.e0" charOffset="145-155"
+            type="drug" text="varenicline"/>
+    </sentence>
+</document>

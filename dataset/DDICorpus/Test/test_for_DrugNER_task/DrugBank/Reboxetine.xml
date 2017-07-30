@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d719">
+    <sentence id="DDI-DrugBank.d719.s0" text="Combined usage of MAO inhibitors should be avoided">
+        <entity id="DDI-DrugBank.d719.s0.e0" charOffset="18-31"
+            type="group" text="MAO inhibitors"/>
+    </sentence>
+</document>

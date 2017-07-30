@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d663">
+    <sentence id="DDI-DrugBank.d663.s0" text="Drug interaction studies have not been conducted with LUCENTIS. ">
+        <entity id="DDI-DrugBank.d663.s0.e0" charOffset="54-61"
+            type="brand" text="LUCENTIS"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d663.s1" text="LUCENTIS intravitreal injection has been used adjunctively with verteporfin photodynamic therapy (PDT). ">
+        <entity id="DDI-DrugBank.d663.s1.e0" charOffset="0-7"
+            type="brand" text="LUCENTIS"/>
+        <entity id="DDI-DrugBank.d663.s1.e1" charOffset="64-74"
+            type="drug" text="verteporfin"/>
+        <pair id="DDI-DrugBank.d663.s1.p0" e1="DDI-DrugBank.d663.s1.e0"
+            e2="DDI-DrugBank.d663.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d663.s2" text="Twelve of 105 (11%) patients developed serious intraocular inflammation; "/>
+    <sentence id="DDI-DrugBank.d663.s3" text="in 10 of the 12 patients, this occurred when LUCENTIS was administered 7 days (   2 days) after verteporfin PDT.">
+        <entity id="DDI-DrugBank.d663.s3.e0" charOffset="45-52"
+            type="brand" text="LUCENTIS"/>
+        <entity id="DDI-DrugBank.d663.s3.e1" charOffset="96-106"
+            type="drug" text="verteporfin"/>
+        <pair id="DDI-DrugBank.d663.s3.p0" e1="DDI-DrugBank.d663.s3.e0"
+            e2="DDI-DrugBank.d663.s3.e1" ddi="false"/>
+    </sentence>
+</document>

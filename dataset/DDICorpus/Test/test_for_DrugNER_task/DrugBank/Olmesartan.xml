@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d673">
+    <sentence id="DDI-DrugBank.d673.s0" text="No significant drug interactions were reported in studies in which olmesartan medoxomil was co-administered with digoxin or warfarin in healthy volunteers. ">
+        <entity id="DDI-DrugBank.d673.s0.e0" charOffset="67-86"
+            type="drug" text="olmesartan medoxomil"/>
+        <entity id="DDI-DrugBank.d673.s0.e1" charOffset="113-119"
+            type="drug" text="digoxin"/>
+        <entity id="DDI-DrugBank.d673.s0.e2" charOffset="124-131"
+            type="drug" text="warfarin"/>
+        <pair id="DDI-DrugBank.d673.s0.p0" e1="DDI-DrugBank.d673.s0.e0"
+            e2="DDI-DrugBank.d673.s0.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d673.s0.p1" e1="DDI-DrugBank.d673.s0.e0"
+            e2="DDI-DrugBank.d673.s0.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d673.s0.p2" e1="DDI-DrugBank.d673.s0.e1"
+            e2="DDI-DrugBank.d673.s0.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d673.s1" text="The bioavailability of olmesartan was not significantly altered by the co-administration of antacids [Al(OH)3/Mg(OH)2]. ">
+        <entity id="DDI-DrugBank.d673.s1.e0" charOffset="23-32"
+            type="drug" text="olmesartan"/>
+        <entity id="DDI-DrugBank.d673.s1.e1" charOffset="92-99"
+            type="group" text="antacids"/>
+        <pair id="DDI-DrugBank.d673.s1.p0" e1="DDI-DrugBank.d673.s1.e0"
+            e2="DDI-DrugBank.d673.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d673.s2" text="Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; ">
+        <entity id="DDI-DrugBank.d673.s2.e0" charOffset="0-19"
+            type="drug" text="Olmesartan medoxomil"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d673.s3" text="thus, interactions with drugs that inhibit, induce or are metabolized by those enzymes are not expected."/>
+</document>

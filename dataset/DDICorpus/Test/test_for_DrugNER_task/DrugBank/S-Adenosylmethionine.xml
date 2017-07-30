@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d745">
+    <sentence id="DDI-DrugBank.d745.s0" text="There are so far no reported adverse interactions with SAMe and other drugs, dietary supplements or foods.">
+        <entity id="DDI-DrugBank.d745.s0.e0" charOffset="55-58"
+            type="drug" text="SAMe"/>
+    </sentence>
+</document>

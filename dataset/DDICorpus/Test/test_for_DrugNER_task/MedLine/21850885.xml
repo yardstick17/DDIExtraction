@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d187">
+    <sentence id="DDI-MedLine.d187.s0" text="[Variability of cannabinoid findings in blood].&#xd;&#xa;">
+        <entity id="DDI-MedLine.d187.s0.e0" charOffset="16-26"
+            type="drug_n" text="cannabinoid"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d187.s1" text="Cannabis products have been administered for many centuries; "/>
+    <sentence id="DDI-MedLine.d187.s2" text="today, cannabis is the most widely used illegal drug all over the world. "/>
+    <sentence id="DDI-MedLine.d187.s3" text="Nevertheless, the interpretation of cannabis findings in blood with regard to consumption behaviour and/or estimating the elapsed time since the last cannabis use is still a very challenging task. "/>
+    <sentence id="DDI-MedLine.d187.s4" text="A wide variation of pharmacokinetic parameters has been observed even in experimental studies. "/>
+    <sentence id="DDI-MedLine.d187.s5" text="Different chemical structures of precursors, smoking dynamics, pyrolysis of phytocannabinoids and frequency of drug use affect the amount of THC absorbed. ">
+        <entity id="DDI-MedLine.d187.s5.e0" charOffset="76-92"
+            type="drug_n" text="phytocannabinoids"/>
+        <entity id="DDI-MedLine.d187.s5.e1" charOffset="141-143"
+            type="drug_n" text="THC"/>
+        <pair id="DDI-MedLine.d187.s5.p0" e1="DDI-MedLine.d187.s5.e0"
+            e2="DDI-MedLine.d187.s5.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d187.s6" text="Polymorphic enzymes are involved in phase-I-metabolism of THC. ">
+        <entity id="DDI-MedLine.d187.s6.e0" charOffset="58-60"
+            type="drug_n" text="THC"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d187.s7" text="Pharmacological effects of other cannabinoids or medication on the pharmacokinetics of THC have not yet been studied in detail. ">
+        <entity id="DDI-MedLine.d187.s7.e0" charOffset="33-44"
+            type="drug_n" text="cannabinoids"/>
+        <entity id="DDI-MedLine.d187.s7.e1" charOffset="87-89"
+            type="drug_n" text="THC"/>
+        <pair id="DDI-MedLine.d187.s7.p0" e1="DDI-MedLine.d187.s7.e0"
+            e2="DDI-MedLine.d187.s7.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d187.s8" text="Hydrolysis of cannabis conjugates may occur during storage of blood samples and processing of specimens for analysis; "/>
+    <sentence id="DDI-MedLine.d187.s9" text="knowledge on the stability of cannabinoids in forensic specimens is still poor. ">
+        <entity id="DDI-MedLine.d187.s9.e0" charOffset="30-41"
+            type="drug_n" text="cannabinoids"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d187.s10" text="Whether determination of cannabinoid conjugates may be useful is a matter of further consideration. ">
+        <entity id="DDI-MedLine.d187.s10.e0" charOffset="25-35"
+            type="drug_n" text="cannabinoid"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d187.s11" text="At present, the broad variation of pharmacokinetic parameters and the limiting factors discussed in the present paper should be taken into account when using data from experimental studies for interpretation of analytical results in forensic case work."/>
+</document>

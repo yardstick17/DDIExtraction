@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d178">
+    <sentence id="DDI-MedLine.d178.s0" text="[Ticagrelor: a novel antiplatelet agent for patients with acute coronary syndrome].&#xd;&#xa;">
+        <entity id="DDI-MedLine.d178.s0.e0" charOffset="1-10"
+            type="drug" text="Ticagrelor"/>
+        <entity id="DDI-MedLine.d178.s0.e1" charOffset="21-38"
+            type="group" text="antiplatelet agent"/>
+        <pair id="DDI-MedLine.d178.s0.p0" e1="DDI-MedLine.d178.s0.e0"
+            e2="DDI-MedLine.d178.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d178.s1" text="Ticagrelor is an oral, reversible blocker of the P2Y12 adenosine receptor. ">
+        <entity id="DDI-MedLine.d178.s1.e0" charOffset="0-9" type="drug" text="Ticagrelor"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d178.s2" text="In clinical trials the antiplatelet agent reduced significantly vascular mortality and death from any cause when compared to clopidogrel in patients with acute coronary syndrome.">
+        <entity id="DDI-MedLine.d178.s2.e0" charOffset="23-40"
+            type="group" text="antiplatelet agent"/>
+        <entity id="DDI-MedLine.d178.s2.e1" charOffset="125-135"
+            type="drug" text="clopidogrel"/>
+        <pair id="DDI-MedLine.d178.s2.p0" e1="DDI-MedLine.d178.s2.e0"
+            e2="DDI-MedLine.d178.s2.e1" ddi="false"/>
+    </sentence>
+</document>

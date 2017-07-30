@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d667">
+    <sentence id="DDI-DrugBank.d667.s0" text="Severe hypertension has been reported when oxytocin was given three to four hours following prophylactic administration of a vasoconstrictor in conjunction with caudal block anesthesia. ">
+        <entity id="DDI-DrugBank.d667.s0.e0" charOffset="43-50"
+            type="drug" text="oxytocin"/>
+        <entity id="DDI-DrugBank.d667.s0.e1" charOffset="125-139"
+            type="group" text="vasoconstrictor"/>
+        <pair id="DDI-DrugBank.d667.s0.p0" e1="DDI-DrugBank.d667.s0.e0"
+            e2="DDI-DrugBank.d667.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d667.s1" text="Cyclopropane anesthesia may modify oxytocin   s cardiovascular effects, so as to produce unexpected results such as hypotension. ">
+        <entity id="DDI-DrugBank.d667.s1.e0" charOffset="35-42"
+            type="drug" text="oxytocin"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d667.s2" text="Maternal sinus bradycardia with abnormal atrioventricular rhythms has also been noted when oxytocin was used concomitantly with cyclopropane anesthesia.    ">
+        <entity id="DDI-DrugBank.d667.s2.e0" charOffset="91-98"
+            type="drug" text="oxytocin"/>
+    </sentence>
+</document>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d192">
+    <sentence id="DDI-MedLine.d192.s0" text="Identification of a dopamine receptor-mediated opiate reward memory switch in the basolateral amygdala-nucleus accumbens circuit.">
+        <entity id="DDI-MedLine.d192.s0.e0" charOffset="47-52"
+            type="group" text="opiate"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d192.s1" text="The basolateral amygdala (BLA), ventral tegmental area (VTA), and nucleus accumbens (NAc) play central roles in the processing of opiate-related associative reward learning and memory. ">
+        <entity id="DDI-MedLine.d192.s1.e0" charOffset="130-135"
+            type="group" text="opiate"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d192.s2" text="The BLA receives innervation from dopaminergic fibers originating in the VTA, and both dopamine (DA) D1 and D2 receptors are expressed in this region. "/>
+    <sentence id="DDI-MedLine.d192.s3" text="Using a combination of in vivo single-unit extracellular recording in the NAc combined with behavioral pharmacology studies, we have identified a double dissociation in the functional roles of DA D1 versus D2 receptor transmission in the BLA, which depends on opiate exposure state; ">
+        <entity id="DDI-MedLine.d192.s3.e0" charOffset="260-265"
+            type="group" text="opiate"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d192.s4" text="thus, in previously opiate-naive rats, blockade of intra-BLA D1, but not D2, receptor transmission blocked the acquisition of associative opiate reward memory, measured in an unbiased conditioned place preference procedure. ">
+        <entity id="DDI-MedLine.d192.s4.e0" charOffset="20-25"
+            type="group" text="opiate"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d192.s5" text="In direct contrast, in rats made opiate dependent and conditioned in a state of withdrawal, intra-BLA D2, but not D1, receptor blockade blocked opiate reward encoding. ">
+        <entity id="DDI-MedLine.d192.s5.e0" charOffset="33-38"
+            type="group" text="opiate"/>
+        <entity id="DDI-MedLine.d192.s5.e1" charOffset="144-149"
+            type="group" text="opiate"/>
+        <pair id="DDI-MedLine.d192.s5.p0" e1="DDI-MedLine.d192.s5.e0"
+            e2="DDI-MedLine.d192.s5.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d192.s6" text="This functional switch was dependent on cAMP signaling as comodulation of intra-BLA cAMP levels reversed or replicated the functional effects of intra-BLA D1 or D2 transmission during opiate reward processing. ">
+        <entity id="DDI-MedLine.d192.s6.e0" charOffset="184-189"
+            type="group" text="opiate"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d192.s7" text="Single-unit in vivo extracellular recordings performed in neurons of the NAc confirmed an opiate-state-dependent role for BLA D1/D2 transmission in NAc neuronal response patterns to morphine. ">
+        <entity id="DDI-MedLine.d192.s7.e0" charOffset="90-95"
+            type="group" text="opiate"/>
+        <entity id="DDI-MedLine.d192.s7.e1" charOffset="182-189"
+            type="drug" text="morphine"/>
+        <pair id="DDI-MedLine.d192.s7.p0" e1="DDI-MedLine.d192.s7.e0"
+            e2="DDI-MedLine.d192.s7.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d192.s8" text="Our results characterize and identify a novel opiate addiction switching mechanism directly in the BLA that can control the processing of opiate reward information as a direct function of opiate exposure state via D1 or D2 receptor signaling substrates.">
+        <entity id="DDI-MedLine.d192.s8.e0" charOffset="46-51"
+            type="group" text="opiate"/>
+        <entity id="DDI-MedLine.d192.s8.e1" charOffset="138-143"
+            type="group" text="opiate"/>
+        <entity id="DDI-MedLine.d192.s8.e2" charOffset="188-193"
+            type="group" text="opiate"/>
+        <pair id="DDI-MedLine.d192.s8.p0" e1="DDI-MedLine.d192.s8.e0"
+            e2="DDI-MedLine.d192.s8.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d192.s8.p1" e1="DDI-MedLine.d192.s8.e0"
+            e2="DDI-MedLine.d192.s8.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d192.s8.p2" e1="DDI-MedLine.d192.s8.e1"
+            e2="DDI-MedLine.d192.s8.e2" ddi="false"/>
+    </sentence>
+</document>

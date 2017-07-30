@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d158">
+    <sentence id="DDI-MedLine.d158.s0" text="Combining chondroitinase ABC and growth factors promotes the integration of murine retinal progenitor cells transplanted into Rho(-/-) mice.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d158.s1" text="The aim of this study is to investigate the synergistic effect of chondroitinase ABC and growth factors in the integration of murine retinal progenitor cells (mRPCs) transplanted into Rho(-/-) mice."/>
+    <sentence id="DDI-MedLine.d158.s2" text="mRPCs from P1 green fluorescent protein-transgenic mice were isolated and expanded for transplantation. "/>
+    <sentence id="DDI-MedLine.d158.s3" text="All mRPCs of 20 passages or less were transplanted into the subretinal space of B6 mice together with chondroitinase ABC, and into Rho(-/-) mice combined with chondroitinase ABC, N-[N-(3, 5-Difluorophenacetyl)-L-alanyl]-S-phenylglycine t-butyl ester (DAPT), and insulin growth factor (IGF)-1. ">
+        <entity id="DDI-MedLine.d158.s3.e0" charOffset="179-248"
+            type="drug_n" text="N-[N-(3, 5-Difluorophenacetyl)-L-alanyl]-S-phenylglycine t-butyl ester"/>
+        <entity id="DDI-MedLine.d158.s3.e1" charOffset="251-254"
+            type="drug_n" text="DAPT"/>
+        <entity id="DDI-MedLine.d158.s3.e2" charOffset="262-282"
+            type="drug_n" text="insulin growth factor"/>
+        <entity id="DDI-MedLine.d158.s3.e3" charOffset="284-290"
+            type="drug_n" text="(IGF)-1"/>
+        <pair id="DDI-MedLine.d158.s3.p0" e1="DDI-MedLine.d158.s3.e0"
+            e2="DDI-MedLine.d158.s3.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d158.s3.p1" e1="DDI-MedLine.d158.s3.e0"
+            e2="DDI-MedLine.d158.s3.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d158.s3.p2" e1="DDI-MedLine.d158.s3.e0"
+            e2="DDI-MedLine.d158.s3.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d158.s3.p3" e1="DDI-MedLine.d158.s3.e1"
+            e2="DDI-MedLine.d158.s3.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d158.s3.p4" e1="DDI-MedLine.d158.s3.e1"
+            e2="DDI-MedLine.d158.s3.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d158.s3.p5" e1="DDI-MedLine.d158.s3.e2"
+            e2="DDI-MedLine.d158.s3.e3" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d158.s4" text="Cell counts were used to examine the migration and survival rate of mRPCs in B6 mice. "/>
+    <sentence id="DDI-MedLine.d158.s5" text="Immunohistochemistry was used to evaluate the differentiation and integration of mRPCs in B6 and Rho(-/-) mice. "/>
+    <sentence id="DDI-MedLine.d158.s6" text="Our results show that substantial numbers of mRPCs migrated and survived in the retina when transplanted with chondroitinase ABC into B6 and Rho(-/-) mice. "/>
+    <sentence id="DDI-MedLine.d158.s7" text="Chondroitinase ABC disrupted the glial scar around the mRPCs in the subretinal space. "/>
+    <sentence id="DDI-MedLine.d158.s8" text="Only a few mRPCs expressed recoverin in B6 mice. "/>
+    <sentence id="DDI-MedLine.d158.s9" text="More mRPCs expressed rhodopsin, recoverin, and synaptophysin after transplantation into Rho(-/-) mice when combined with chondroitinase ABC and growth factors. "/>
+    <sentence id="DDI-MedLine.d158.s10" text="The synergistic effect of chondroitinase ABC and growth factors facilitates the anatomic integration of mRPCs transplanted into Rho(-/-) mice."/>
+</document>

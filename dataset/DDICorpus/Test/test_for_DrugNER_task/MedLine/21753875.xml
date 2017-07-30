@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d212">
+    <sentence id="DDI-MedLine.d212.s0" text="Improvement of colchicine oral bioavailability by incorporating eugenol in the nanoemulsion as an oil excipient and enhancer.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d212.s0.e0" charOffset="15-24"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d212.s0.e1" charOffset="64-70"
+            type="drug" text="eugenol"/>
+        <pair id="DDI-MedLine.d212.s0.p0" e1="DDI-MedLine.d212.s0.e0"
+            e2="DDI-MedLine.d212.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s1" text="The effect of eugenol on colchicine transport across an isolated rat intestinal membrane was studied using an in vitro diffusion chamber system. ">
+        <entity id="DDI-MedLine.d212.s1.e0" charOffset="14-20"
+            type="drug" text="eugenol"/>
+        <entity id="DDI-MedLine.d212.s1.e1" charOffset="25-34"
+            type="drug" text="colchicine"/>
+        <pair id="DDI-MedLine.d212.s1.p0" e1="DDI-MedLine.d212.s1.e0"
+            e2="DDI-MedLine.d212.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s2" text="We found that eugenol increased the absorptive transport of the drug efficiently. ">
+        <entity id="DDI-MedLine.d212.s2.e0" charOffset="14-20"
+            type="drug" text="eugenol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s3" text="The effect of eugenol on intestinal absorption of colchicine in an oral administrative nanoemulsion formulation was also demonstrated in vivo. ">
+        <entity id="DDI-MedLine.d212.s3.e0" charOffset="14-20"
+            type="drug" text="eugenol"/>
+        <entity id="DDI-MedLine.d212.s3.e1" charOffset="50-59"
+            type="drug" text="colchicine"/>
+        <pair id="DDI-MedLine.d212.s3.p0" e1="DDI-MedLine.d212.s3.e0"
+            e2="DDI-MedLine.d212.s3.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s4" text="The colchicine nanoemulsion was prepared with isopropyl myristate, eugenol, Tween80, ethanol and water, and eugenol was used as an oil phase in the formulation; ">
+        <entity id="DDI-MedLine.d212.s4.e0" charOffset="4-13"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d212.s4.e1" charOffset="46-64"
+            type="drug_n" text="isopropyl myristate"/>
+        <entity id="DDI-MedLine.d212.s4.e2" charOffset="67-73"
+            type="drug" text="eugenol"/>
+        <entity id="DDI-MedLine.d212.s4.e3" charOffset="76-82"
+            type="drug_n" text="Tween80"/>
+        <entity id="DDI-MedLine.d212.s4.e4" charOffset="85-91"
+            type="drug" text="ethanol"/>
+        <entity id="DDI-MedLine.d212.s4.e5" charOffset="108-114"
+            type="drug" text="eugenol"/>
+        <pair id="DDI-MedLine.d212.s4.p0" e1="DDI-MedLine.d212.s4.e0"
+            e2="DDI-MedLine.d212.s4.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p1" e1="DDI-MedLine.d212.s4.e0"
+            e2="DDI-MedLine.d212.s4.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p2" e1="DDI-MedLine.d212.s4.e0"
+            e2="DDI-MedLine.d212.s4.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p3" e1="DDI-MedLine.d212.s4.e0"
+            e2="DDI-MedLine.d212.s4.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p4" e1="DDI-MedLine.d212.s4.e0"
+            e2="DDI-MedLine.d212.s4.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p5" e1="DDI-MedLine.d212.s4.e1"
+            e2="DDI-MedLine.d212.s4.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p6" e1="DDI-MedLine.d212.s4.e1"
+            e2="DDI-MedLine.d212.s4.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p7" e1="DDI-MedLine.d212.s4.e1"
+            e2="DDI-MedLine.d212.s4.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p8" e1="DDI-MedLine.d212.s4.e1"
+            e2="DDI-MedLine.d212.s4.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p9" e1="DDI-MedLine.d212.s4.e2"
+            e2="DDI-MedLine.d212.s4.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p10" e1="DDI-MedLine.d212.s4.e2"
+            e2="DDI-MedLine.d212.s4.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p11" e1="DDI-MedLine.d212.s4.e2"
+            e2="DDI-MedLine.d212.s4.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p12" e1="DDI-MedLine.d212.s4.e3"
+            e2="DDI-MedLine.d212.s4.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p13" e1="DDI-MedLine.d212.s4.e3"
+            e2="DDI-MedLine.d212.s4.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s4.p14" e1="DDI-MedLine.d212.s4.e4"
+            e2="DDI-MedLine.d212.s4.e5" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s5" text="an average particle size of this nanoemulsion was 41.2    7.2 nm. "/>
+    <sentence id="DDI-MedLine.d212.s6" text="The permeation of colchicine in the nanoemulsion across the intestinal membrane was significantly different from that of the control group (0.2 mM colchicine). ">
+        <entity id="DDI-MedLine.d212.s6.e0" charOffset="18-27"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d212.s6.e1" charOffset="147-156"
+            type="drug" text="colchicine"/>
+        <pair id="DDI-MedLine.d212.s6.p0" e1="DDI-MedLine.d212.s6.e0"
+            e2="DDI-MedLine.d212.s6.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s7" text="Finally, co-administration of eugenol in colchicine nanoemulsion to enhance the colchicine bioavailability was investigated by an oral administration method. ">
+        <entity id="DDI-MedLine.d212.s7.e0" charOffset="30-36"
+            type="drug" text="eugenol"/>
+        <entity id="DDI-MedLine.d212.s7.e1" charOffset="41-50"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d212.s7.e2" charOffset="80-89"
+            type="drug" text="colchicine"/>
+        <pair id="DDI-MedLine.d212.s7.p0" e1="DDI-MedLine.d212.s7.e0"
+            e2="DDI-MedLine.d212.s7.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s7.p1" e1="DDI-MedLine.d212.s7.e0"
+            e2="DDI-MedLine.d212.s7.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s7.p2" e1="DDI-MedLine.d212.s7.e1"
+            e2="DDI-MedLine.d212.s7.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s8" text="After oral administration of colchicine (8 mg/kg) in the form of either the nanoemulsion or in free colchicine solution, the relative bioavailability of nanoemulsion and eugenol-nanoemulsion were enhanced by about 1.6- and 2.1-fold, respectively, compared with free colchicine solution. ">
+        <entity id="DDI-MedLine.d212.s8.e0" charOffset="29-38"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d212.s8.e1" charOffset="100-109"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d212.s8.e2" charOffset="170-176"
+            type="drug" text="eugenol"/>
+        <entity id="DDI-MedLine.d212.s8.e3" charOffset="266-275"
+            type="drug" text="colchicine"/>
+        <pair id="DDI-MedLine.d212.s8.p0" e1="DDI-MedLine.d212.s8.e0"
+            e2="DDI-MedLine.d212.s8.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s8.p1" e1="DDI-MedLine.d212.s8.e0"
+            e2="DDI-MedLine.d212.s8.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s8.p2" e1="DDI-MedLine.d212.s8.e0"
+            e2="DDI-MedLine.d212.s8.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s8.p3" e1="DDI-MedLine.d212.s8.e1"
+            e2="DDI-MedLine.d212.s8.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s8.p4" e1="DDI-MedLine.d212.s8.e1"
+            e2="DDI-MedLine.d212.s8.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d212.s8.p5" e1="DDI-MedLine.d212.s8.e2"
+            e2="DDI-MedLine.d212.s8.e3" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s9" text="The procedure indicated that the intestinal absorption of colchicine was enhanced significantly by eugenol in the tested nanoemulsion. ">
+        <entity id="DDI-MedLine.d212.s9.e0" charOffset="58-67"
+            type="drug" text="colchicine"/>
+        <entity id="DDI-MedLine.d212.s9.e1" charOffset="99-105"
+            type="drug" text="eugenol"/>
+        <pair id="DDI-MedLine.d212.s9.p0" e1="DDI-MedLine.d212.s9.e0"
+            e2="DDI-MedLine.d212.s9.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d212.s10" text="All the results suggested that eugenol is an efficient component in an oral administrative formulation for improving the intestinal absorption of colchicine.">
+        <entity id="DDI-MedLine.d212.s10.e0" charOffset="31-37"
+            type="drug" text="eugenol"/>
+        <entity id="DDI-MedLine.d212.s10.e1" charOffset="146-155"
+            type="drug" text="colchicine"/>
+        <pair id="DDI-MedLine.d212.s10.p0" e1="DDI-MedLine.d212.s10.e0"
+            e2="DDI-MedLine.d212.s10.e1" ddi="false"/>
+    </sentence>
+</document>

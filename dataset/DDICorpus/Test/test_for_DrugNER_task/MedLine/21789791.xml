@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d229">
+    <sentence id="DDI-MedLine.d229.s0" text="Novel insights into the synergistic interaction of Bortezomib and TRAIL: tBid provides the link.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d229.s0.e0" charOffset="51-60"
+            type="drug" text="Bortezomib"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d229.s1" text="The proteasome inhibitor Bortezomib has been identified as a potent enhancer of TRAIL-induced apoptosis in several human cancers. ">
+        <entity id="DDI-MedLine.d229.s1.e0" charOffset="25-34"
+            type="drug" text="Bortezomib"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d229.s2" text="However, the identification of the underlying molecular mechanisms of this synergistic cell death induction has been ongoing over the last years. "/>
+    <sentence id="DDI-MedLine.d229.s3" text="A recent study identifies a new mechanism of action for the synergism of TRAIL and Bortezomib.">
+        <entity id="DDI-MedLine.d229.s3.e0" charOffset="83-92"
+            type="drug" text="Bortezomib"/>
+    </sentence>
+</document>

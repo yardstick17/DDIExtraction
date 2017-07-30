@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d150">
+    <sentence id="DDI-MedLine.d150.s0" text="Network neighbors of drug targets contribute to drug side-effect similarity.&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d150.s1" text="In pharmacology, it is essential to identify the molecular mechanisms of drug action in order to understand adverse side effects. "/>
+    <sentence id="DDI-MedLine.d150.s2" text="These adverse side effects have been used to infer whether two drugs share a target protein. "/>
+    <sentence id="DDI-MedLine.d150.s3" text="However, side-effect similarity of drugs could also be caused by their target proteins being close in a molecular network, which as such could cause similar downstream effects. "/>
+    <sentence id="DDI-MedLine.d150.s4" text="In this study, we investigated the proportion of side-effect similarities that is due to targets that are close in the network compared to shared drug targets. "/>
+    <sentence id="DDI-MedLine.d150.s5" text="We found that only a minor fraction of side-effect similarities (5.8 %) are caused by drugs targeting proteins close in the network, compared to side-effect similarities caused by overlapping drug targets (64%). "/>
+    <sentence id="DDI-MedLine.d150.s6" text="Moreover, these targets that cause similar side effects are more often in a linear part of the network, having two or less interactions, than drug targets in general. "/>
+    <sentence id="DDI-MedLine.d150.s7" text="Based on the examples, we gained novel insight into the molecular mechanisms of side effects associated with several drug targets. "/>
+    <sentence id="DDI-MedLine.d150.s8" text="Looking forward, such analyses will be extremely useful in the process of drug development to better understand adverse side effects."/>
+</document>

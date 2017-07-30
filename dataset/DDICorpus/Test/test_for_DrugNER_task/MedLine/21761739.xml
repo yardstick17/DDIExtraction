@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d142">
+    <sentence id="DDI-MedLine.d142.s0" text="[Effects of glycyrrhiza extract on pharmacokinetics property of daphnetin in rats].&#xd;&#xa;">
+        <entity id="DDI-MedLine.d142.s0.e0" charOffset="12-30"
+            type="drug_n" text="glycyrrhiza extract"/>
+        <entity id="DDI-MedLine.d142.s0.e1" charOffset="64-72"
+            type="drug_n" text="daphnetin"/>
+        <pair id="DDI-MedLine.d142.s0.p0" e1="DDI-MedLine.d142.s0.e0"
+            e2="DDI-MedLine.d142.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d142.s1" text="To research the influence of glycyrrhiza extract on the pharmacokinetics characteristic parameters of daphnetin, which was aimed to explore the rationality of concert application of drugs.">
+        <entity id="DDI-MedLine.d142.s1.e0" charOffset="29-47"
+            type="drug_n" text="glycyrrhiza extract"/>
+        <entity id="DDI-MedLine.d142.s1.e1" charOffset="102-110"
+            type="drug_n" text="daphnetin"/>
+        <pair id="DDI-MedLine.d142.s1.p0" e1="DDI-MedLine.d142.s1.e0"
+            e2="DDI-MedLine.d142.s1.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d142.s2" text="The rats received intragastric administration of daphnetin and glycyrrhiza extract containing the same daphnetin respectively. ">
+        <entity id="DDI-MedLine.d142.s2.e0" charOffset="49-57"
+            type="drug_n" text="daphnetin"/>
+        <entity id="DDI-MedLine.d142.s2.e1" charOffset="63-81"
+            type="drug_n" text="glycyrrhiza extract"/>
+        <entity id="DDI-MedLine.d142.s2.e2" charOffset="103-111"
+            type="drug_n" text="daphnetin"/>
+        <pair id="DDI-MedLine.d142.s2.p0" e1="DDI-MedLine.d142.s2.e0"
+            e2="DDI-MedLine.d142.s2.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d142.s2.p1" e1="DDI-MedLine.d142.s2.e0"
+            e2="DDI-MedLine.d142.s2.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d142.s2.p2" e1="DDI-MedLine.d142.s2.e1"
+            e2="DDI-MedLine.d142.s2.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d142.s3" text="The blood concentration of daphnetin was assayed by LC-MS. ">
+        <entity id="DDI-MedLine.d142.s3.e0" charOffset="27-35"
+            type="drug_n" text="daphnetin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d142.s4" text="The data was processed by program DAS2.1.1. "/>
+    <sentence id="DDI-MedLine.d142.s5" text="Glycyrrhiza extract can reduce the t(1/2), tmax and Ke of daphnetin, while increased the Ka and AUC(0-infinity). ">
+        <entity id="DDI-MedLine.d142.s5.e0" charOffset="58-66"
+            type="drug_n" text="daphnetin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d142.s6" text="Glycyrrhiza extract promoted the oral absorption of daphnetin, slowed down the elimination and increased the biological availability.">
+        <entity id="DDI-MedLine.d142.s6.e0" charOffset="52-60"
+            type="drug_n" text="daphnetin"/>
+    </sentence>
+</document>

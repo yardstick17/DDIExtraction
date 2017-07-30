@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d156">
+    <sentence id="DDI-MedLine.d156.s0" text="ABC transporters influence sensitivity of Brugia malayi to moxidectin and have potential roles in drug resistance.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d156.s0.e0" charOffset="59-68"
+            type="drug_n" text="moxidectin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d156.s1" text="Some ABC transporters play a significant role in human health and illness because they confer multidrug resistance (MDR) through their overexpression. "/>
+    <sentence id="DDI-MedLine.d156.s2" text="Compounds that inhibit the drug efflux mechanism can improve efficacy or reverse resistance. "/>
+    <sentence id="DDI-MedLine.d156.s3" text="Of the eight described ABC transporter subfamilies, those proteins conferring MDR in humans are in subfamilies A, B, C, and G. "/>
+    <sentence id="DDI-MedLine.d156.s4" text="In nematodes, transporters in subfamilies B and C are suggested to confer resistance to ivermectin. ">
+        <entity id="DDI-MedLine.d156.s4.e0" charOffset="88-97"
+            type="drug" text="ivermectin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d156.s5" text="The Brugia malayi ABC transporter superfamily was examined to assess their potential to influence sensitivity to moxidectin. ">
+        <entity id="DDI-MedLine.d156.s5.e0" charOffset="113-122"
+            type="drug_n" text="moxidectin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d156.s6" text="There was an increase in expression of ABC transporters in subfamilies A, B, C, and G following treatment. "/>
+    <sentence id="DDI-MedLine.d156.s7" text="Co-administration of moxidectin with inhibitors of ABC transporter function did not enhance sensitivity to moxidectin in males; ">
+        <entity id="DDI-MedLine.d156.s7.e0" charOffset="21-30"
+            type="drug_n" text="moxidectin"/>
+        <entity id="DDI-MedLine.d156.s7.e1" charOffset="107-116"
+            type="drug_n" text="moxidectin"/>
+        <pair id="DDI-MedLine.d156.s7.p0" e1="DDI-MedLine.d156.s7.e0"
+            e2="DDI-MedLine.d156.s7.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d156.s8" text="however, sensitivity was significantly enhanced in females and microfilariae. "/>
+    <sentence id="DDI-MedLine.d156.s9" text="The work suggests that ABC transporters influence sensitivity to moxidectin and have a potential role in drug resistance.">
+        <entity id="DDI-MedLine.d156.s9.e0" charOffset="65-74"
+            type="drug_n" text="moxidectin"/>
+    </sentence>
+</document>

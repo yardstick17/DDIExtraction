@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d583">
+    <sentence id="DDI-DrugBank.d583.s0" text="In animals the duration of muscle paralysis from succinylcholine is not prolonged by remifentanil. ">
+        <entity id="DDI-DrugBank.d583.s0.e0" charOffset="49-63"
+            type="drug" text="succinylcholine"/>
+        <entity id="DDI-DrugBank.d583.s0.e1" charOffset="85-96"
+            type="drug" text="remifentanil"/>
+        <pair id="DDI-DrugBank.d583.s0.p0" e1="DDI-DrugBank.d583.s0.e0"
+            e2="DDI-DrugBank.d583.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d583.s1" text="Remifentanil clearance is not altered by concomitant administration of thiopental, isoflurane, propofol, or temazepam during anesthesia. ">
+        <entity id="DDI-DrugBank.d583.s1.e0" charOffset="0-11"
+            type="drug" text="Remifentanil"/>
+        <entity id="DDI-DrugBank.d583.s1.e1" charOffset="71-80"
+            type="drug" text="thiopental"/>
+        <entity id="DDI-DrugBank.d583.s1.e2" charOffset="83-92"
+            type="drug" text="isoflurane"/>
+        <entity id="DDI-DrugBank.d583.s1.e3" charOffset="95-102"
+            type="drug" text="propofol"/>
+        <entity id="DDI-DrugBank.d583.s1.e4" charOffset="108-116"
+            type="drug" text="temazepam"/>
+        <pair id="DDI-DrugBank.d583.s1.p0" e1="DDI-DrugBank.d583.s1.e0"
+            e2="DDI-DrugBank.d583.s1.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s1.p1" e1="DDI-DrugBank.d583.s1.e0"
+            e2="DDI-DrugBank.d583.s1.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s1.p2" e1="DDI-DrugBank.d583.s1.e0"
+            e2="DDI-DrugBank.d583.s1.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s1.p3" e1="DDI-DrugBank.d583.s1.e0"
+            e2="DDI-DrugBank.d583.s1.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s1.p4" e1="DDI-DrugBank.d583.s1.e1"
+            e2="DDI-DrugBank.d583.s1.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s1.p5" e1="DDI-DrugBank.d583.s1.e1"
+            e2="DDI-DrugBank.d583.s1.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s1.p6" e1="DDI-DrugBank.d583.s1.e1"
+            e2="DDI-DrugBank.d583.s1.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s1.p7" e1="DDI-DrugBank.d583.s1.e2"
+            e2="DDI-DrugBank.d583.s1.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s1.p8" e1="DDI-DrugBank.d583.s1.e2"
+            e2="DDI-DrugBank.d583.s1.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s1.p9" e1="DDI-DrugBank.d583.s1.e3"
+            e2="DDI-DrugBank.d583.s1.e4" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d583.s2" text="In vitro studies with atracurium, mivacurium, esmolol, echothiophate, neostigmine, physostigmine, and midazolam revealed no inhibition of remifentanil hydrolysis in whole human blood by these drugs.">
+        <entity id="DDI-DrugBank.d583.s2.e0" charOffset="22-31"
+            type="drug" text="atracurium"/>
+        <entity id="DDI-DrugBank.d583.s2.e1" charOffset="34-43"
+            type="drug" text="mivacurium"/>
+        <entity id="DDI-DrugBank.d583.s2.e2" charOffset="46-52"
+            type="drug" text="esmolol"/>
+        <entity id="DDI-DrugBank.d583.s2.e3" charOffset="55-67"
+            type="drug" text="echothiophate"/>
+        <entity id="DDI-DrugBank.d583.s2.e4" charOffset="70-80"
+            type="drug" text="neostigmine"/>
+        <entity id="DDI-DrugBank.d583.s2.e5" charOffset="83-95"
+            type="drug" text="physostigmine"/>
+        <entity id="DDI-DrugBank.d583.s2.e6" charOffset="102-110"
+            type="drug" text="midazolam"/>
+        <entity id="DDI-DrugBank.d583.s2.e7" charOffset="138-149"
+            type="drug" text="remifentanil"/>
+        <pair id="DDI-DrugBank.d583.s2.p0" e1="DDI-DrugBank.d583.s2.e0"
+            e2="DDI-DrugBank.d583.s2.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p1" e1="DDI-DrugBank.d583.s2.e0"
+            e2="DDI-DrugBank.d583.s2.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p2" e1="DDI-DrugBank.d583.s2.e0"
+            e2="DDI-DrugBank.d583.s2.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p3" e1="DDI-DrugBank.d583.s2.e0"
+            e2="DDI-DrugBank.d583.s2.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p4" e1="DDI-DrugBank.d583.s2.e0"
+            e2="DDI-DrugBank.d583.s2.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p5" e1="DDI-DrugBank.d583.s2.e0"
+            e2="DDI-DrugBank.d583.s2.e6" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p6" e1="DDI-DrugBank.d583.s2.e0"
+            e2="DDI-DrugBank.d583.s2.e7" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p7" e1="DDI-DrugBank.d583.s2.e1"
+            e2="DDI-DrugBank.d583.s2.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p8" e1="DDI-DrugBank.d583.s2.e1"
+            e2="DDI-DrugBank.d583.s2.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p9" e1="DDI-DrugBank.d583.s2.e1"
+            e2="DDI-DrugBank.d583.s2.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p10" e1="DDI-DrugBank.d583.s2.e1"
+            e2="DDI-DrugBank.d583.s2.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p11" e1="DDI-DrugBank.d583.s2.e1"
+            e2="DDI-DrugBank.d583.s2.e6" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p12" e1="DDI-DrugBank.d583.s2.e1"
+            e2="DDI-DrugBank.d583.s2.e7" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p13" e1="DDI-DrugBank.d583.s2.e2"
+            e2="DDI-DrugBank.d583.s2.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p14" e1="DDI-DrugBank.d583.s2.e2"
+            e2="DDI-DrugBank.d583.s2.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p15" e1="DDI-DrugBank.d583.s2.e2"
+            e2="DDI-DrugBank.d583.s2.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p16" e1="DDI-DrugBank.d583.s2.e2"
+            e2="DDI-DrugBank.d583.s2.e6" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p17" e1="DDI-DrugBank.d583.s2.e2"
+            e2="DDI-DrugBank.d583.s2.e7" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p18" e1="DDI-DrugBank.d583.s2.e3"
+            e2="DDI-DrugBank.d583.s2.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p19" e1="DDI-DrugBank.d583.s2.e3"
+            e2="DDI-DrugBank.d583.s2.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p20" e1="DDI-DrugBank.d583.s2.e3"
+            e2="DDI-DrugBank.d583.s2.e6" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p21" e1="DDI-DrugBank.d583.s2.e3"
+            e2="DDI-DrugBank.d583.s2.e7" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p22" e1="DDI-DrugBank.d583.s2.e4"
+            e2="DDI-DrugBank.d583.s2.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p23" e1="DDI-DrugBank.d583.s2.e4"
+            e2="DDI-DrugBank.d583.s2.e6" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p24" e1="DDI-DrugBank.d583.s2.e4"
+            e2="DDI-DrugBank.d583.s2.e7" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p25" e1="DDI-DrugBank.d583.s2.e5"
+            e2="DDI-DrugBank.d583.s2.e6" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p26" e1="DDI-DrugBank.d583.s2.e5"
+            e2="DDI-DrugBank.d583.s2.e7" ddi="false"/>
+        <pair id="DDI-DrugBank.d583.s2.p27" e1="DDI-DrugBank.d583.s2.e6"
+            e2="DDI-DrugBank.d583.s2.e7" ddi="false"/>
+    </sentence>
+</document>

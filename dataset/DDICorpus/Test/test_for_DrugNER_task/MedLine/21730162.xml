@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d198">
+    <sentence id="DDI-MedLine.d198.s0" text="Structural basis for alcohol modulation of a pentameric ligand-gated ion channel.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d198.s0.e0" charOffset="21-27"
+            type="drug" text="alcohol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s1" text="Despite its long history of use and abuse in human culture, the molecular basis for alcohol action in the brain is poorly understood. ">
+        <entity id="DDI-MedLine.d198.s1.e0" charOffset="84-90"
+            type="drug" text="alcohol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s2" text="The recent determination of the atomic-scale structure of GLIC, a prokaryotic member of the pentameric ligand-gated ion channel (pLGIC) family, provides a unique opportunity to characterize the structural basis for modulation of these channels, many of which are alcohol targets in brain. ">
+        <entity id="DDI-MedLine.d198.s2.e0" charOffset="263-269"
+            type="drug" text="alcohol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s3" text="We observed that GLIC recapitulates bimodal modulation by n-alcohols, similar to some eukaryotic pLGICs: methanol and ethanol weakly potentiated proton-activated currents in GLIC, whereas n-alcohols larger than ethanol inhibited them. ">
+        <entity id="DDI-MedLine.d198.s3.e0" charOffset="105-112"
+            type="drug_n" text="methanol"/>
+        <entity id="DDI-MedLine.d198.s3.e1" charOffset="118-124"
+            type="drug" text="ethanol"/>
+        <pair id="DDI-MedLine.d198.s3.p0" e1="DDI-MedLine.d198.s3.e0"
+            e2="DDI-MedLine.d198.s3.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s4" text="Mapping of residues important to alcohol modulation of ionotropic receptors for glycine,   -aminobutyric acid, and acetylcholine onto GLIC revealed their proximity to transmembrane cavities that may accommodate one or more alcohol molecules. ">
+        <entity id="DDI-MedLine.d198.s4.e0" charOffset="33-39"
+            type="drug" text="alcohol"/>
+        <entity id="DDI-MedLine.d198.s4.e1" charOffset="223-229"
+            type="drug" text="alcohol"/>
+        <pair id="DDI-MedLine.d198.s4.p0" e1="DDI-MedLine.d198.s4.e0"
+            e2="DDI-MedLine.d198.s4.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s5" text="Site-directed mutations in the pore-lining M2 helix allowed the identification of four residues that influence alcohol potentiation, with the direction of their effects reflecting   -helical structure. ">
+        <entity id="DDI-MedLine.d198.s5.e0" charOffset="111-117"
+            type="drug" text="alcohol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s6" text="At one of the potentiation-enhancing residues, decreased side chain volume converted GLIC into a highly ethanol-sensitive channel, comparable to its eukaryotic relatives. ">
+        <entity id="DDI-MedLine.d198.s6.e0" charOffset="104-110"
+            type="drug" text="ethanol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s7" text="Covalent labeling of M2 positions with an alcohol analog, a methanethiosulfonate reagent, further implicated residues at the extracellular end of the helix in alcohol binding. ">
+        <entity id="DDI-MedLine.d198.s7.e0" charOffset="42-48"
+            type="drug" text="alcohol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s8" text="Molecular dynamics simulations elucidated the structural consequences of a potentiation-enhancing mutation and suggested a structural mechanism for alcohol potentiation via interaction with a transmembrane cavity previously termed the &quot;linking tunnel.&quot;">
+        <entity id="DDI-MedLine.d198.s8.e0" charOffset="148-154"
+            type="drug" text="alcohol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d198.s9" text="These results provide a unique structural model for independent potentiating and inhibitory interactions of n-alcohols with a pLGIC family member."/>
+</document>

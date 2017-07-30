@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d171">
+    <sentence id="DDI-MedLine.d171.s0" text="[Infections with human immunodeficiency viruses. Part II: Antiretroviral drugs, therapeutic options, and diagnostics].">
+        <entity id="DDI-MedLine.d171.s0.e0" charOffset="58-77"
+            type="group" text="Antiretroviral drugs"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d171.s1" text="Infections with the human immunodeficiency virus 1 (HIV- 1) lead to the acquired immunodeficiency syndrome (AIDS), resulting in the establishment of a wide range of severe opportunistic infections. "/>
+    <sentence id="DDI-MedLine.d171.s2" text="Since the introduction of the highly active antiretroviral therapy (HAART) into the treatment of HIV infections, in many cases a delayed appearance of AIDS-defining diseases is achievable. ">
+        <entity id="DDI-MedLine.d171.s2.e0" charOffset="30-57"
+            type="group" text="highly active antiretroviral"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d171.s3" text="Life expectancy of antiretrovirally treated HIV-infected people applying HAART could be considerably extended and now resembles that of several other chronic diseases. "/>
+    <sentence id="DDI-MedLine.d171.s4" text="For the initial treatment of HIV-1 infection, an adjunction with three antiretroviral agents is generally used. ">
+        <entity id="DDI-MedLine.d171.s4.e0" charOffset="71-91"
+            type="group" text="antiretroviral agents"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d171.s5" text="In most cases, the application of two nucleoside or nucleotide reverse transcriptase inhibitors (NRTI) together with a non-nucleoside reverse transcriptase inhibitor (NNRTI), a protease inhibitor (PI) or an integrase inhibitor (II) is recommended. ">
+        <entity id="DDI-MedLine.d171.s5.e0" charOffset="38-94"
+            type="group" text="nucleoside or nucleotide reverse transcriptase inhibitors"/>
+        <entity id="DDI-MedLine.d171.s5.e1" charOffset="97-100"
+            type="group" text="NRTI"/>
+        <entity id="DDI-MedLine.d171.s5.e2" charOffset="119-164"
+            type="group" text="non-nucleoside reverse transcriptase inhibitor"/>
+        <entity id="DDI-MedLine.d171.s5.e3" charOffset="167-171"
+            type="group" text="NNRTI"/>
+        <entity id="DDI-MedLine.d171.s5.e4" charOffset="177-194"
+            type="group" text="protease inhibitor"/>
+        <entity id="DDI-MedLine.d171.s5.e5" charOffset="197-198"
+            type="group" text="PI"/>
+        <entity id="DDI-MedLine.d171.s5.e6" charOffset="207-225"
+            type="group" text="integrase inhibitor"/>
+        <entity id="DDI-MedLine.d171.s5.e7" charOffset="228-229"
+            type="group" text="II"/>
+        <pair id="DDI-MedLine.d171.s5.p0" e1="DDI-MedLine.d171.s5.e0"
+            e2="DDI-MedLine.d171.s5.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p1" e1="DDI-MedLine.d171.s5.e0"
+            e2="DDI-MedLine.d171.s5.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p2" e1="DDI-MedLine.d171.s5.e0"
+            e2="DDI-MedLine.d171.s5.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p3" e1="DDI-MedLine.d171.s5.e0"
+            e2="DDI-MedLine.d171.s5.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p4" e1="DDI-MedLine.d171.s5.e0"
+            e2="DDI-MedLine.d171.s5.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p5" e1="DDI-MedLine.d171.s5.e0"
+            e2="DDI-MedLine.d171.s5.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p6" e1="DDI-MedLine.d171.s5.e0"
+            e2="DDI-MedLine.d171.s5.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p7" e1="DDI-MedLine.d171.s5.e1"
+            e2="DDI-MedLine.d171.s5.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p8" e1="DDI-MedLine.d171.s5.e1"
+            e2="DDI-MedLine.d171.s5.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p9" e1="DDI-MedLine.d171.s5.e1"
+            e2="DDI-MedLine.d171.s5.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p10" e1="DDI-MedLine.d171.s5.e1"
+            e2="DDI-MedLine.d171.s5.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p11" e1="DDI-MedLine.d171.s5.e1"
+            e2="DDI-MedLine.d171.s5.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p12" e1="DDI-MedLine.d171.s5.e1"
+            e2="DDI-MedLine.d171.s5.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p13" e1="DDI-MedLine.d171.s5.e2"
+            e2="DDI-MedLine.d171.s5.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p14" e1="DDI-MedLine.d171.s5.e2"
+            e2="DDI-MedLine.d171.s5.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p15" e1="DDI-MedLine.d171.s5.e2"
+            e2="DDI-MedLine.d171.s5.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p16" e1="DDI-MedLine.d171.s5.e2"
+            e2="DDI-MedLine.d171.s5.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p17" e1="DDI-MedLine.d171.s5.e2"
+            e2="DDI-MedLine.d171.s5.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p18" e1="DDI-MedLine.d171.s5.e3"
+            e2="DDI-MedLine.d171.s5.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p19" e1="DDI-MedLine.d171.s5.e3"
+            e2="DDI-MedLine.d171.s5.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p20" e1="DDI-MedLine.d171.s5.e3"
+            e2="DDI-MedLine.d171.s5.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p21" e1="DDI-MedLine.d171.s5.e3"
+            e2="DDI-MedLine.d171.s5.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p22" e1="DDI-MedLine.d171.s5.e4"
+            e2="DDI-MedLine.d171.s5.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p23" e1="DDI-MedLine.d171.s5.e4"
+            e2="DDI-MedLine.d171.s5.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p24" e1="DDI-MedLine.d171.s5.e4"
+            e2="DDI-MedLine.d171.s5.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p25" e1="DDI-MedLine.d171.s5.e5"
+            e2="DDI-MedLine.d171.s5.e6" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p26" e1="DDI-MedLine.d171.s5.e5"
+            e2="DDI-MedLine.d171.s5.e7" ddi="false"/>
+        <pair id="DDI-MedLine.d171.s5.p27" e1="DDI-MedLine.d171.s5.e6"
+            e2="DDI-MedLine.d171.s5.e7" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d171.s6" text="Before and during antiretroviral treatment, antiretroviral drug resistances, individual tolerance profiles and the needs of the individual patient, as well as several interactions with other drugs have to be considered. ">
+        <entity id="DDI-MedLine.d171.s6.e0" charOffset="18-31"
+            type="group" text="antiretroviral"/>
+        <entity id="DDI-MedLine.d171.s6.e1" charOffset="44-57"
+            type="group" text="antiretroviral"/>
+        <pair id="DDI-MedLine.d171.s6.p0" e1="DDI-MedLine.d171.s6.e0"
+            e2="DDI-MedLine.d171.s6.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d171.s7" text="Diagnostics of HIV infection is based upon the proof of specific antibodies."/>
+</document>

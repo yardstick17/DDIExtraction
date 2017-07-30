@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d592">
+    <sentence id="DDI-DrugBank.d592.s0" text="Interactions for Sodium Tetradecyl Sulfate:  No well-controlled studies have been performed on patients taking antiovulatory agents. ">
+        <entity id="DDI-DrugBank.d592.s0.e0" charOffset="17-41"
+            type="drug" text="Sodium Tetradecyl Sulfate"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d592.s1" text="The physician must use judgment and evaluate any patient taking antiovulatory drugs prior to initiating treatment with Sotradecol.  ">
+        <entity id="DDI-DrugBank.d592.s1.e0" charOffset="119-128"
+            type="brand" text="Sotradecol"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d592.s2" text="Heparin should not be included in the same syringe as Sodium Tetradecyl Sulfate, since the two are incompatible.">
+        <entity id="DDI-DrugBank.d592.s2.e0" charOffset="0-6"
+            type="drug" text="Heparin"/>
+        <entity id="DDI-DrugBank.d592.s2.e1" charOffset="54-78"
+            type="drug" text="Sodium Tetradecyl Sulfate"/>
+        <pair id="DDI-DrugBank.d592.s2.p0" e1="DDI-DrugBank.d592.s2.e0"
+            e2="DDI-DrugBank.d592.s2.e1" ddi="false"/>
+    </sentence>
+</document>

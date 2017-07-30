@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d593">
+    <sentence id="DDI-DrugBank.d593.s0" text="Clinical studies of interactions of VIRAZOLE with other drugs commonly used to treat infants with RSV infections, such as digoxin, bronchodilators, other antiviral agents, antibiotics, or anti-metabolites have not been conducted. ">
+        <entity id="DDI-DrugBank.d593.s0.e0" charOffset="36-43"
+            type="brand" text="VIRAZOLE"/>
+        <entity id="DDI-DrugBank.d593.s0.e1" charOffset="122-128"
+            type="drug" text="digoxin"/>
+        <entity id="DDI-DrugBank.d593.s0.e2" charOffset="131-145"
+            type="group" text="bronchodilators"/>
+        <entity id="DDI-DrugBank.d593.s0.e3" charOffset="154-169"
+            type="group" text="antiviral agents"/>
+        <entity id="DDI-DrugBank.d593.s0.e4" charOffset="172-182"
+            type="group" text="antibiotics"/>
+        <entity id="DDI-DrugBank.d593.s0.e5" charOffset="188-203"
+            type="group" text="anti-metabolites"/>
+        <pair id="DDI-DrugBank.d593.s0.p0" e1="DDI-DrugBank.d593.s0.e0"
+            e2="DDI-DrugBank.d593.s0.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d593.s0.p1" e1="DDI-DrugBank.d593.s0.e0"
+            e2="DDI-DrugBank.d593.s0.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d593.s0.p2" e1="DDI-DrugBank.d593.s0.e0"
+            e2="DDI-DrugBank.d593.s0.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d593.s0.p3" e1="DDI-DrugBank.d593.s0.e0"
+            e2="DDI-DrugBank.d593.s0.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d593.s0.p4" e1="DDI-DrugBank.d593.s0.e0"
+            e2="DDI-DrugBank.d593.s0.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d593.s0.p5" e1="DDI-DrugBank.d593.s0.e1"
+            e2="DDI-DrugBank.d593.s0.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d593.s0.p6" e1="DDI-DrugBank.d593.s0.e1"
+            e2="DDI-DrugBank.d593.s0.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d593.s0.p7" e1="DDI-DrugBank.d593.s0.e1"
+            e2="DDI-DrugBank.d593.s0.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d593.s0.p8" e1="DDI-DrugBank.d593.s0.e1"
+            e2="DDI-DrugBank.d593.s0.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d593.s0.p9" e1="DDI-DrugBank.d593.s0.e2"
+            e2="DDI-DrugBank.d593.s0.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d593.s0.p10" e1="DDI-DrugBank.d593.s0.e2"
+            e2="DDI-DrugBank.d593.s0.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d593.s0.p11" e1="DDI-DrugBank.d593.s0.e2"
+            e2="DDI-DrugBank.d593.s0.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d593.s0.p12" e1="DDI-DrugBank.d593.s0.e3"
+            e2="DDI-DrugBank.d593.s0.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d593.s0.p13" e1="DDI-DrugBank.d593.s0.e3"
+            e2="DDI-DrugBank.d593.s0.e5" ddi="false"/>
+        <pair id="DDI-DrugBank.d593.s0.p14" e1="DDI-DrugBank.d593.s0.e4"
+            e2="DDI-DrugBank.d593.s0.e5" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d593.s1" text="Interference by VIRAZOLE with laboratory tests has not been evaluated.">
+        <entity id="DDI-DrugBank.d593.s1.e0" charOffset="16-23"
+            type="brand" text="VIRAZOLE"/>
+    </sentence>
+</document>

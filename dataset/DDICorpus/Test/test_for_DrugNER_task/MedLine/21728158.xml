@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d173">
+    <sentence id="DDI-MedLine.d173.s0" text="[Medical treatment of tuberculosis - update 2011].&#xa;"/>
+    <sentence id="DDI-MedLine.d173.s1" text="Tuberculosis is the second most common cause of death from an infectious disease after HIV/AIDS and the leading cause of death from an infectious disease in HIV-co-infected patients. "/>
+    <sentence id="DDI-MedLine.d173.s2" text="Currently, drug susceptible TB is treated with a four drug regimen given over a period of two months followed by two drugs for four months. "/>
+    <sentence id="DDI-MedLine.d173.s3" text="Drug resistant tuberculosis requires more complex and longer treatment with alternative substances. "/>
+    <sentence id="DDI-MedLine.d173.s4" text="New antituberculosis drugs are currently being developed and investigated and are urgently needed to treat drug susceptible and drug resistant TB.">
+        <entity id="DDI-MedLine.d173.s4.e0" charOffset="4-25"
+            type="group" text="antituberculosis drugs"/>
+    </sentence>
+</document>

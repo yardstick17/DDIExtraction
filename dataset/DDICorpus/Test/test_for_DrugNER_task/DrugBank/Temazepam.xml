@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d730">
+    <sentence id="DDI-DrugBank.d730.s0" text="The pharmacokinetic profile of temazepam does not appear to be altered by orally administered cimetidine dosed according to labeling.">
+        <entity id="DDI-DrugBank.d730.s0.e0" charOffset="31-39"
+            type="drug" text="temazepam"/>
+        <entity id="DDI-DrugBank.d730.s0.e1" charOffset="94-103"
+            type="drug" text="cimetidine"/>
+        <pair id="DDI-DrugBank.d730.s0.p0" e1="DDI-DrugBank.d730.s0.e0"
+            e2="DDI-DrugBank.d730.s0.e1" ddi="false"/>
+    </sentence>
+</document>

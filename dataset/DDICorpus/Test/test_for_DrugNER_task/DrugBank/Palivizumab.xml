@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d660">
+    <sentence id="DDI-DrugBank.d660.s0" text="No formal drug-drug interaction studies were conducted. "/>
+    <sentence id="DDI-DrugBank.d660.s1" text="In Trial 1, the proportions of patients in the placebo and Synagis    groups who received routine childhood vaccines, influenza vaccine, bronchodilators or corticosteroids were similar and no incremental increase in adverse reactions was observed among patients receiving these agents.    ">
+        <entity id="DDI-DrugBank.d660.s1.e0" charOffset="59-65"
+            type="brand" text="Synagis"/>
+        <entity id="DDI-DrugBank.d660.s1.e1" charOffset="108-115"
+            type="group" text="vaccines"/>
+        <entity id="DDI-DrugBank.d660.s1.e2" charOffset="118-134"
+            type="group" text="influenza vaccine"/>
+        <entity id="DDI-DrugBank.d660.s1.e3" charOffset="137-151"
+            type="group" text="bronchodilators"/>
+        <entity id="DDI-DrugBank.d660.s1.e4" charOffset="156-170"
+            type="group" text="corticosteroids"/>
+        <pair id="DDI-DrugBank.d660.s1.p0" e1="DDI-DrugBank.d660.s1.e0"
+            e2="DDI-DrugBank.d660.s1.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d660.s1.p1" e1="DDI-DrugBank.d660.s1.e0"
+            e2="DDI-DrugBank.d660.s1.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d660.s1.p2" e1="DDI-DrugBank.d660.s1.e0"
+            e2="DDI-DrugBank.d660.s1.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d660.s1.p3" e1="DDI-DrugBank.d660.s1.e0"
+            e2="DDI-DrugBank.d660.s1.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d660.s1.p4" e1="DDI-DrugBank.d660.s1.e1"
+            e2="DDI-DrugBank.d660.s1.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d660.s1.p5" e1="DDI-DrugBank.d660.s1.e1"
+            e2="DDI-DrugBank.d660.s1.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d660.s1.p6" e1="DDI-DrugBank.d660.s1.e1"
+            e2="DDI-DrugBank.d660.s1.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d660.s1.p7" e1="DDI-DrugBank.d660.s1.e2"
+            e2="DDI-DrugBank.d660.s1.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d660.s1.p8" e1="DDI-DrugBank.d660.s1.e2"
+            e2="DDI-DrugBank.d660.s1.e4" ddi="false"/>
+        <pair id="DDI-DrugBank.d660.s1.p9" e1="DDI-DrugBank.d660.s1.e3"
+            e2="DDI-DrugBank.d660.s1.e4" ddi="false"/>
+    </sentence>
+</document>

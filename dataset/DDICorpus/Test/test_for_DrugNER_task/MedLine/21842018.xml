@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d165">
+    <sentence id="DDI-MedLine.d165.s0" text="CPP-ACP complex as a new adjunctive agent for remineralisation: a review.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d165.s0.e0" charOffset="0-14"
+            type="drug_n" text="CPP-ACP complex"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d165.s1" text="In addition to regular professional oral hygiene visits and the application of appropriate preventive medications, successful preventive strategies involve oral health promotion, patient education and patient compliance. "/>
+    <sentence id="DDI-MedLine.d165.s2" text="The Casein phosphopeptide-amorphous calcium phosphate (CPP-ACP) complex has been shown to remineralise tooth surfaces in situ when delivered in oral care products. ">
+        <entity id="DDI-MedLine.d165.s2.e0" charOffset="4-70"
+            type="drug_n" text="Casein phosphopeptide-amorphous calcium phosphate (CPP-ACP) complex"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d165.s3" text="This complex has a unique ability to deliver bio-available calcium and phosphate when they are needed most. ">
+        <entity id="DDI-MedLine.d165.s3.e0" charOffset="59-65"
+            type="drug" text="calcium"/>
+        <entity id="DDI-MedLine.d165.s3.e1" charOffset="71-79"
+            type="drug" text="phosphate"/>
+        <pair id="DDI-MedLine.d165.s3.p0" e1="DDI-MedLine.d165.s3.e0"
+            e2="DDI-MedLine.d165.s3.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d165.s4" text="The effectiveness of casein derivatives, specifically CCP-ACP, in caries prevention and lesion reversal has been supported by many controlled clinical studies. ">
+        <entity id="DDI-MedLine.d165.s4.e0" charOffset="54-60"
+            type="drug_n" text="CCP-ACP"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d165.s5" text="This review summarises the research on Casein phosphopeptide-amorphous calcium phosphate complex and provides information related to its benefit in dentistry. ">
+        <entity id="DDI-MedLine.d165.s5.e0" charOffset="39-95"
+            type="drug_n" text="Casein phosphopeptide-amorphous calcium phosphate complex"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d165.s6" text="Further research is required to provide a scientifically supported recommendation for other clinical applications."/>
+</document>

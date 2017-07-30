@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d621">
+    <sentence id="DDI-DrugBank.d621.s0" text="- Increased action of oral anticoagulants. ">
+        <entity id="DDI-DrugBank.d621.s0.e0" charOffset="27-40"
+            type="group" text="anticoagulants"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d621.s1" text="- Decreased absorption of colestipol, cholestyramine, mineral oil, and sucralfate.">
+        <entity id="DDI-DrugBank.d621.s1.e0" charOffset="26-35"
+            type="drug" text="colestipol"/>
+        <entity id="DDI-DrugBank.d621.s1.e1" charOffset="38-51"
+            type="drug" text="cholestyramine"/>
+        <entity id="DDI-DrugBank.d621.s1.e2" charOffset="54-64"
+            type="drug" text="mineral oil"/>
+        <entity id="DDI-DrugBank.d621.s1.e3" charOffset="71-80"
+            type="drug" text="sucralfate"/>
+        <pair id="DDI-DrugBank.d621.s1.p0" e1="DDI-DrugBank.d621.s1.e0"
+            e2="DDI-DrugBank.d621.s1.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d621.s1.p1" e1="DDI-DrugBank.d621.s1.e0"
+            e2="DDI-DrugBank.d621.s1.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d621.s1.p2" e1="DDI-DrugBank.d621.s1.e0"
+            e2="DDI-DrugBank.d621.s1.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d621.s1.p3" e1="DDI-DrugBank.d621.s1.e1"
+            e2="DDI-DrugBank.d621.s1.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d621.s1.p4" e1="DDI-DrugBank.d621.s1.e1"
+            e2="DDI-DrugBank.d621.s1.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d621.s1.p5" e1="DDI-DrugBank.d621.s1.e2"
+            e2="DDI-DrugBank.d621.s1.e3" ddi="false"/>
+    </sentence>
+</document>

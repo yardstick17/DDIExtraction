@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d594">
+    <sentence id="DDI-DrugBank.d594.s0" text="Interactions with cylcopholsphamide, fludarabine and vidarabine">
+        <entity id="DDI-DrugBank.d594.s0.e0" charOffset="37-47"
+            type="drug" text="fludarabine"/>
+        <entity id="DDI-DrugBank.d594.s0.e1" charOffset="53-62"
+            type="drug" text="vidarabine"/>
+        <pair id="DDI-DrugBank.d594.s0.p0" e1="DDI-DrugBank.d594.s0.e0"
+            e2="DDI-DrugBank.d594.s0.e1" ddi="false"/>
+    </sentence>
+</document>

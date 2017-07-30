@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d215">
+    <sentence id="DDI-MedLine.d215.s0" text="In-vitro antimicrobial activity and synergistic/antagonistic effect of interactions between antibiotics and some spice essential oils.">
+        <entity id="DDI-MedLine.d215.s0.e0" charOffset="92-102"
+            type="group" text="antibiotics"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d215.s1" text="Spices and herbs have been used for many years by different cultures. "/>
+    <sentence id="DDI-MedLine.d215.s2" text="The aim of the present study is (1) to investigate in-vitro antimicrobial effects of different spices and herbs (5 species: Rosmarinus officinalis (Rosemary), Coriandrum sativum (coriander), Micromeria fruticosa (L.) "/>
+    <sentence id="DDI-MedLine.d215.s3" text="Druce subsp. "/>
+    <sentence id="DDI-MedLine.d215.s4" text="Brachycalyx P.H. "/>
+    <sentence id="DDI-MedLine.d215.s5" text="Davis (White micromeria), Cumium cyminum (cumin), Mentha piperita (Peppermint) against different bacteria and fungi species, and (2) to discuss the in-vitro possible effects between the plants and antibiotics. ">
+        <entity id="DDI-MedLine.d215.s5.e0" charOffset="197-207"
+            type="group" text="antibiotics"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d215.s6" text="The microorganisms used were Micrococcus luteus LA 2971, Bacillus megaterium NRS, Bacillus brevis FMC 3, Enterococcus faecalis ATCC 15753, Pseudomonas pyocyaneus DC 127, Mycobacterium smegmatis CCM 2067, Escherichia coil DM, Aeromonas hydrophila ATCC 7966, Yersinia enterocolitica AU 19, Staphylococcus aureus Cowan 1, Streptococcus faecalis DC 74 bacteria, and Saccharomyces cerevisiae WET 136, Kluvyeromyces fragilis DC 98 fungi in this study. "/>
+    <sentence id="DDI-MedLine.d215.s7" text="The results indicated that essential oils of Rosmarinus officinalis, Coriandrum sativum L., Micromeria fruticosa (L.) "/>
+    <sentence id="DDI-MedLine.d215.s8" text="Druce subsp. "/>
+    <sentence id="DDI-MedLine.d215.s9" text="brachycalyx P.H. "/>
+    <sentence id="DDI-MedLine.d215.s10" text="Davis, Cumium cyminum L., Mentha piperita L. "/>
+    <sentence id="DDI-MedLine.d215.s11" text="were shown antimicrobial activity in the range of 7-60 mm 2 microl(-1) inhibition zone to the microorganisms tested, using disc diffusion method. "/>
+    <sentence id="DDI-MedLine.d215.s12" text="Standard antibiotic such as Gentamicin (10 microg), Cephalothin (30 microg), Ceftriaxone (10 microg), Nystatin (10 U) discs were used for comparison with the antimicrobial activities of essential oils of these plants. ">
+        <entity id="DDI-MedLine.d215.s12.e0" charOffset="9-18"
+            type="group" text="antibiotic"/>
+        <entity id="DDI-MedLine.d215.s12.e1" charOffset="28-37"
+            type="drug" text="Gentamicin"/>
+        <entity id="DDI-MedLine.d215.s12.e2" charOffset="52-62"
+            type="drug" text="Cephalothin"/>
+        <entity id="DDI-MedLine.d215.s12.e3" charOffset="77-87"
+            type="drug" text="Ceftriaxone"/>
+        <entity id="DDI-MedLine.d215.s12.e4" charOffset="102-109"
+            type="drug" text="Nystatin"/>
+        <pair id="DDI-MedLine.d215.s12.p0" e1="DDI-MedLine.d215.s12.e0"
+            e2="DDI-MedLine.d215.s12.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p1" e1="DDI-MedLine.d215.s12.e0"
+            e2="DDI-MedLine.d215.s12.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p2" e1="DDI-MedLine.d215.s12.e0"
+            e2="DDI-MedLine.d215.s12.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p3" e1="DDI-MedLine.d215.s12.e0"
+            e2="DDI-MedLine.d215.s12.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p4" e1="DDI-MedLine.d215.s12.e1"
+            e2="DDI-MedLine.d215.s12.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p5" e1="DDI-MedLine.d215.s12.e1"
+            e2="DDI-MedLine.d215.s12.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p6" e1="DDI-MedLine.d215.s12.e1"
+            e2="DDI-MedLine.d215.s12.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p7" e1="DDI-MedLine.d215.s12.e2"
+            e2="DDI-MedLine.d215.s12.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p8" e1="DDI-MedLine.d215.s12.e2"
+            e2="DDI-MedLine.d215.s12.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d215.s12.p9" e1="DDI-MedLine.d215.s12.e3"
+            e2="DDI-MedLine.d215.s12.e4" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d215.s13" text="In addition, antibacterial activity of essential oils of these plants was researched by effects when it was used together with these standard antibiotics in vitro. ">
+        <entity id="DDI-MedLine.d215.s13.e0" charOffset="142-152"
+            type="group" text="antibiotics"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d215.s14" text="However, antibacterial activity changed also by in vitro interactions between these standard antibiotics and essential oils of these plants. ">
+        <entity id="DDI-MedLine.d215.s14.e0" charOffset="93-103"
+            type="group" text="antibiotics"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d215.s15" text="Synergic, additive or antagonist effects were observed in antibacterial activity."/>
+</document>

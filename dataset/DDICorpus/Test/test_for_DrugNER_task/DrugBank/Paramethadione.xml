@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d714">
+    <sentence id="DDI-DrugBank.d714.s0" text="Not compatible with CNS depressants or trycyclic antidepressants">
+        <entity id="DDI-DrugBank.d714.s0.e0" charOffset="20-34"
+            type="group" text="CNS depressants"/>
+        <entity id="DDI-DrugBank.d714.s0.e1" charOffset="39-63"
+            type="group" text="trycyclic antidepressants"/>
+        <pair id="DDI-DrugBank.d714.s0.p0" e1="DDI-DrugBank.d714.s0.e0"
+            e2="DDI-DrugBank.d714.s0.e1" ddi="false"/>
+    </sentence>
+</document>

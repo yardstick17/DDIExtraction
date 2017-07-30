@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d146">
+    <sentence id="DDI-MedLine.d146.s0" text="Post-exposure prophylaxis for H1N1 with oseltamivir in renal allograft recipient--safe and effective without any immunosuppresive drug interaction.&#xd;&#xa;">
+        <entity id="DDI-MedLine.d146.s0.e0" charOffset="40-50"
+            type="drug" text="oseltamivir"/>
+        <entity id="DDI-MedLine.d146.s0.e1" charOffset="113-133"
+            type="group" text="immunosuppresive drug"/>
+        <pair id="DDI-MedLine.d146.s0.p0" e1="DDI-MedLine.d146.s0.e0"
+            e2="DDI-MedLine.d146.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d146.s1" text="Kidney transplant recipients are at a high risk for H1N1 infection associated complications during the current pandemic. "/>
+    <sentence id="DDI-MedLine.d146.s2" text="Prevention of infection by immunization, together with early recognition and prompt antiviral treatment are critical. "/>
+    <sentence id="DDI-MedLine.d146.s3" text="Post-exposure prophylaxis of H1N1 with oseltamivir was safe, effective and well tolerated to prevent H1N1 influenza A virus infection in newly transplanted renal allograft recipient receiving triple immunosuppression without any interaction with tacrolimus level. ">
+        <entity id="DDI-MedLine.d146.s3.e0" charOffset="39-49"
+            type="drug" text="oseltamivir"/>
+        <entity id="DDI-MedLine.d146.s3.e1" charOffset="246-255"
+            type="drug" text="tacrolimus"/>
+        <pair id="DDI-MedLine.d146.s3.p0" e1="DDI-MedLine.d146.s3.e0"
+            e2="DDI-MedLine.d146.s3.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d146.s4" text="Oseltamivir was effective for post-exposure prophylaxis of H1N1 in close contact.">
+        <entity id="DDI-MedLine.d146.s4.e0" charOffset="0-10"
+            type="drug" text="Oseltamivir"/>
+    </sentence>
+</document>

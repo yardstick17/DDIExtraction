@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d219">
+    <sentence id="DDI-MedLine.d219.s0" text="[Tuberculosis and HIV - features of the co-infection].&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d219.s1" text="The human immunodeficiency virus (HIV) epidemic has allowed the incidence of tuberculosis to rise globally and particularly in sub-Saharan Africa. "/>
+    <sentence id="DDI-MedLine.d219.s2" text="Diagnosis and treatment of tuberculosis is more complex in patients with HIV/AIDS. "/>
+    <sentence id="DDI-MedLine.d219.s3" text="Sputum smear microscopy is performing poorly in HIV-infected individuals, who are often started on antituberculosis treatment on clinical grounds. "/>
+    <sentence id="DDI-MedLine.d219.s4" text="The treatment of coinfected patients requires antituberculosis and antiretroviral drugs to be administered concomittantly; ">
+        <entity id="DDI-MedLine.d219.s4.e0" charOffset="46-61;82-86"
+            type="group" text="antituberculosis drugs"/>
+        <entity id="DDI-MedLine.d219.s4.e1" charOffset="67-86"
+            type="group" text="antiretroviral drugs"/>
+        <pair id="DDI-MedLine.d219.s4.p0" e1="DDI-MedLine.d219.s4.e0"
+            e2="DDI-MedLine.d219.s4.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d219.s5" text="challenges include pill burden and patient compliance, drug interactions, overlapping toxic effects, and immune reconstitution inflammatory syndrome. "/>
+    <sentence id="DDI-MedLine.d219.s6" text="Current guidelines recommend starting antiretroviral treatment within a few weeks of antituberculosis therapy for patients with CD4 cell counts">
+        <entity id="DDI-MedLine.d219.s6.e0" charOffset="38-51"
+            type="group" text="antiretroviral"/>
+        <entity id="DDI-MedLine.d219.s6.e1" charOffset="85-100"
+            type="group" text="antituberculosis"/>
+        <pair id="DDI-MedLine.d219.s6.p0" e1="DDI-MedLine.d219.s6.e0"
+            e2="DDI-MedLine.d219.s6.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d219.s7" text="350 cells/ul."/>
+</document>

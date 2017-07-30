@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d767">
+    <sentence id="DDI-DrugBank.d767.s0" text="Dosage adjustment should be based on serial blood level monitoring. "/>
+    <sentence id="DDI-DrugBank.d767.s1" text="The contribution of vincristine sulfate to this interaction is not certain. ">
+        <entity id="DDI-DrugBank.d767.s1.e0" charOffset="20-38"
+            type="drug" text="vincristine sulfate"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d767.s2" text="The interaction may result from reduced absorption of phenytoin and an increase in the rate of its metabolism and elimination.">
+        <entity id="DDI-DrugBank.d767.s2.e0" charOffset="54-62"
+            type="drug" text="phenytoin"/>
+    </sentence>
+</document>

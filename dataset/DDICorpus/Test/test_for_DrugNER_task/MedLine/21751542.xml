@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d151">
+    <sentence id="DDI-MedLine.d151.s0" text="[Seniors and cardiovascular medications].&#xd;&#xa;"/>
+    <sentence id="DDI-MedLine.d151.s1" text="Authors analyze the situation in the therapy of cardiovascular diseases--unsatisfactory situation especially from the dyslipidaemia point of view. "/>
+    <sentence id="DDI-MedLine.d151.s2" text="Different groups of medications are discussed and their risks for elderly patients. "/>
+    <sentence id="DDI-MedLine.d151.s3" text="Angiotensin converting enzyme blockers and their influence on the endothelial dysfunction, but the risk of hyperpotassemia are showed. ">
+        <entity id="DDI-MedLine.d151.s3.e0" charOffset="0-37"
+            type="group" text="Angiotensin converting enzyme blockers"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d151.s4" text="The risk of gastrointestinal bleeding during the treatment with antiagregants and anticoagulants, the risk of bradycardia in beta-blockade, possible interactions with other medications lowering the heart rate are discussed. ">
+        <entity id="DDI-MedLine.d151.s4.e0" charOffset="64-76"
+            type="group" text="antiagregants"/>
+        <entity id="DDI-MedLine.d151.s4.e1" charOffset="82-95"
+            type="group" text="anticoagulants"/>
+        <pair id="DDI-MedLine.d151.s4.p0" e1="DDI-MedLine.d151.s4.e0"
+            e2="DDI-MedLine.d151.s4.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d151.s5" text="Attention is paid to calcium channel blockers, diuretics and digoxin. ">
+        <entity id="DDI-MedLine.d151.s5.e0" charOffset="21-44"
+            type="group" text="calcium channel blockers"/>
+        <entity id="DDI-MedLine.d151.s5.e1" charOffset="47-55"
+            type="group" text="diuretics"/>
+        <entity id="DDI-MedLine.d151.s5.e2" charOffset="61-67"
+            type="drug" text="digoxin"/>
+        <pair id="DDI-MedLine.d151.s5.p0" e1="DDI-MedLine.d151.s5.e0"
+            e2="DDI-MedLine.d151.s5.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d151.s5.p1" e1="DDI-MedLine.d151.s5.e0"
+            e2="DDI-MedLine.d151.s5.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d151.s5.p2" e1="DDI-MedLine.d151.s5.e1"
+            e2="DDI-MedLine.d151.s5.e2" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d151.s6" text="The table containing possible clinical symptoms of unwanted side effect of most frequently used cardiovascular medications in elderly is added as the conclusion of the article."/>
+</document>

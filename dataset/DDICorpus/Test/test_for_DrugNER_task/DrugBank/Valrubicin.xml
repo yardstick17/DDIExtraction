@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d691">
+    <sentence id="DDI-DrugBank.d691.s0" text="Because systemic exposure to Valstar    is negligible following intravesical administration, the potential for drug interactions is low. ">
+        <entity id="DDI-DrugBank.d691.s0.e0" charOffset="29-35"
+            type="brand" text="Valstar"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d691.s1" text="No drug interaction studies were conducted."/>
+</document>

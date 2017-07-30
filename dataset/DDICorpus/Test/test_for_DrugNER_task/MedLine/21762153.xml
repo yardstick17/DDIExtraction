@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d182">
+    <sentence id="DDI-MedLine.d182.s0" text="Antimicrobial effects of o-cymen-5-ol and zinc, alone &amp;">
+        <entity id="DDI-MedLine.d182.s0.e0" charOffset="25-36"
+            type="drug_n" text="o-cymen-5-ol"/>
+        <entity id="DDI-MedLine.d182.s0.e1" charOffset="42-45"
+            type="drug" text="zinc"/>
+        <pair id="DDI-MedLine.d182.s0.p0" e1="DDI-MedLine.d182.s0.e0"
+            e2="DDI-MedLine.d182.s0.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s1" text="in combination in simple solutions and toothpaste formulations.&#xa;"/>
+    <sentence id="DDI-MedLine.d182.s2" text="This study aimed to evaluate antimicrobial effects of an o-cymen-5-ol/zinc system.">
+        <entity id="DDI-MedLine.d182.s2.e0" charOffset="57-68"
+            type="drug_n" text="o-cymen-5-ol"/>
+        <entity id="DDI-MedLine.d182.s2.e1" charOffset="70-73"
+            type="drug" text="zinc"/>
+        <pair id="DDI-MedLine.d182.s2.p0" e1="DDI-MedLine.d182.s2.e0"
+            e2="DDI-MedLine.d182.s2.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s3" text="o-Cymen-5-ol and zinc gluconate minimum inhibitory concentration (MIC) and minimum bactericidal concentration (MBC) were determined against Streptococcus mutans, Actinomyces viscosus, Porphyromonas gingivalis, Fusobacterium nucleatum and Candida albicans. ">
+        <entity id="DDI-MedLine.d182.s3.e0" charOffset="0-11"
+            type="drug_n" text="o-Cymen-5-ol"/>
+        <entity id="DDI-MedLine.d182.s3.e1" charOffset="17-30"
+            type="drug" text="zinc gluconate"/>
+        <pair id="DDI-MedLine.d182.s3.p0" e1="DDI-MedLine.d182.s3.e0"
+            e2="DDI-MedLine.d182.s3.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s4" text="Synergy was investigated by checkerboard MIC/MBC; "/>
+    <sentence id="DDI-MedLine.d182.s5" text="inhibition of P. "/>
+    <sentence id="DDI-MedLine.d182.s6" text="gingivalis protease activity and S. "/>
+    <sentence id="DDI-MedLine.d182.s7" text="mutans glycolysis were investigated. "/>
+    <sentence id="DDI-MedLine.d182.s8" text="Slurried toothpastes containing the system were assessed in kill time assays against S. "/>
+    <sentence id="DDI-MedLine.d182.s9" text="mutans and E. "/>
+    <sentence id="DDI-MedLine.d182.s10" text="coli. "/>
+    <sentence id="DDI-MedLine.d182.s11" text="o-Cymen-5-ol MIC was between 1.7 mM to 3.4 mM; ">
+        <entity id="DDI-MedLine.d182.s11.e0" charOffset="0-11"
+            type="drug_n" text="o-Cymen-5-ol"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s12" text="MBC was 3.4 mM to 6.7 mM. "/>
+    <sentence id="DDI-MedLine.d182.s13" text="Zinc gluconate MIC was 2.8 mM to 11 mM; ">
+        <entity id="DDI-MedLine.d182.s13.e0" charOffset="0-13"
+            type="drug" text="Zinc gluconate"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s14" text="MBC was between 11 mM and >44 mM. "/>
+    <sentence id="DDI-MedLine.d182.s15" text="The two agents in solution showed synergy (FICI   0.50) against P. "/>
+    <sentence id="DDI-MedLine.d182.s16" text="gingivalis and F. "/>
+    <sentence id="DDI-MedLine.d182.s17" text="nucleatum, with MIC of 0.42 mM/0.69 mM for o-cymen-5-ol/zinc gluconate, respectively. ">
+        <entity id="DDI-MedLine.d182.s17.e0" charOffset="43-54"
+            type="drug_n" text="o-cymen-5-ol"/>
+        <entity id="DDI-MedLine.d182.s17.e1" charOffset="56-69"
+            type="drug" text="zinc gluconate"/>
+        <pair id="DDI-MedLine.d182.s17.p0" e1="DDI-MedLine.d182.s17.e0"
+            e2="DDI-MedLine.d182.s17.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s18" text="Zinc inhibited glycolysis and protease to a greater degree than o-cymen-5-ol; ">
+        <entity id="DDI-MedLine.d182.s18.e0" charOffset="0-3"
+            type="drug" text="Zinc"/>
+        <entity id="DDI-MedLine.d182.s18.e1" charOffset="64-75"
+            type="drug_n" text="o-cymen-5-ol"/>
+        <pair id="DDI-MedLine.d182.s18.p0" e1="DDI-MedLine.d182.s18.e0"
+            e2="DDI-MedLine.d182.s18.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s19" text="glycolysis inhibition by the two agents was additive. "/>
+    <sentence id="DDI-MedLine.d182.s20" text="o-Cymen-5-ol/zinc chloride in toothpaste showed greater effects than placebo (120s log10 kill=7.35  0.40 and 4.02  0.40, respectively). ">
+        <entity id="DDI-MedLine.d182.s20.e0" charOffset="0-11"
+            type="drug_n" text="o-Cymen-5-ol"/>
+        <entity id="DDI-MedLine.d182.s20.e1" charOffset="13-25"
+            type="drug" text="zinc chloride"/>
+        <pair id="DDI-MedLine.d182.s20.p0" e1="DDI-MedLine.d182.s20.e0"
+            e2="DDI-MedLine.d182.s20.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s21" text="The zinc/o-cymen-5-ol system has direct antimicrobial effects and inhibits oral disease-related processes. ">
+        <entity id="DDI-MedLine.d182.s21.e0" charOffset="4-7"
+            type="drug" text="zinc"/>
+        <entity id="DDI-MedLine.d182.s21.e1" charOffset="9-20"
+            type="drug_n" text="o-cymen-5-ol"/>
+        <pair id="DDI-MedLine.d182.s21.p0" e1="DDI-MedLine.d182.s21.e0"
+            e2="DDI-MedLine.d182.s21.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d182.s22" text="Synergistic effects were seen against anaerobes. "/>
+    <sentence id="DDI-MedLine.d182.s23" text="A system combining o-cymen-5-ol and zinc shows properties desirable for incorporation in toothpastes.">
+        <entity id="DDI-MedLine.d182.s23.e0" charOffset="19-30"
+            type="drug_n" text="o-cymen-5-ol"/>
+        <entity id="DDI-MedLine.d182.s23.e1" charOffset="36-39"
+            type="drug" text="zinc"/>
+        <pair id="DDI-MedLine.d182.s23.p0" e1="DDI-MedLine.d182.s23.e0"
+            e2="DDI-MedLine.d182.s23.e1" ddi="false"/>
+    </sentence>
+</document>

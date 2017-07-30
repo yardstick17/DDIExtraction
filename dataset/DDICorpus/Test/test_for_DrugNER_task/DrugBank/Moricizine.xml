@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d681">
+    <sentence id="DDI-DrugBank.d681.s0" text="May interact with cimetidine, digoxin, medicines to control heart rhythm, sevelamer, and theophylline.">
+        <entity id="DDI-DrugBank.d681.s0.e0" charOffset="18-27"
+            type="drug" text="cimetidine"/>
+        <entity id="DDI-DrugBank.d681.s0.e1" charOffset="30-36"
+            type="drug" text="digoxin"/>
+        <entity id="DDI-DrugBank.d681.s0.e2" charOffset="74-82"
+            type="drug" text="sevelamer"/>
+        <entity id="DDI-DrugBank.d681.s0.e3" charOffset="89-100"
+            type="drug" text="theophylline"/>
+        <pair id="DDI-DrugBank.d681.s0.p0" e1="DDI-DrugBank.d681.s0.e0"
+            e2="DDI-DrugBank.d681.s0.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d681.s0.p1" e1="DDI-DrugBank.d681.s0.e0"
+            e2="DDI-DrugBank.d681.s0.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d681.s0.p2" e1="DDI-DrugBank.d681.s0.e0"
+            e2="DDI-DrugBank.d681.s0.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d681.s0.p3" e1="DDI-DrugBank.d681.s0.e1"
+            e2="DDI-DrugBank.d681.s0.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d681.s0.p4" e1="DDI-DrugBank.d681.s0.e1"
+            e2="DDI-DrugBank.d681.s0.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d681.s0.p5" e1="DDI-DrugBank.d681.s0.e2"
+            e2="DDI-DrugBank.d681.s0.e3" ddi="false"/>
+    </sentence>
+</document>

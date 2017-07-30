@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d197">
+    <sentence id="DDI-MedLine.d197.s0" text="[Vitamin D and drugs].;">
+        <entity id="DDI-MedLine.d197.s0.e0" charOffset="1-9"
+            type="group" text="Vitamin D"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d197.s1" text="Interactions between drugs and vitamin D have received only little or no attention in the medical and pharmaceutical world in the past. ">
+        <entity id="DDI-MedLine.d197.s1.e0" charOffset="31-39"
+            type="group" text="vitamin D"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d197.s2" text="Since more and more drugs are used for the treatment of patients, this topic is increasingly relevant. "/>
+    <sentence id="DDI-MedLine.d197.s3" text="As such interactions impact the health of the patient and the action and side effects of the drug, physicians and pharmacists should pay more attention to such interactions in the future. "/>
+    <sentence id="DDI-MedLine.d197.s4" text="A number of drugs can interfere with the vitamin D and bone metabolism. ">
+        <entity id="DDI-MedLine.d197.s4.e0" charOffset="41-49"
+            type="group" text="vitamin D"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d197.s5" text="The drug-induced activation of the pregnane X receptor (PXR) is likely to enhance CYP24 expression and the catabolism of 25(OH)D, leading to vitamin D deficiency. "/>
+    <sentence id="DDI-MedLine.d197.s6" text="PXR-ligands include a wide variety of pharmaceutical agents, such as antiepileptic drugs, taxol, rifampicin, and human immunodeficiency virus protease inhibitors such as ritonavir and saquinavir. ">
+        <entity id="DDI-MedLine.d197.s6.e0" charOffset="69-87"
+            type="group" text="antiepileptic drugs"/>
+        <entity id="DDI-MedLine.d197.s6.e1" charOffset="90-94"
+            type="brand" text="taxol"/>
+        <entity id="DDI-MedLine.d197.s6.e2" charOffset="97-106"
+            type="drug" text="rifampicin"/>
+        <entity id="DDI-MedLine.d197.s6.e3" charOffset="113-160"
+            type="group" text="human immunodeficiency virus protease inhibitors"/>
+        <entity id="DDI-MedLine.d197.s6.e4" charOffset="170-178"
+            type="drug" text="ritonavir"/>
+        <entity id="DDI-MedLine.d197.s6.e5" charOffset="184-193"
+            type="drug" text="saquinavir"/>
+        <pair id="DDI-MedLine.d197.s6.p0" e1="DDI-MedLine.d197.s6.e0"
+            e2="DDI-MedLine.d197.s6.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p1" e1="DDI-MedLine.d197.s6.e0"
+            e2="DDI-MedLine.d197.s6.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p2" e1="DDI-MedLine.d197.s6.e0"
+            e2="DDI-MedLine.d197.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p3" e1="DDI-MedLine.d197.s6.e0"
+            e2="DDI-MedLine.d197.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p4" e1="DDI-MedLine.d197.s6.e0"
+            e2="DDI-MedLine.d197.s6.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p5" e1="DDI-MedLine.d197.s6.e1"
+            e2="DDI-MedLine.d197.s6.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p6" e1="DDI-MedLine.d197.s6.e1"
+            e2="DDI-MedLine.d197.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p7" e1="DDI-MedLine.d197.s6.e1"
+            e2="DDI-MedLine.d197.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p8" e1="DDI-MedLine.d197.s6.e1"
+            e2="DDI-MedLine.d197.s6.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p9" e1="DDI-MedLine.d197.s6.e2"
+            e2="DDI-MedLine.d197.s6.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p10" e1="DDI-MedLine.d197.s6.e2"
+            e2="DDI-MedLine.d197.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p11" e1="DDI-MedLine.d197.s6.e2"
+            e2="DDI-MedLine.d197.s6.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p12" e1="DDI-MedLine.d197.s6.e3"
+            e2="DDI-MedLine.d197.s6.e4" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p13" e1="DDI-MedLine.d197.s6.e3"
+            e2="DDI-MedLine.d197.s6.e5" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s6.p14" e1="DDI-MedLine.d197.s6.e4"
+            e2="DDI-MedLine.d197.s6.e5" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d197.s7" text="Beside this, the medication oriented supplementation of vitamin D can also ameliorate the pharmacologic action of many drugs, such as bisphosphonates, statins and cytostatic drugs.">
+        <entity id="DDI-MedLine.d197.s7.e0" charOffset="56-64"
+            type="group" text="vitamin D"/>
+        <entity id="DDI-MedLine.d197.s7.e1" charOffset="134-148"
+            type="group" text="bisphosphonates"/>
+        <entity id="DDI-MedLine.d197.s7.e2" charOffset="151-157"
+            type="group" text="statins"/>
+        <entity id="DDI-MedLine.d197.s7.e3" charOffset="163-178"
+            type="group" text="cytostatic drugs"/>
+        <pair id="DDI-MedLine.d197.s7.p0" e1="DDI-MedLine.d197.s7.e0"
+            e2="DDI-MedLine.d197.s7.e1" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s7.p1" e1="DDI-MedLine.d197.s7.e0"
+            e2="DDI-MedLine.d197.s7.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s7.p2" e1="DDI-MedLine.d197.s7.e0"
+            e2="DDI-MedLine.d197.s7.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s7.p3" e1="DDI-MedLine.d197.s7.e1"
+            e2="DDI-MedLine.d197.s7.e2" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s7.p4" e1="DDI-MedLine.d197.s7.e1"
+            e2="DDI-MedLine.d197.s7.e3" ddi="false"/>
+        <pair id="DDI-MedLine.d197.s7.p5" e1="DDI-MedLine.d197.s7.e2"
+            e2="DDI-MedLine.d197.s7.e3" ddi="false"/>
+    </sentence>
+</document>

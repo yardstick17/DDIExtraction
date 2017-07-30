@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-MedLine.d191">
+    <sentence id="DDI-MedLine.d191.s0" text="[Study on synergic and decreasing toxic effects of mineral water and Chinese herbal compound preparation on cisplatin].&#xd;&#xa;">
+        <entity id="DDI-MedLine.d191.s0.e0" charOffset="108-116"
+            type="drug" text="cisplatin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d191.s1" text="The synergic and decreasing toxic effects of mineral water and Chinese herbal compound preparation (MWCHCP) on cisplatin were investigated in sarcoma 180 (S180) mice.">
+        <entity id="DDI-MedLine.d191.s1.e0" charOffset="111-119"
+            type="drug" text="cisplatin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d191.s2" text="The S180 mice were treated for 5 days with intraperitoneal injection of cisplatin(7.33 mg x kg(-1)) and oral administration of MWCHCP(1 925, 3 850, 7 700 mg x kg(-1)). ">
+        <entity id="DDI-MedLine.d191.s2.e0" charOffset="72-80"
+            type="drug" text="cisplatin"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d191.s3" text="Then the mice were killed and the tumor growth inhibition rate, organ index, diarrhea index were determined. "/>
+    <sentence id="DDI-MedLine.d191.s4" text="Observe pathological sections of stomach to study the protective effect of MWCHCP. "/>
+    <sentence id="DDI-MedLine.d191.s5" text="Reverse transcription-polymerase chain reaction (RT-PCR) was applied to investigate the tumour necrosis factor-alpha (TNF-alpha) expression level of the intestine. "/>
+    <sentence id="DDI-MedLine.d191.s6" text="Combining with cisplatin and MWCHCP caused a tendency of increasing the tumor growth inhibition rate and significant attenution of cisplatin-induced diarrhea, visceral organ injury, gastric mucosal injury and decreased TNF-alpha mRNA level of intestine. ">
+        <entity id="DDI-MedLine.d191.s6.e0" charOffset="15-23"
+            type="drug" text="cisplatin"/>
+        <entity id="DDI-MedLine.d191.s6.e1" charOffset="131-139"
+            type="drug" text="cisplatin"/>
+        <pair id="DDI-MedLine.d191.s6.p0" e1="DDI-MedLine.d191.s6.e0"
+            e2="DDI-MedLine.d191.s6.e1" ddi="false"/>
+    </sentence>
+    <sentence id="DDI-MedLine.d191.s7" text="The present findings suggest that MWCHCP increases the inhibition rate of tumor growth of cisplatin and has a beneficial influence on gastrointestinal lesion induced by cisplatin.">
+        <entity id="DDI-MedLine.d191.s7.e0" charOffset="90-98"
+            type="drug" text="cisplatin"/>
+        <entity id="DDI-MedLine.d191.s7.e1" charOffset="169-177"
+            type="drug" text="cisplatin"/>
+        <pair id="DDI-MedLine.d191.s7.p0" e1="DDI-MedLine.d191.s7.e0"
+            e2="DDI-MedLine.d191.s7.e1" ddi="false"/>
+    </sentence>
+</document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d574">
+    <sentence id="DDI-DrugBank.d574.s0" text="This medicine is generally safe with other medications, but patient should consult doctor or pharmacist if patient is taking a blood thinner (anticoagulant), cyclosporin, phenytoin, or methotrexate.">
+        <entity id="DDI-DrugBank.d574.s0.e0" charOffset="142-154"
+            type="group" text="anticoagulant"/>
+        <entity id="DDI-DrugBank.d574.s0.e1" charOffset="158-168"
+            type="drug" text="cyclosporin"/>
+        <entity id="DDI-DrugBank.d574.s0.e2" charOffset="171-179"
+            type="drug" text="phenytoin"/>
+        <entity id="DDI-DrugBank.d574.s0.e3" charOffset="185-196"
+            type="drug" text="methotrexate"/>
+        <pair id="DDI-DrugBank.d574.s0.p0" e1="DDI-DrugBank.d574.s0.e0"
+            e2="DDI-DrugBank.d574.s0.e1" ddi="false"/>
+        <pair id="DDI-DrugBank.d574.s0.p1" e1="DDI-DrugBank.d574.s0.e0"
+            e2="DDI-DrugBank.d574.s0.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d574.s0.p2" e1="DDI-DrugBank.d574.s0.e0"
+            e2="DDI-DrugBank.d574.s0.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d574.s0.p3" e1="DDI-DrugBank.d574.s0.e1"
+            e2="DDI-DrugBank.d574.s0.e2" ddi="false"/>
+        <pair id="DDI-DrugBank.d574.s0.p4" e1="DDI-DrugBank.d574.s0.e1"
+            e2="DDI-DrugBank.d574.s0.e3" ddi="false"/>
+        <pair id="DDI-DrugBank.d574.s0.p5" e1="DDI-DrugBank.d574.s0.e2"
+            e2="DDI-DrugBank.d574.s0.e3" ddi="false"/>
+    </sentence>
+</document>

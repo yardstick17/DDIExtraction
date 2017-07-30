@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="DDI-DrugBank.d692">
+    <sentence id="DDI-DrugBank.d692.s0" text="Drug-drug interaction studies have not been conducted with VIGAMOX    solution. ">
+        <entity id="DDI-DrugBank.d692.s0.e0" charOffset="59-65"
+            type="brand" text="VIGAMOX"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d692.s1" text="In vitro studies indicate that moxifloxacin does not inhibit CYP3A4, CYP2D6, CYP2C9, CYP2C19, or CYP1A2 indicating that moxifloxacin is unlikely to alter the pharmacokinetics of drugs metabolized by these cytochrome P450 isozymes.">
+        <entity id="DDI-DrugBank.d692.s1.e0" charOffset="31-42"
+            type="drug" text="moxifloxacin"/>
+        <entity id="DDI-DrugBank.d692.s1.e1" charOffset="120-131"
+            type="drug" text="moxifloxacin"/>
+        <pair id="DDI-DrugBank.d692.s1.p0" e1="DDI-DrugBank.d692.s1.e0"
+            e2="DDI-DrugBank.d692.s1.e1" ddi="false"/>
+    </sentence>
+</document>
