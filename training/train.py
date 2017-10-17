@@ -65,7 +65,6 @@ def get_frequent_word_pair_feature(normalized_sentence):
 
 def get_syntactic_grammar_feature(sentence_text):
     from feaure_extraction.feature_vector import extract_syntactic_grammar
-
     trigrams_list = extract_syntactic_grammar(sentence_text)
     top_syntactic_grammar_list = get_top_syntactic_grammar_list()
     X = [i if j in trigrams_list else 0 for i, j in enumerate(top_syntactic_grammar_list)]
@@ -88,7 +87,6 @@ def make_feature_vector(row):
 
 def main():
     from dataset.read_dataset import get_dataset_dataframe
-
     df = get_dataset_dataframe()
     X, Y = extract_training_data_from_dataframe(df)
     from sklearn.svm import SVC
